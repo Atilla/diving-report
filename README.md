@@ -1,33 +1,14 @@
-# Global Coral Bleaching Report for Liveaboard Trip Planning (2026)
+# Global Coral Bleaching Report for Dive Trip Planning (2026)
 
-## Context
+**66 destinations. Honest assessments. No sugar-coating.**
 
-The 4th Global Mass Coral Bleaching Event (2023-2025) — the worst in recorded history — has affected **84.4% of the world's coral reef area** across 83+ countries. NOAA had to add three new alert levels (3-5) because the existing scale was insufficient. This report synthesizes scientific data, NOAA monitoring, conservation reports, and firsthand diver accounts from ScubaBoard/blogs/magazines to give an honest, destination-by-destination assessment for liveaboard trip planning.
+The 4th Global Mass Coral Bleaching Event (2023-2025) — the worst in recorded history — has affected 84.4% of the world's coral reef area. This report synthesizes scientific data, NOAA monitoring, and firsthand diver accounts to tell you what's actually worth booking.
 
-**Critical near-term concern:** NOAA forecasts 72-80% probability of El Nino emerging by late 2026, which could trigger another severe bleaching wave on reefs that have had minimal recovery time.
+> **[Ranking Table](_meta/ranking-table.md)** — Every destination ranked Tier 1 (go now) through Tier 5 (expedition only), with coral condition, marine life, season, and access at a glance.
+>
+> **[15 Strategic Takeaways](_meta/strategic-takeaways.md)** — The cross-cutting insights: which strategies are bleaching-proof, which basins are worst-hit, where the next frontier is, and what to book before it's too late.
 
----
-
-## How to use this report
-
-Each destination has its own file with:
-- **YAML frontmatter** — structured metadata (status, tier, coral rating, season, etc.) for quick querying
-- **Standardised sections** — Status, Key Dive Sites, Marine Life, Dive Conditions, Season, Practical Info, Conservation, Trip Reports
-
-Cross-cutting content lives in `_meta/`:
-- [Ranking Table](_meta/ranking-table.md) — Tier 1-5 master ranking with one-line summaries
-- [Strategic Takeaways](_meta/strategic-takeaways.md) — 15 cross-cutting insights
-- [Sources](_meta/sources.md) — Bibliography
-- [Template](_meta/template.md) — Section template for new/updated destinations
-
-## How to update
-
-See [CLAUDE.md](CLAUDE.md) for the complete wiki maintenance guide, including ingest workflows, cross-referencing conventions, and contradiction handling.
-
-Quick reference:
-1. Edit the individual destination file
-2. Update the `last_verified` field in frontmatter
-3. If the tier or status changed, update `_meta/ranking-table.md` to match
+**Near-term risk:** NOAA forecasts 72-80% probability of El Nino by late 2026, which could trigger another severe bleaching wave on reefs with minimal recovery time.
 
 ---
 
@@ -114,3 +95,13 @@ Quick reference:
 - [Scapa Flow](other/scapa-flow.md) — WWI dreadnoughts
 - [Narvik](other/narvik.md) — WWII Arctic destroyers
 - [Cape Verde](other/cape-verde.md) — Whale sharks + European access
+
+---
+
+## About This Report
+
+Each destination file contains YAML frontmatter (status, tier, coral rating, season, access) and standardised sections: Status, Key Dive Sites, Marine Life, Dive Conditions, Season, Practical Info, Conservation, Trip Reports, Related Destinations.
+
+Cross-cutting content lives in `_meta/`: [Ranking Table](_meta/ranking-table.md), [Strategic Takeaways](_meta/strategic-takeaways.md), [Sources](_meta/sources.md), [Template](_meta/template.md).
+
+**Updating:** See [CLAUDE.md](CLAUDE.md) for the wiki maintenance guide. Short version: edit the destination file, update `last_verified`, sync `_meta/ranking-table.md` if tier/status changed.
