@@ -26,7 +26,7 @@ This is a **Global Coral Bleaching Report for Dive Trip Planning (2026)**. It pr
 ## 2. File Structure & Naming
 
 ```text
-diving-report/
+diving-wiki/
 ├── CLAUDE.md                 ← this file (wiki schema & rules)
 ├── README.md                 ← main index with destination links
 ├── _meta/                    ← cross-cutting content
