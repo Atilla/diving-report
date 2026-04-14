@@ -4,7 +4,7 @@ region: Indo-Pacific
 sub_region: Maldives
 status: "Central/North severely degraded; south significantly better"
 tier: 3
-coral_rating: "Moderate (south better)"
+coral_rating: "Poor (central); Moderate (south better)"
 marine_life_rating: Excellent pelagic
 best_season: Dec-Apr (visibility); Aug-Oct (Hanifaru mantas)
 peak_months: [Jan, Feb, Mar, Aug, Sep, Oct]
@@ -15,7 +15,7 @@ water_temp_range: 27-30C
 visibility_range: 15-30m (40m+ southern atolls)
 experience_level: Advanced OW + 30-50 logged dives minimum
 last_verified: 2026-04
-bleaching_resilience: low
+bleaching_resilience: moderate
 highlights:
   - 5,000+ ID'd manta rays; Hanifaru Bay feeding aggregation (100-200+ mantas)
   - Fuvahmulah tiger sharks near-daily (>95% success rate)

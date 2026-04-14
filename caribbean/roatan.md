@@ -51,7 +51,7 @@ highlights:
 
 - **Fish**: commercial fish biomass up 40%, herbivorous fish up 30% (2024 Healthy Reefs report). First improvement in 5 years.
 - **Sharks**: record 158 sightings across the Bay Islands in 2024 (Roatan 47.5%, Utila 44.9% of reports — citizen science via ILILI Honduras). Hammerheads increasingly frequent (16.4% of sightings). Honduras is a 92,000 sq mi shark sanctuary since 2011.
-- **Whale sharks**: appeared near Roatan late Dec 2024 for first time in years. Utila more reliable (Dec-Mar season).
+- **Whale sharks**: appeared near Roatan late Dec 2024 for first time in years. Utila more reliable (Dec–Mar aggregation).
 - **Turtles**: hawksbill and green on virtually every dive. Consistent across all reports.
 - **Macro**: seahorses (increasing due to protection), octopus, nudibranchs — CoCo View area excellent.
 
@@ -76,7 +76,7 @@ highlights:
 - **Temperature:** 24–29C. Coolest Jan–Apr (~24–27C), warmest Jun–Oct (~27–29C). 3mm sufficient year-round.
 - **Best:** Mar–Sep (driest weather, calmest seas). Peak Apr–Jun — warm water, calm, excellent visibility (30m+).
 - **Wet season:** Oct–Feb, rainier but still diveable most days. Visibility can drop to 15–20m after heavy rain.
-- **Whale sharks:** sporadic year-round, most reported Feb–Apr and Jul. Not reliable enough to plan around.
+- **Whale sharks:** sporadic year-round, most reported Dec–Apr (Utila has a more reliable Dec–Mar aggregation; Roatan sightings typically peak Feb–Apr); occasional Jul sightings. Not reliable enough to plan a Roatan-specific trip around.
 - **Sharks:** record sightings in 2024; no clear seasonal peak reported — appears year-round and improving.
 - **Hurricane risk:** Moderate. Sep–Oct highest risk. Hurricane Eta (2020) and Mitch (1998) caused significant damage. Travel insurance with hurricane coverage advisable for fall bookings.
 

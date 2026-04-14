@@ -129,7 +129,7 @@ Day-trip based from Pacific Harbour.
 ## Season
 
 - **Temperature:** 25-29C. Cooler dry season (~25-27C Jun-Sep), warmer wet season (~28-30C Nov-Mar). 3mm year-round; 5mm for cooler season deep dives.
-- **Best season**: Year-round, but peak May-October (dry season / Fijian winter). Calmer seas, cooler water, best visibility.
+- **Best season**: May–Oct (dry season / Fijian winter), with June–September as the prime window. Calmer seas, cooler water, best visibility.
 - **Mantas at Kadavu:** Jun-Oct peak at outer passes. Also: plankton blooms during wet season (Nov-Apr) can attract mantas to Namena — a secondary, less predictable window.
 - **Soft coral display:** best when current is running and polyps feeding. Nutrient-rich dry-season currents produce the most spectacular soft coral — counterintuitively, cooler months = better color.
 - **Grouper spawning:** Namena Marine Reserve during new moon periods (year-round but most documented Jun-Jul). Attracts grey reef sharks in higher numbers.

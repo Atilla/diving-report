@@ -3,7 +3,7 @@ destination: Oman
 region: Indian Ocean
 sub_region: Oman
 status: "HIDDEN GEM — naturally protected; upwelling held during 2024 — but NOT VIABLE as of April 2026 due to Iran-US conflict"
-tier: 2
+tier: ~
 coral_rating: "Good (40-70% at Daymaniyat)"
 marine_life_rating: "Good"
 best_season: Oct-Mar

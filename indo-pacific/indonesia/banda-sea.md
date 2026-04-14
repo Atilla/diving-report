@@ -80,7 +80,7 @@ Extended itineraries push south toward these remote atolls. Pristine, rarely div
 
 ## Season
 
-- **Window**: Late September through mid-November only — the inter-monsoon transition. Outside this window, strong monsoon winds produce rough seas that make the long open-water transits unsafe. October is generally the peak month, balancing calm conditions with peak pelagic activity.
+- **Window**: Late September through mid-November only — the inter-monsoon transition. Outside this window, strong monsoon winds produce rough seas that make the long open-water transits unsafe. October is generally the peak month, balancing calm conditions with peak pelagic activity. September is included for general access but hammerhead encounters at Suanggi peak October–November.
 
 ## Practical Info
 

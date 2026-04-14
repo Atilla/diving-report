@@ -26,7 +26,7 @@ highlights:
 
 ## Status
 
-- Severely bleached in summer 2024. A ScubaBoard trip report (Aug 2024, Red Sea Aggressor IV) described Daedalus as "maybe every 200th coral is NOT bleached." A Dec 2024 report called Brothers/Daedalus/Elphinstone reefs "largely dead."
+- Severely bleached in summer 2024. A ScubaBoard trip report (Aug 2024, Red Sea Aggressor IV) described Daedalus as "maybe every 200th coral is NOT bleached." A Dec 2024 report called Brothers/Daedalus/Elphinstone reefs "largely dead." This assessment applied primarily to Brothers and Daedalus hard coral; Elphinstone, especially its soft-coral wall, was consistently reported as the circuit's healthiest site.
 - HEPCA documented 70-85% recovery rates for surviving bleached corals, but many colonies died outright.
 - **Offshore temperature advantage:** Brothers and Daedalus recorded water temps of 25–26°C during the 2023–2024 bleaching period — cooler than southern coastal sites (which reached 35°C). This explains their relative preservation vs. the devastation at Marsa Alam/Fury Shoals.
 - **Zabargad Island:** Approximately 33% bleached (November 2023), progressing to roughly two-thirds dead by October 2025 — a site to monitor closely.

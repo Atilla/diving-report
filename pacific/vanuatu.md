@@ -6,8 +6,8 @@ status: "Wreck diving world-class (President Coolidge); reef diving secondary"
 tier: 3
 coral_rating: "Moderate"
 marine_life_rating: "Good"
-best_season: "Year-round (best April-October)"
-peak_months: [Apr, May, Jun, Jul, Aug, Sep, Oct]
+best_season: "Year-round (best May-October)"
+peak_months: [May, Jun, Jul, Aug, Sep, Oct]
 access: "Fly Port Vila, domestic to Santo"
 liveaboard: false
 liveaboard_season: ~

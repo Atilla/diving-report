@@ -73,7 +73,7 @@ Current-swept walls and pinnacles with hammerhead sharks (seasonal), mobula rays
 
 ## Trip Reports
 
-- **Oct 2025 (Jun–Jul visit):** "Korallen sehen aus wie Gemälde" (corals look like paintings) — exceptional pristine condition, no bleaching. Comprehensive marine life including dwarf seahorses, rhinopias, hammerheads, silvertips, nurse sharks, manta rays, mobulas, blue whale, and abundant macro fauna.
+- **Jun–Jul 2025:** "Korallen sehen aus wie Gemälde" (corals look like paintings) — exceptional pristine condition, no bleaching. Comprehensive marine life including dwarf seahorses, rhinopias, hammerheads, silvertips, nurse sharks, manta rays, mobulas, blue whale, and abundant macro fauna.
 
 ## Related Destinations
 

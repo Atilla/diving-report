@@ -6,8 +6,8 @@ status: "DEGRADED REEF (18% coral cover) — but unique volcanic topography, wor
 tier: 3
 coral_rating: "Poor (18% cover)"
 marine_life_rating: "Good (whales Jun-Oct)"
-best_season: Jun-Nov (whale season)
-peak_months: [Jun, Jul, Aug, Sep, Oct, Nov]
+best_season: Jun-Oct (whale season)
+peak_months: [Jun, Jul, Aug, Sep, Oct]
 access: Fly Reunion via Paris
 liveaboard: false
 liveaboard_season: ~

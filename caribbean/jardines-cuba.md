@@ -3,7 +3,7 @@ destination: Jardines de la Reina
 region: Caribbean
 sub_region: Cuba
 status: "SEVERELY DEGRADED reef + EFFECTIVELY INACCESSIBLE due to geopolitical crisis"
-tier: 3
+tier: ~
 coral_rating: "Very Poor (<5% cover)"
 marine_life_rating: "Exceptional sharks"
 best_season: Nov-Apr

@@ -101,8 +101,8 @@ highlights:
 
 | Period | Conditions | Highlights |
 |---|---|---|
-| **Jan–May (warm/wet)** | 20–26C, warmer water, calmer seas, afternoon rain showers, slightly lower viz | Hammerheads present, manta rays active, sea lions pupping (Jul–Nov actually), green turtles nesting, best conditions for central islands diving |
-| **Jun–Nov (cool/dry)** | 15–22C, cold and nutrient-rich, choppier seas, better viz at Darwin/Wolf | **Peak season for Darwin/Wolf**: whale sharks, largest hammerhead schools, mola mola, humpback whale transits (Jun–Sep), penguins most active, marine iguanas foraging |
+| **Jan–May (warm/wet)** | 20–26C, warmer water, calmer seas, afternoon rain showers, slightly lower viz | Hammerheads present, manta rays active, green turtles nesting, best conditions for central islands diving |
+| **Jun–Nov (cool/dry)** | 15–22C, cold and nutrient-rich, choppier seas, better viz at Darwin/Wolf | **Peak season for Darwin/Wolf**: whale sharks, largest hammerhead schools, mola mola, humpback whale transits (Jul–Oct), sea lions pupping (Jul–Nov), penguins most active, marine iguanas foraging |
 
 Jun–Nov is considered the premier season for Darwin/Wolf liveaboards despite the cold. Jan–May offers warmer, calmer conditions better suited to central islands day-trip diving.
 

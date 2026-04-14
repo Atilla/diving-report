@@ -26,6 +26,8 @@ highlights:
 
 ## Status
 
+**World-class for sharks — the third point of the Hammerhead Triangle, with scalloped hammerheads year-round despite documented population decline.**
+
 - A barren volcanic rock 310 miles (500 km) off Colombia's Pacific coast. UNESCO World Heritage Site. No permanent human habitation — only a Colombian military outpost. One of the most remote and strictly regulated dive destinations in the world.
 - **The shark capital:** on any given dive, 200–300 scalloped hammerheads and hundreds of silky sharks. "Shark tornadoes" — swirling masses of hammerheads — are the signature spectacle. Also: Galapagos sharks (resident, approach divers closely), whitetip and blacktip reef sharks, eagle rays, tiger sharks (increasingly common in recent reports), whale sharks (May–Nov), and the rare **smalltooth sand tiger shark** at Bajo del Monstruo (one of very few places globally with reasonable sighting chances, occasionally as shallow as 21m in winter).
 - **Coral is not the draw.** Reefs are small and not diverse, but have survived El Nino bleaching events (1983–84, 1997–98) that devastated Galapagos and Cocos reefs — natural resilience from the island's oceanic isolation.

@@ -6,8 +6,8 @@ status: "MODERATE CORAL — but cold upwelling buffers bleaching; world-class ma
 tier: 3
 coral_rating: "Moderate (upwelling buffers bleaching)"
 marine_life_rating: "Very Good (mola, mantas year-round)"
-best_season: "Jul-Oct (mola); year-round (mantas)"
-peak_months: [Jul, Aug, Sep, Oct]
+best_season: "Aug-Oct (mola); year-round (mantas)"
+peak_months: [Aug, Sep, Oct]
 access: Fast boat from Sanur, Bali (30-45min)
 liveaboard: false
 liveaboard_season: ~

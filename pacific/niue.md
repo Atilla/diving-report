@@ -12,7 +12,7 @@ access: "Fly Auckland (2x weekly)"
 liveaboard: false
 liveaboard_season: ~
 water_temp_range: "23-29C"
-visibility_range: "30-100m"
+visibility_range: "30-80m (exceptional 100m+ reported)"
 experience_level: "Various (limited operator capacity)"
 last_verified: 2026-04
 bleaching_resilience: high

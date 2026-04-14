@@ -68,7 +68,7 @@ Cenderawasih Bay (Teluk Cenderawasih), further north in West Papua, is Indonesia
 
 - **Triton Bay:** Oct–Apr (some operators extend into May or start in Sep). Monsoon winds close access Jun–Aug.
 - **Cenderawasih Bay:** whale sharks year-round at bagans, but **best access May–Oct** (calmer seas, peak whale shark numbers). Liveaboard schedules concentrate here May–Oct.
-- **The two destinations have opposite peak windows** — Triton Bay is Oct–Apr, Cenderawasih is May–Oct. Combined itineraries work best in the overlap months: **Sep–Oct** (end of Cenderawasih season, start of Triton) or **Apr–May** (end of Triton, start of Cenderawasih).
+- **The two destinations have opposite peak windows** — Triton Bay is Oct–Apr, Cenderawasih is May–Oct. Combined itineraries work best in the overlap months: **Sep–Oct** (end of peak Cenderawasih whale shark season, start of Triton) or **Apr–May** (end of Triton, start of Cenderawasih).
 - **Soft corals (Triton Bay):** not seasonal — the nutrient-rich waters sustain them year-round within the dive season.
 - **Whale sharks at Triton Bay:** present at bagans but more incidental than Cenderawasih; no specific peak month documented.
 - **Temperature:** 27–29C surface at both. Cold thermoclines possible at depth in Triton Bay from upwelling.

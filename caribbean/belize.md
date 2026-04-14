@@ -2,7 +2,7 @@
 destination: Belize
 region: Caribbean
 sub_region: Belize
-status: "OVERALL POOR — but atolls significantly better than average"
+status: "MIXED — coastal reefs poor; atolls fair to good"
 tier: 3
 coral_rating: "Poor-Moderate"
 marine_life_rating: "Good"
@@ -26,7 +26,7 @@ highlights:
 
 ## Status
 
-**OVERALL POOR — but atolls significantly better than average**
+**MIXED — coastal reefs poor; atolls fair to good**
 
 - 2023 was the worst bleaching Belize has experienced. 2024 Mesoamerican Reef Report Card: overall "poor" (2.5/5), ~15-17% coral cover. But this average hides real variation: **four of six reef complexes scored "fair" (2.8-3.3)**, only two scored "poor." Reef Health Index improved for the first time in five years.
 - 2024 described as "the worst bleaching event since recording began around 2008" by restoration experts.

@@ -4,7 +4,7 @@ region: Pacific
 sub_region: ~
 status: "Good — pristine reefs, WWII wrecks, genuinely uncrowded"
 tier: 2
-coral_rating: "Good"
+coral_rating: "Excellent"
 marine_life_rating: "Very Good"
 best_season: "March-December (best October-December)"
 peak_months: [Oct, Nov, Dec]
