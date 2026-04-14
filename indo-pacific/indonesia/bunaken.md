@@ -131,5 +131,5 @@ Available from Siladen and other resorts. Night dives in open water with lights 
 
 - [Lembeh](lembeh.md) — combine for wall + muck; opposite direction from Manado
 - [Halmahera](halmahera.md) — nearby; fly via Manado
-- [Raja Ampat](raja-ampat.md) — fly Manado → Sorong for Indonesia's premier liveaboard destination
+- [Raja Ampat](raja-ampat.md) — fly Manado → Sorong for Indonesia's premier dive destination
 - [Togean Islands](togean-islands.md) — remote Central Sulawesi expedition extension

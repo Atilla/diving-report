@@ -29,8 +29,8 @@ highlights:
 **EXCELLENT**
 
 - Remote, deep-water environment with cold upwelling. No specific mass bleaching reports from 2024.
-- One of Indonesia's most pristine liveaboard circuits. Season: September-November only.
-- A semi-enclosed sea reaching over 7,000m depth, with cold nutrient-rich upwelling that supports unusual biomass for a tropical region. This is expedition-grade liveaboard diving.
+- One of Indonesia's most pristine dive regions. Season: September-November only.
+- A semi-enclosed sea reaching over 7,000m depth, with cold nutrient-rich upwelling that supports unusual biomass for a tropical region. Expedition-grade diving accessed by liveaboard.
 
 ## Key Dive Sites
 

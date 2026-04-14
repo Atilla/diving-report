@@ -71,7 +71,7 @@ Very limited dive infrastructure. A niche option for adventurous divers.
 
 - **Visibility**: 12-35m depending on season and site. Best winter/dry season; worst after cyclone-season rains.
 - **Temperature:** 22–28C. Coolest Jul–Aug (~22–24C), warmest Feb–Mar (~27–28C). 3mm warm season; 5mm recommended Jun–Sep.
-- **No liveaboard industry.** The continuous fringing reef doesn't reward multi-day boat exploration — most sites reachable from 2-3 shore bases. All diving is shore-based from ~50 dive centers concentrated on the west and north coasts.
+- **Diving format**: Shore-based from ~50 dive centers concentrated on the west and north coasts. Most sites reachable from 2-3 bases.
 - **Mauritius is a combined holiday + diving destination, not a dedicated dive trip.** An experienced diver would choose Seychelles outer islands, Pemba, or the Maldives over Mauritius for underwater quality alone.
 
 ## Season
@@ -85,7 +85,7 @@ Very limited dive infrastructure. A niche option for adventurous divers.
 
 - **Access**: Fly to Sir Seewoosagur Ramgoolam International Airport (MRU). Direct flights from Europe, Dubai, and regional hubs.
 - **Operators**: ~50 dive centers on the west and north coasts.
-- **No liveaboard industry.** Shore-based diving only.
+- **Diving format**: Shore-based diving from established dive centers.
 
 ## Related Destinations
 

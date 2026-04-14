@@ -17,7 +17,7 @@ experience_level: ~
 last_verified: 2026-04
 bleaching_resilience: ~
 highlights:
-  - "Liveaboard operations suspended due to civil war"
+  - "All dive operations suspended due to civil war"
   - "39-year monitoring at Sanganeb showed reef accretion rates collapsed by >80%"
   - "Near-certain severe bleaching in 2023-2024 based on regional sea surface temperature data"
 ---
@@ -26,7 +26,7 @@ highlights:
 
 ## Status
 
-Liveaboard operations suspended. Even before the war, 39-year monitoring at Sanganeb showed reef accretion rates collapsed by >80%. Near-certain severe bleaching in 2023-2024 based on regional sea surface temperature data. Not viable for trip planning.
+All dive operations suspended due to civil war. Even before the war, 39-year monitoring at Sanganeb showed reef accretion rates collapsed by >80%. Near-certain severe bleaching in 2023-2024 based on regional sea surface temperature data. Not viable for trip planning.
 
 ## Related Destinations
 

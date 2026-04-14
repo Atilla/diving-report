@@ -79,7 +79,7 @@ Identified as potential climate refugium — subtropical position (23-25S) means
 
 ## Practical Info
 
-- **No established liveaboard operations.** Occasional expedition vessels offer seasonal trips. This is fundamentally a shore-based destination.
+- **Diving format**: Shore-based operations. Occasional expedition vessels offer seasonal trips.
 - **Safety concern**: no functioning hyperbaric chamber on Nosy Be or in northern Madagascar. Nearest in Reunion Island. Medevac insurance essential.
 - **Access**: Fly to Nosy Be via Antananarivo.
 

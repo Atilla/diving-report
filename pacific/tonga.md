@@ -34,7 +34,7 @@ highlights:
 ## Practical Info
 
 - **Access**: Fly to Tongatapu (Nuku'alofa) then domestic flight to Vava'u (~1 hour) or Ha'apai. International flights from Auckland, Sydney, Fiji.
-- **Operators**: Deep Blue Diving (Vava'u — whale swims + reef diving), Whale Discoveries (dedicated whale-swim operator), Beluga Diving (Ha'apai). No true liveaboard operation.
+- **Operators**: Deep Blue Diving (Vava'u — whale swims + reef diving), Whale Discoveries (dedicated whale-swim operator), Beluga Diving (Ha'apai). Resort-based and day-boat diving.
 - **Costs**: Whale swim day trips ~USD $250–350/person. Reef diving $100–150 for 2-tank. Accommodation from budget ($40/night) to mid-range ($150–300/night).
 - **Season**: **July–October** for whales (peak Aug–Sep). Reef diving year-round, best May–November.
 - **Temperature:** 23–28C. Coolest Jul–Sep (~23–25C), warmest Jan–Mar (~27–28C). 3mm for warm season; 5mm recommended during whale season (cooler water).

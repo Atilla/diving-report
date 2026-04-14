@@ -28,13 +28,13 @@ highlights:
 
 - First back-to-back bleaching 2023-2024. Inner reefs near Viti Levu (Mamanucas, Yasawas) took the worst hit; outer reef systems retained good-to-excellent cover.
 - Fiji is marketed as the "soft coral capital of the world" — this is broadly accurate. Nutrient-rich tidal currents flowing through narrow passages feed dense soft coral growth (Dendronephthya, Sinularia, Sarcophyton). Soft corals are more bleaching-resistant than hard corals, which is why Fiji's signature reef scenery has held up better than many Indo-Pacific destinations.
-- **For liveaboard: target outer reef systems** (Bligh Water, Namena, Taveuni/Rainbow Reef, Kadavu/Great Astrolabe Reef).
+- **Best diving is on outer reef systems** (Bligh Water, Namena, Taveuni/Rainbow Reef, Kadavu/Great Astrolabe Reef).
 
 ## Key Dive Sites
 
 ### Bligh Water (Central Fiji, Between Viti Levu and Vanua Levu)
 
-The core liveaboard circuit.
+The core dive circuit for multi-day trips.
 
 #### E-6
 
@@ -102,7 +102,7 @@ Inner lagoon sites offer shallower reef gardens with turtle encounters and macro
 
 ### Beqa Lagoon (South of Viti Levu)
 
-Primarily a day-trip from Pacific Harbour, not a standard liveaboard stop.
+Day-trip based from Pacific Harbour.
 
 #### Shark Reef Marine Reserve
 
@@ -112,7 +112,7 @@ Primarily a day-trip from Pacific Harbour, not a standard liveaboard stop.
 
 - **Soft corals**: The defining feature. Fiji's narrow passages and strong tidal flows deliver nutrients that sustain soft coral density unmatched outside perhaps parts of Raja Ampat. Colors are most vibrant with current flowing and polyps feeding — not in slack water.
 - **Reef sharks**: Grey reef sharks (Nigali Passage, E-6, Namena), whitetip reef sharks (widespread, resting under ledges throughout Bligh Water and Taveuni), blacktip reef sharks (shallows).
-- **Bull sharks**: Beqa Lagoon shark feed — see above. Not encountered on standard liveaboard circuits.
+- **Bull sharks**: Beqa Lagoon shark feed — see above. Beqa is a separate day-trip from the outer reef dive areas.
 - **Manta rays**: Reef mantas at Kadavu outer passes and Namena (Jun-Oct peak). Not as reliable as Komodo or Raja Ampat but encounters occur on multi-day itineraries.
 - **Hammerheads**: Occasional sightings in blue water at E-6 and Nigali Passage, not reliable. Scalloped hammerheads.
 - **Turtles**: Hawksbill and green turtles common across all regions. Nesting beaches on smaller islands.
@@ -129,7 +129,7 @@ Primarily a day-trip from Pacific Harbour, not a standard liveaboard stop.
 ## Season
 
 - **Temperature:** 25-29C. Cooler dry season (~25-27C Jun-Sep), warmer wet season (~28-30C Nov-Mar). 3mm year-round; 5mm for cooler season deep dives.
-- **Liveaboard season**: Year-round, but peak May-October (dry season / Fijian winter). Calmer seas, cooler water, best visibility.
+- **Best season**: Year-round, but peak May-October (dry season / Fijian winter). Calmer seas, cooler water, best visibility.
 - **Mantas at Kadavu:** Jun-Oct peak at outer passes. Also: plankton blooms during wet season (Nov-Apr) can attract mantas to Namena — a secondary, less predictable window.
 - **Soft coral display:** best when current is running and polyps feeding. Nutrient-rich dry-season currents produce the most spectacular soft coral — counterintuitively, cooler months = better color.
 - **Grouper spawning:** Namena Marine Reserve during new moon periods (year-round but most documented Jun-Jul). Attracts grey reef sharks in higher numbers.

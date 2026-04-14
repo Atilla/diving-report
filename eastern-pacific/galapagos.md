@@ -57,7 +57,7 @@ highlights:
 
 #### Gordon Rocks
 
-10–35m. Submerged volcanic crater ~1 hour by boat from Puerto Ayora. The best hammerhead site accessible without a liveaboard — schools of 20–50+ frequently seen at depth along the crater wall. Strong currents, surge, and downcurrents make this a genuinely advanced dive. Also: eagle rays, sea turtles, sea lions, occasional mola mola.
+10–35m. Submerged volcanic crater ~1 hour by day boat from Puerto Ayora. The best hammerhead site in the central islands — schools of 20–50+ frequently seen at depth along the crater wall. Strong currents, surge, and downcurrents make this a genuinely advanced dive. Also: eagle rays, sea turtles, sea lions, occasional mola mola.
 
 #### Cabo Marshall (Isabela)
 
@@ -112,7 +112,7 @@ Jun–Nov is considered the premier season for Darwin/Wolf liveaboards despite t
 - **The critical distinction**: Darwin and Wolf islands are accessible only by liveaboard — they are 12–16 hours by boat from the central islands. Liveaboard itineraries are 7–8 days. Central islands diving (Gordon Rocks, Cabo Marshall, North Seymour, Cousin's Rock) is available as day trips from Puerto Ayora (Santa Cruz) or Puerto Villamil (Isabela), and can be combined with a land-based Galapagos trip.
 - **Liveaboard operators**: Galapagos Aggressor III, Galapagos Master, Humboldt Explorer, Galapagos Sky, Tiburon Explorer, Calipso. Fleet limited by national park permits — book 6–12 months in advance for peak season.
 - **Cost**: Liveaboards USD $5,000–$8,000+ per person (7–8 days), plus park fees, flights, Quito/Guayaquil hotels. Day-trip diving from Santa Cruz: $150–$250 per two-tank trip. Total all-in for a liveaboard trip: $7,000–$12,000.
-- **San Cristobal for land-based divers**: Dive sites are 10–30 minutes by boat from the harbor, the airport is walkable from town (no expensive Baltra transfer), and excellent free snorkeling at Tijeretas. The best base for budget-conscious divers who cannot afford a liveaboard.
+- **San Cristobal as a base**: Dive sites are 10–30 minutes by boat from the harbor, the airport is walkable from town (no expensive Baltra transfer), and excellent free snorkeling at Tijeretas. The most convenient base for day-boat diving in the central islands.
 - **Inter-island transport**: Speedboats between Santa Cruz, Isabela, and San Cristobal run $30–35 each way, ~2 hours. Bumpy ride — seasickness medication recommended.
 - **Experience requirements**: Liveaboards typically require Advanced Open Water + 50 logged dives minimum. For Darwin/Wolf realistically: 100+ dives with current experience strongly recommended. Gordon Rocks: advanced certification and current experience required (operators sometimes refuse divers they judge unready). Central islands sites like North Seymour are accessible to confident Open Water divers.
 - **Recompression chamber**: Located at the Ecuadorian Navy base on Santa Cruz. DAN or equivalent dive insurance essential.

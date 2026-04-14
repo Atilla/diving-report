@@ -2,7 +2,7 @@
 destination: Tanzania (Zanzibar, Mafia, Pemba)
 region: Indian Ocean
 sub_region: Tanzania
-status: "UNDERRATED — diverse reef systems, no liveaboard infrastructure yet"
+status: "UNDERRATED — diverse reef systems with resort and lodge-based diving"
 tier: 3
 coral_rating: "Good (Chumbe 50-70%)"
 marine_life_rating: "Very Good"
@@ -26,7 +26,7 @@ highlights:
 
 ## Status
 
-**UNDERRATED — diverse reef systems, no liveaboard infrastructure yet**
+**UNDERRATED — diverse reef systems with resort and lodge-based diving**
 
 - ~3,580 km2 of coral reef. Dynamite fishing — historically devastating — has been dramatically reduced through enforcement since 2014-2018, a genuine conservation success. Legacy blast craters remain on mainland reefs.
 - 2024 bleaching likely significant (WIO-wide elevated SSTs), but deeper sites and current-swept walls (Pemba Channel) may have fared better. Detailed post-event data not yet published.
@@ -79,14 +79,14 @@ Tanzania's oldest marine park (1995). Whale shark aggregation Oct-Mar (peak Nov-
 
 ## Season
 
-- **No liveaboard industry exists** — a genuine gap in the market. A Pemba-Zanzibar-Mafia circuit would be compelling. Currently resort/lodge-based diving only.
+- **Diving format**: Resort and lodge-based diving. A Pemba-Zanzibar-Mafia multi-stop itinerary is a compelling option.
 - **Unique selling point**: safari + diving combination that no other Indian Ocean destination can match.
 - Best overall season Oct-Mar (NE monsoon — calmer seas, warmer water, whale shark season).
 
 ## Practical Info
 
 - **Access**: Fly to Zanzibar (ZNZ) or Dar es Salaam (DAR). Domestic connections to Pemba and Mafia.
-- **No liveaboard industry** — resort/lodge-based diving only.
+- **Diving format**: Resort and lodge-based diving.
 - **Safari combo**: Unmatched combination of world-class diving and East African safari.
 
 ## Related Destinations

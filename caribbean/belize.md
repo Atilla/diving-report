@@ -40,7 +40,7 @@ Described as **"one of the best developed and healthiest reefs in the Caribbean.
 - ScubaBoard April 2025 (liveaboard): *"Reefs were in very good condition, colorful, interesting formations."* Half Moon Caye rated "great" across 3 dives, The Aquarium called "spectacular." Reef sharks on almost every dive, eagle rays, turtles, large groupers.
 - ScubaBoard Feb-March 2024: *"Stunning sponges and coral from 20-80 feet"* — less bleaching than seen in Cozumel.
 - Wall dives (Half Moon Caye Wall, Painted Wall, Long Caye Wall, Angelfish Wall) consistently highlighted as impressive.
-- **This is the strongest area for a liveaboard dive trip in Belize right now.**
+- **The strongest reef diving in Belize right now.**
 
 ### Turneffe Atoll — mixed but resilient
 

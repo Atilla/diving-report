@@ -136,7 +136,7 @@ highlights:
 
 ## Related Destinations
 
-- [Raja Ampat](raja-ampat.md) — Indonesia's other top-tier liveaboard destination
+- [Raja Ampat](raja-ampat.md) — Indonesia's other top-tier dive destination
 - [Nusa Penida](nusa-penida.md) — nearby; mola mola + mantas
 - [Alor](alor.md) — eastern extension on longer itineraries
 - [Banda Sea](banda-sea.md) — expedition extension via Lesser Sundas

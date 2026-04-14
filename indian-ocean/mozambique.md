@@ -56,7 +56,7 @@ Highest recorded coral diversity outside the Coral Triangle (180+ coral species,
 
 Mozambique's shark diving capital — 19 shark species including bull sharks (Oct-Mar), tiger sharks, hammerheads. Subtropical reefs healthy year-round. Most accessible area (3.5hr drive from Maputo).
 
-- **No meaningful liveaboard infrastructure.** Fundamentally a shore/lodge-based diving destination.
+- **Diving format**: Shore and lodge-based diving throughout.
 
 ## Marine Life
 

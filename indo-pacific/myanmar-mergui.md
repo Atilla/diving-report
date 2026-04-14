@@ -66,7 +66,7 @@ Submerged seamounts famous for silvertip sharks. Trip reports 2023-2025 are mixe
 
 ## Season
 
-- **Liveaboard season:** Nov-Apr only (SW monsoon closes operations May-Oct — rough seas, poor visibility, unsafe transits to outer sites).
+- **Dive season:** Nov-Apr only (SW monsoon closes operations May-Oct — rough seas, poor visibility, unsafe transits to outer sites).
 - **Best:** Feb-Apr. Warmest water, calmest seas, best visibility (20-40m). Plankton blooms Feb-mid-Apr reduce viz to 10-15m at some sites but increase whale shark and manta probability.
 - **Early season (Nov-Dec):** cooler water, excellent visibility, fewer boats. Good conditions but slightly lower pelagic activity.
 - **Mantas at Black Rock:** Feb-Apr peak.

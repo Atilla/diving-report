@@ -119,7 +119,7 @@ The snorkeling scene at Manta Bay is more chaotic — overcrowded sites, unlicen
 - **Costs:** ~$80–150 for a 2-dive day trip with equipment from a reputable operator. Significantly cheaper than comparable Indonesian destinations.
 - **Recompression chamber:** Sanglah Hospital, Denpasar (Bali) — ~1.5 hours from Nusa Penida by fast boat + road. Not ideal; reinforces the importance of conservative diving here.
 - **Experience level:** intermediate to advanced for Penida's signature sites (Crystal Bay, Manta Point, drift dives). Lembongan's sheltered sites accessible to Open Water divers.
-- **No liveaboards.** Day-boat based from island resorts or Bali.
+- **Day-boat diving** from island resorts or Bali.
 
 ### Operators (quality varies dramatically)
 

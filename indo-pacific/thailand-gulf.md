@@ -84,5 +84,5 @@ Deeper pinnacle site that weathered 2024 better than shallow reefs.
 
 ## Related Destinations
 
-- [Thailand — Andaman North](thailand-andaman-north.md) — Thailand's premier liveaboard coast
+- [Thailand — Andaman North](thailand-andaman-north.md) — Thailand's premier dive coast
 - [Thailand — Andaman South](thailand-andaman-south.md) — Thailand's healthiest reefs

@@ -17,7 +17,7 @@ experience_level: Advanced OW+ (most sites); Open Water (Dinah's Beach muck)
 last_verified: 2026-04
 bleaching_resilience: high
 highlights:
-  - Kimbe Bay — 413 hard coral species on volcanic seamounts; one of the best-value liveaboard destinations
+  - Kimbe Bay — 413 hard coral species on volcanic seamounts; outstanding value and uncrowded
   - Dinah's Beach (Milne Bay) — world-class muck diving rivaling Lembeh Strait
   - Eastern Fields — pristine walls, large shark populations, virtually zero other divers
 ---
@@ -28,7 +28,7 @@ highlights:
 
 - Hit by 2024 event (Alert Level 3) but from an exceptional baseline. Low human pressure = faster recovery.
 - Kimbe Bay: 413 species of hard coral (over half all known world species). Geographic isolation and low tourist pressure are protective.
-- **One of the best-value, least-crowded, most biodiverse liveaboard destinations.** Narrow seasonal windows.
+- **One of the best-value, least-crowded, most biodiverse dive destinations in the Indo-Pacific.** Narrow seasonal windows.
 
 ## Key Dive Sites
 
@@ -82,7 +82,7 @@ WWII wrecks and reef sites around the former colonial island. Soft coral gardens
 
 Pristine hard coral walls, turtles and reef sharks.
 
-### Other Liveaboard Areas
+### Other Areas
 
 #### Eastern Fields
 

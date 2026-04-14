@@ -75,7 +75,7 @@ Save Our Seas Foundation research station. Manta cleaning stations. Shark nurser
 
 ## Season
 
-- **Best liveaboard windows:** Mar–May and Oct–Nov (inter-monsoon calm, best visibility, flattest seas). These are the only practical windows for outer atoll expeditions.
+- **Best diving windows:** Mar–May and Oct–Nov (inter-monsoon calm, best visibility, flattest seas). These are the only practical windows for outer atoll expeditions.
 - **Whale sharks (inner islands):** Aug–Nov around Mahe. Snorkel/freedive encounters.
 - **Mantas:** present at D'Arros/St. Joseph and Aldabra year-round at cleaning stations; no documented seasonal peak — encounters are reliable whenever access is possible.
 - **Sharks (outer atolls):** year-round residents at Cosmoledo/Aldabra/Astove — not seasonal. Access is the limiting factor, not timing.

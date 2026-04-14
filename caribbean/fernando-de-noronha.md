@@ -62,9 +62,8 @@ highlights:
 
 ## Practical Info
 
-- **Operators**: Aguas Claras, Noronha Divers. No liveaboard options.
+- **Operators**: Aguas Claras, Noronha Divers. All diving is day-boat based.
 - **Access**: Flights from Recife (1h15m) or Natal (1h). Book well in advance.
-- **Not a liveaboard destination** but worth noting for any serious Atlantic dive planning.
 
 ## Related Destinations
 

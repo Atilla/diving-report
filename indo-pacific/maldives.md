@@ -29,7 +29,7 @@ highlights:
 - 2024 was the most severe bleaching on record. Central atolls lost >40% hard coral cover (worst site: 57% loss in Ari Atoll). Branching Acropora mortality up to 93-99% at some stations.
 - **Southern atolls (Huvadhoo) show significantly greater resilience** — all major coral growth forms still well-represented in 2025.
 - Historical recovery time: 16 years between events, but events now occurring every 4-8 years.
-- **Recommendation: strongly prefer southern atoll liveaboard itineraries.** Pelagic life (sharks, mantas at Hanifaru Bay, whale sharks) remains excellent everywhere.
+- **Recommendation: strongly prefer southern atoll itineraries.** Pelagic life (sharks, mantas at Hanifaru Bay, whale sharks) remains excellent everywhere.
 
 ## Key Dive Sites
 

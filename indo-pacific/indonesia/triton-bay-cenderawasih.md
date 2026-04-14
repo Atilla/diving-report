@@ -28,7 +28,7 @@ highlights:
 
 **EXCELLENT — remote, low pressure, world-class soft coral and whale sharks**
 
-These two West Papua destinations occupy distinct niches but share a common profile: liveaboard-only, premium pricing, expedition-grade remoteness, and genuinely world-class marine life.
+These two West Papua destinations occupy distinct niches but share a common profile: expedition-grade remoteness, premium pricing, and genuinely world-class marine life. Access is via liveaboard.
 
 ## Key Dive Sites
 

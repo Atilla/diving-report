@@ -30,7 +30,7 @@ highlights:
 - **Visibility regularly 30–40m+** — among the best in the Mediterranean, due to limestone geology (no river runoff/silt) and oligotrophic central Mediterranean waters. Summer/autumn can see 40–50m.
 - **Not a coral reef destination.** The underwater topography is limestone karst — caves, arches, tunnels, walls, boulder fields. Marine life is Mediterranean-grade: groupers, barracuda schools, amberjack, moray eels, octopus, nudibranchs, seahorses in Posidonia meadows, eagle rays seasonal. Don't expect tropical abundance.
 - **English-speaking** (former British colony, official language), EU member state, modern medical facilities, easy European access. One of the best value-for-money dive destinations globally.
-- **Not a liveaboard destination** — all sites reachable as day dives from shore or short boat rides. Malta is 27km long; you can stay in one location and dive everything. Excellent shore diving access is a defining strength.
+- **Diving format**: Shore diving and short day-boat rides. Malta is 27km long; you can stay in one location and dive everything. Excellent shore diving access is a defining strength.
 
 ## Key Dive Sites
 

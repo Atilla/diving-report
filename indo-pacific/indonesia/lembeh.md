@@ -33,7 +33,7 @@ highlights:
 - The black sand muck habitat is inherently resilient to bleaching. Invertebrate and critter populations appear stable through 2025 reporting.
 - **Excellent infrastructure**: Multiple high-quality resorts — Lembeh Resort, NAD Lembeh, Hairball Resort, Two Fish Divers, Kungkungan Bay Resort. Dive guides are famously skilled — among the best critter spotters in the world.
 - Many divers combine Lembeh with **Bunaken** (wide-angle wall diving, opposite direction from Manado) for a muck + reef combo trip.
-- **Not a liveaboard destination** but essential reference for any serious diver.
+- Resort-based diving with day boats from multiple well-established operations along the strait.
 
 ## Key Dive Sites
 

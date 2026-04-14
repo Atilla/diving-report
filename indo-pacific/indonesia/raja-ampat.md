@@ -31,7 +31,7 @@ highlights:
 - First mass bleaching in central region Nov-Dec 2024. Cape Kri and Dampier Strait most affected (Alert Level 2).
 - By March-April 2025, bleaching was already reversing. July 2025 marine biologist confirmed recovery, "fish density mostly stunning."
 - The area covers 4.5 million hectares — remote outer reefs and upwelling zones barely affected.
-- **Still one of the world's two or three best liveaboard destinations.** Fish diversity unmatched globally.
+- **Still one of the world's two or three best dive destinations.** Fish diversity unmatched globally.
 
 ## Key Dive Sites
 
@@ -160,7 +160,7 @@ highlights:
 
 ## Related Destinations
 
-- [Komodo](komodo.md) — combine in a single Indonesia liveaboard trip; upwelling-protected
+- [Komodo](komodo.md) — combine on a single Indonesia trip; upwelling-protected
 - [Triton Bay / Cenderawasih](triton-bay-cenderawasih.md) — nearby; near-guaranteed whale sharks
 - [Banda Sea](banda-sea.md) — common transit route extension
 - [Wakatobi](wakatobi.md) — premium coral alternative within Indonesia

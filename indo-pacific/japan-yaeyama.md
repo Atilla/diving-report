@@ -103,7 +103,7 @@ A mysterious underwater megalithic structure — stepped terraces and geometric 
 ## Practical Info
 
 - **Access**: Direct flights to Painushima International Airport from Tokyo (3h), Osaka, Taipei, Hong Kong. Foreign visitors with international return tickets can access special domestic fares (ANA Experience / JAL Explorer Pass) making multi-island Okinawa itineraries feasible. Yonaguni reachable by ferry from Ishigaki (4h15, twice weekly Tue/Fri) or by flight
-- **Dive style**: Day-boat 3-tank dive cruises departing Ishigaki Harbour. No liveaboard operations — all land-based
+- **Dive style**: Day-boat 3-tank dive cruises departing Ishigaki Harbour. All diving is resort- and day-boat-based
 - **Operators**: **Prime Scuba** (recommended) — professional international team with fluent English. Boat (Blue Swan) has rental gear, changing area, fresh towels, and freshly prepared lunch (no plastic bento boxes). Hotel pickup included. Some local operators (e.g., Pushynushima) have larger boats capable of reaching distant sites like south Iriomote, but may require Japanese language ability
 - **Getting around**: bicycle (700-1000 yen/day for south Ishigaki), bus (1000 yen/day pass), or rental car (useful for north). Ferry to Taketomi (15 min, 1330 yen return), Iriomote (40 min), Hateruma (70 min)
 - **Costs**: no pricing details available for diving. Ishigaki is budget-friendly for Japan — meals from 700 yen, accommodation options range from hostels to the ANA Intercontinental

@@ -61,7 +61,7 @@ Reef diving around Efate (Port Vila) and Santo is decent but not the primary dra
 - **Access**: International flights to Port Vila (VLI) from Australia, New Zealand, Fiji, New Caledonia. Domestic flight to Luganville/Santo (~50 min) for the Coolidge.
 - **Operators**: Santo Island Dive (Allan Power Dive Tours legacy — the original Coolidge specialists), Aore Adventure Divers. Big Blue Vanuatu (Efate).
 - **Costs**: Coolidge dives ~USD $100–150/dive. Accommodation in Luganville budget-friendly ($50–150/night).
-- **No liveaboard scene** — resort/day-boat operations.
+- **Diving format**: Resort-based with day-boat operations.
 - **Experience level**: Coolidge recreational areas require Advanced Open Water. Deep penetration is technical-level.
 
 ## Related Destinations

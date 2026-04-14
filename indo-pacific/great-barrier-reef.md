@@ -31,7 +31,7 @@ highlights:
 - Northern Great Barrier Reef around Lizard Island: largest coral cover decline in 39 years of AIMS monitoring records (from 31.4% to 19.3%).
 - Average interval between bleaching events has been cut in half since 1980. Recovery windows are gone.
 - **Coral Sea (Osprey Reef)** fares better — remote oceanic atoll with cooler water. Still world-class for pelagic/wall diving.
-- **For liveaboard divers in 2026: no longer the best choice for coral aesthetics.** Still worthwhile for minke whales (July-Aug), Cod Hole, Coral Sea seamounts, unique marine life.
+- **No longer the best choice for coral aesthetics in 2026.** Still worthwhile for minke whales (July-Aug), Cod Hole, Coral Sea seamounts, unique marine life.
 
 ## Key Dive Sites
 

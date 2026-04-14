@@ -81,7 +81,7 @@ Small island straddling the equator. Dive sites around the islet. Equator crossi
   - **Dive Sao Tome**: operates from Pestana hotel. Positive recent reviews — well-organized and professional.
 - **Principe Island**: diving is **not currently available** from Principe-based operators. Bom Bom Island Resort offers boat excursions but no scuba operations. Diving Principe's sites requires arrangement from Sao Tome-based operators or dedicated charters.
 - **No recompression chamber in STP.** Nearest in mainland Africa or Canary Islands. Comprehensive dive insurance and evacuation coverage essential.
-- No liveaboard options.
+- **Diving format**: Shore-based dive center operations.
 - **Portuguese** is the primary language. Atlantic Diving Center offers multi-language service; others primarily Portuguese.
 - Flights via Lisbon (TAP, ~6-7 hours). Principe reached by small domestic flight from Sao Tome (~35 min, unreliable schedules).
 

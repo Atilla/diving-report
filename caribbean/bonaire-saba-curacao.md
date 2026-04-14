@@ -82,7 +82,7 @@ highlights:
 - **Costs**: Moderate by Caribbean standards. Unlimited shore-diving packages (accommodation + truck + tanks) $1,200–2,000/week. Marine park fee $45/year. Boat dives to Klein Bonaire ~$50–70 for two tanks.
 - **Recompression chamber**: San Francisco Hospital, Kralendijk.
 - **Experience level**: All levels. Self-guided format rewards good buoyancy and navigation but is not inherently difficult.
-- **Note**: Bonaire is NOT a liveaboard destination. Its reputation rests entirely on the shore-diving model — widely regarded as the best in the world.
+- **Diving style**: Shore diving — widely regarded as the best in the world. The entire experience is built around the self-guided shore-diving model described above.
 
 ## Related Destinations
 

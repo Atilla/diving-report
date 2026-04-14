@@ -17,7 +17,7 @@ experience_level: Advanced OW + 50 dives recommended (Tubbataha); Open Water (Vi
 last_verified: 2026-04
 bleaching_resilience: high
 highlights:
-  - Tubbataha — one of the world's best liveaboard destinations; strict no-take MPA
+  - Tubbataha — one of the world's best dive destinations (liveaboard-access only); strict no-take MPA
   - Malapascua Monad Shoal — only reliable daily thresher shark encounters globally
   - Eastern Visayas "super reefs" — documented climate refugia with 60% coral cover
 ---
@@ -29,7 +29,7 @@ highlights:
 - Tubbataha: moderate bleaching in shallow areas (May 2024), but not spatially extensive overall. UNESCO outlook: "good with some concerns." Remote location = fast recovery.
 - **Eastern Visayas "super reefs"** (Panaon Island): corals survived ALL recent bleaching events. Scientifically documented climate refugia (50 Reefs Study; Oceana expedition found 60% cover, 3x national average). Panaon Island Protected Seascape (61,204 hectares) signed into law August 29, 2025.
 - Bohol Sea, Palawan, Visayan Sea identified as potential climate refugia.
-- **Tubbataha remains one of the world's best liveaboard destinations.** Season: mid-March to mid-June.
+- **Tubbataha remains one of the world's best dive destinations.** Liveaboard-access only; season: mid-March to mid-June.
 - The Philippines sits at the apex of the Coral Triangle — over 500 coral species and 2,500+ reef fish species recorded.
 
 ## Key Dive Sites

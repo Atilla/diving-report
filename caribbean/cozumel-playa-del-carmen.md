@@ -134,7 +134,7 @@ Cenote diving costs $150–235 per person for a two-dive day including transport
 - **Cozumel operators**: Aldora Divers (120cf steel tanks, 70–80 minute dives, $110/2-tank), Geiser's Independent Charters (max 5–6 divers, $100–110/2-tank), Bottom Time Divers (slow pace, good for mixed groups), Blue Note Scuba (PADI 5-Star, $130/2-tank), Dive With Martin. Avoid Aquaworld.
 - **Playa operators**: Tank-Ha (direct boat to Cozumel reefs, $210/2-tank), Pluto Dive (bull sharks, cenotes), The Cenote Guy (cenote specialist), Phantom Divers, Beyond Diving.
 - **Costs**: Cozumel 2-tank boat dive $80–130 depending on operator. Night dive ~$90. Full equipment rental ~$40/day. Marine park fee ~$12/day (doubled in Jan 2025). Cenote diving from Playa $150–235/day. Bull shark dive from Playa: enquire with operators. Nitrox $10–25/tank.
-- **No liveaboards**: Marine park regulations prohibit vessels over 20m or 2m draft. All diving is day-boat or shore-based.
+- **Diving style**: Day-boat and shore-based. Marine park regulations prohibit vessels over 20m or 2m draft.
 - **Recompression chamber**: Cozumel Hyperbaric Medicine Center (SSSM) on the island. DAN insurance recommended.
 
 ## Conservation

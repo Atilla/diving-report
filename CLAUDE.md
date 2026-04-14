@@ -4,13 +4,13 @@ This file governs how this wiki is structured, updated, and maintained. It is th
 
 ## 1. Purpose & Scope
 
-This is a **Global Coral Bleaching Report for Liveaboard Trip Planning (2026)**. It provides honest, destination-by-destination assessments of diving destinations in the context of the 4th Global Mass Coral Bleaching Event (2023-2025).
+This is a **Global Coral Bleaching Report for Dive Trip Planning (2026)**. It provides honest, destination-by-destination assessments of diving destinations in the context of the 4th Global Mass Coral Bleaching Event (2023-2025).
 
-**Audience:** Divers planning liveaboard trips (and serious day-boat diving trips).
+**Audience:** Divers planning dive trips — liveaboard, resort-based, shore diving, or day-boat.
 
 **In scope:**
 
-- Liveaboard-accessible or serious-diver-relevant destinations worldwide
+- Diving destinations worldwide (liveaboard, resort-based, day-boat, shore diving)
 - Coral/reef condition with scientific grounding (NOAA, peer-reviewed research)
 - Marine life encounters and reliability
 - Practical logistics (access, operators, costs, seasons, safety)
