@@ -1,3 +1,38 @@
 # Sources
 
-Findings synthesized from NOAA Coral Reef Watch, HEPCA monitoring reports, ICRI/SHAMS alerts, CORDIO East Africa WIO bleaching reports, Marine Megafauna Foundation population studies, Seychelles Islands Foundation, Nature Seychelles Reef Rescuers, Blue Ventures Madagascar, WCS Tanzania/Mozambique, African Parks Bazaruto, Healthy Reefs Initiative Mesoamerican Report Cards, GCRMN Caribbean Report 2025, peer-reviewed studies (Nature, Science, Coral Reefs journal, Frontiers in Marine Science, Environmental Biology of Fishes, Ecology Letters, PeerJ, MDPI, Springer), conservation organizations (Perry Institute, Reef Check, Charles Darwin Foundation, Reef Renewal Foundation Bonaire, Roatan Marine Park, CORAL, Fragments of Hope, The Nature Conservancy), ScubaBoard trip reports and forum threads (2024-2026), dive operator reports, Mongabay, and various diving publications.
+This report synthesizes data from the following categories. Individual destination files cite specific sources in their Status, Conservation, and Trip Reports sections.
+
+## Scientific & Monitoring
+
+- NOAA Coral Reef Watch — real-time SST, DHW alerts, bleaching forecasts (coralreefwatch.noaa.gov)
+- ICRI/SHAMS alerts — International Coral Reef Initiative status updates
+- GCRMN Caribbean Report 2025 — Global Coral Reef Monitoring Network regional assessment
+- CORDIO East Africa — Western Indian Ocean bleaching reports
+
+## Peer-Reviewed Literature
+
+- Nature, Science, Coral Reefs journal, Frontiers in Marine Science
+- Environmental Biology of Fishes, Ecology Letters
+- PeerJ, MDPI, Springer
+
+## Conservation Organisations
+
+- HEPCA — Red Sea monitoring reports (Egypt)
+- Marine Megafauna Foundation — population studies (Mozambique, Maldives)
+- Seychelles Islands Foundation, Nature Seychelles Reef Rescuers
+- Blue Ventures — Madagascar reef monitoring
+- WCS (Wildlife Conservation Society) — Tanzania, Mozambique programs
+- African Parks — Bazaruto Archipelago
+- Healthy Reefs Initiative — Mesoamerican Barrier Reef report cards
+- Perry Institute for Marine Science — Caribbean coral assessments
+- Reef Check, Charles Darwin Foundation
+- Reef Renewal Foundation Bonaire, Roatan Marine Park
+- CORAL (Coral Reef Alliance), Fragments of Hope (Belize)
+- The Nature Conservancy — Coral Triangle programs
+
+## Diver Reports & Publications
+
+- ScubaBoard trip reports and forum threads (2024-2026)
+- Dive operator field reports
+- Mongabay — environmental journalism
+- Various diving publications and magazines

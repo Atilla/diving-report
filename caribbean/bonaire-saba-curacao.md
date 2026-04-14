@@ -76,3 +76,9 @@ highlights:
 - **Recompression chamber**: San Francisco Hospital, Kralendijk.
 - **Experience level**: All levels. Self-guided format rewards good buoyancy and navigation but is not inherently difficult.
 - **Note**: Bonaire is NOT a liveaboard destination. Its reputation rests entirely on the shore-diving model — widely regarded as the best in the world.
+
+## Related Destinations
+
+- [Roatan](roatan.md) — Caribbean diving alternative with better hard coral
+- [Belize](belize.md) — Mesoamerican reef comparison
+- [Malta & Gozo](../other/malta-gozo.md) — comparable shore-diving-focused experience

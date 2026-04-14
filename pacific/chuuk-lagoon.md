@@ -118,3 +118,10 @@ highlights:
 ## The Deterioration Timeline
 
 First-time visitors are universally blown away. Repeat visitors (especially with 10+ year gaps) note significant changes. The Fujikawa Maru's mast collapse and Shinkoku Maru's weakening operating theatre are the most-cited examples. Some operators have begun restricting penetration in previously standard areas. **No wreck has become fully undiveable yet**, but the nature of dives is shifting — more external observation, less deep superstructure penetration. Within the next 20–30 years, many of these wrecks may transition from recognizable ships to collapsed debris fields. UNESCO World Heritage status has been discussed but not yet achieved.
+
+## Related Destinations
+
+- [Scapa Flow](../other/scapa-flow.md) — world's other premier military wreck destination (WWI)
+- [Solomon Islands](solomon-islands.md) — WWII wreck diving in a different Pacific theatre
+- [Vanuatu](vanuatu.md) — SS President Coolidge; single iconic wreck vs fleet
+- [Malta & Gozo](../other/malta-gozo.md) — Mediterranean wreck diving alternative

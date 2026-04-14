@@ -44,3 +44,9 @@ highlights:
 - **Sea snakes (banded sea kraits):** year-round resident, not seasonal.
 - **Visibility:** 30–80m+ year-round — limestone island with zero runoff means clarity persists even in wet season. One of the clearest waters documented anywhere.
 - **Swell risk:** no harbour means boat-based diving depends on sea state. Cancellations from swell are common — build buffer days into any trip.
+
+## Related Destinations
+
+- [French Polynesia — Tuamotus](french-polynesia-tuamotus.md) — Pacific island comparison
+- [Tonga](tonga.md) — nearby; humpback whale season overlap
+- [Timor-Leste](../indian-ocean/timor-leste.md) — comparable frontier destination with scientific credibility

@@ -80,3 +80,9 @@ highlights:
 - **Costs**: One of the most affordable Caribbean dive destinations. Two-tank boat dives $70–90. Multi-dive resort packages (accommodation + 3 dives/day) $1,500–2,500/week. OW certification from ~$300–350.
 - **Recompression chamber**: Anthony's Key Resort, north shore (operated by the Cornerstone Foundation). Serves the entire Bay Islands.
 - **Experience level**: All levels. Shallow reef suits beginners; deep walls, channels, and swim-throughs challenge advanced divers.
+
+## Related Destinations
+
+- [Belize](belize.md) — Mesoamerican Barrier Reef neighbor
+- [Bonaire / Saba / Curacao](bonaire-saba-curacao.md) — Caribbean shore diving alternative
+- [Turks & Caicos](turks-caicos.md) — comparable wall diving

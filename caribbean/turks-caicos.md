@@ -69,3 +69,9 @@ Dramatic wall diving along the western shore. The wall drops from 12m with impre
 - **Costs**: Liveaboard 7-night trip USD $3,200–$4,800. Land-based diving from Grand Turk or Provo: $120–$180 per two-tank dive.
 - **Recompression chamber**: Associated Medical Practices on Providenciales has the territory's hyperbaric facility. DAN insurance recommended.
 - **Experience level**: Wall diving is accessible to Open Water divers (walls start at 10–15m), but depths exceed recreational limits quickly. Advanced Open Water recommended. Whale encounters are snorkel-based (no scuba).
+
+## Related Destinations
+
+- [Belize](belize.md) — comparable wall diving
+- [Roatan](roatan.md) — Caribbean wall diving alternative
+- [Tonga](../pacific/tonga.md) — comparable humpback whale encounters (different ocean)

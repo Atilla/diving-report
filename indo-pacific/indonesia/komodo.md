@@ -96,3 +96,10 @@ highlights:
 - **Patrol enforcement**: Ranger patrols have increased under the concessionaire model. Illegal fishing within park boundaries reduced but not eliminated.
 - **Mooring buoys**: Required at dive sites — anchoring on reef prohibited. Night diving restricted or prohibited at most sites.
 - **Guide requirement**: All diving must be conducted with a licensed local dive guide.
+
+## Related Destinations
+
+- [Raja Ampat](raja-ampat.md) — Indonesia's other top-tier liveaboard destination
+- [Nusa Penida](nusa-penida.md) — nearby; mola mola + mantas
+- [Alor](alor.md) — eastern extension on longer itineraries
+- [Banda Sea](banda-sea.md) — expedition extension via Lesser Sundas

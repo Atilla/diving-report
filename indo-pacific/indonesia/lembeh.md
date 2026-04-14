@@ -60,3 +60,10 @@ highlights:
 - **Operators**: Lembeh Resort, NAD Lembeh, Hairball Resort, Two Fish Divers, Kungkungan Bay Resort.
 - **Costs**: Resort + diving packages $200–400+ per person/day. No longer a budget destination.
 - **Recompression chamber**: Manado (near Bunaken) has a chamber.
+
+## Related Destinations
+
+- [Alor](alor.md) — comparable muck diving quality with added pelagics
+- [Wakatobi](wakatobi.md) — combine for muck + coral
+- [Halmahera](halmahera.md) — nearby; fly via Manado
+- [Papua New Guinea](../png.md) — Dinah's Beach offers comparable muck diving

@@ -114,3 +114,9 @@ The blockships are particularly prolific — anemone gardens, crustacean colonie
 - All seven German warships are **Scheduled Ancient Monuments** — removing artefacts, disturbing, or damaging the wrecks is a criminal offence. Non-destructive recreational diving is permitted and encouraged.
 - **Pre-nuclear "low-background" steel**: These WWI-era wrecks contain steel forged before the first nuclear detonation (1945), free from trace radioactive contamination that pervades all post-1945 steel. This steel is extremely valuable for sensitive scientific instruments, creating a black-market salvage incentive. There have been documented cases of unauthorized cutting — penalties are severe.
 - Historic Environment Scotland monitors wreck condition with periodic surveys.
+
+## Related Destinations
+
+- [Chuuk Lagoon](../pacific/chuuk-lagoon.md) — WWII wreck equivalent; Pacific theatre
+- [Malta & Gozo](malta-gozo.md) — Mediterranean wreck diving alternative
+- [Narvik](narvik.md) — WWII Arctic wreck diving; geographic neighbor

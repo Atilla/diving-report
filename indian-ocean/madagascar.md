@@ -73,3 +73,9 @@ Identified as potential climate refugium — subtropical position (23-25S) means
 - **No established liveaboard operations.** Occasional expedition vessels offer seasonal trips. This is fundamentally a shore-based destination.
 - **Safety concern**: no functioning hyperbaric chamber on Nosy Be or in northern Madagascar. Nearest in Reunion Island. Medevac insurance essential.
 - **Access**: Fly to Nosy Be via Antananarivo.
+
+## Related Destinations
+- [Mozambique](mozambique.md) — Mozambique Channel neighbor
+- [Seychelles](seychelles.md) — Indian Ocean island comparison
+- [Tanzania](tanzania.md) — East African coast neighbor
+- [Christmas Island](christmas-island.md) — comparable whale shark encounters

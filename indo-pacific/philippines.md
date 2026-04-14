@@ -152,3 +152,9 @@ Northeast monsoon (Amihan, Nov-Feb) brings drier conditions and better visibilit
 - **LAMAVE (Large Marine Vertebrates Research Institute Philippines)**: Photo-ID and acoustic tagging research on whale sharks, mantas, and thresher sharks. Citizen science programs allow divers to contribute sighting data.
 - **Community MPAs**: The Philippines pioneered community-based marine management. Apo Island's MPA (est. 1982) is a globally cited success — fish biomass inside the reserve is multiple times higher than outside. Hundreds of community MPAs across the Visayas, though enforcement quality varies.
 - **Challenges**: Dynamite and cyanide fishing reduced but not eliminated in some areas. Climate-driven bleaching is beyond local management control.
+
+## Related Destinations
+
+- [Raja Ampat](indonesia/raja-ampat.md) — Coral Triangle neighbor; similar biodiversity
+- [Palau](palau.md) — western Pacific neighbor; comparable shark diving at Blue Corner
+- [Malaysia](malaysia.md) — Sipadan is a short flight from Tubbataha region

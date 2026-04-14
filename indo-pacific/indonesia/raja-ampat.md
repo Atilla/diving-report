@@ -74,7 +74,7 @@ highlights:
 - **Sharks**: Grey reef (Cape Kri, Blue Magic), whitetip reef (widespread), blacktip reef (shallows). Tasselled wobbegong sharks are a Raja Ampat specialty — Boo Windows and overhang sites. Raja Ampat epaulette shark (endemic *Hemiscyllium* species) on night dives over shallow reef flats — reliable with knowledgeable guide.
 - **Pygmy seahorses**: Bargibant's and Denise's on gorgonian fans at multiple sites. Guides know specific fans; sightings reliable.
 - **Schooling fish**: Fusiliers, surgeonfish, jacks, barracuda, bumphead parrotfish in large aggregations. Cape Kri and Sardine Reef are standouts.
-- **Pelagics**: Giant trevally, dogtooth tuna, occasional eagle rays. Whale sharks rare but reported in Cenderawasih Bay (see dedicated Triton Bay / Cenderawasih section — near-guaranteed whale shark encounters year-round at bagan platforms).
+- **Pelagics**: Giant trevally, dogtooth tuna, occasional eagle rays. Whale sharks rare but reported in Cenderawasih Bay (see [Triton Bay / Cenderawasih](triton-bay-cenderawasih.md) — near-guaranteed whale shark encounters year-round at bagan platforms).
 - **Population trends**: Fish biomass surveys by Conservation International and TNC show stable or increasing populations within the MPA since enforcement improved post-2012.
 
 ## Dive Conditions
@@ -102,3 +102,11 @@ highlights:
 - **SEA People**: Coral reef monitoring and restoration using reef stars (metal structures seeded with coral fragments).
 - **Patrol enforcement**: Community-based patrol system has expanded significantly. Blast fishing and cyanide fishing dramatically reduced in patrolled zones, though some remote areas remain vulnerable.
 - **Shark sanctuary**: Shark fishing banned throughout Raja Ampat since 2012. Commercial fishing banned within core MPA zones. Traditional community fishing permitted in designated zones with gear restrictions.
+
+## Related Destinations
+
+- [Komodo](komodo.md) — combine in a single Indonesia liveaboard trip; upwelling-protected
+- [Triton Bay / Cenderawasih](triton-bay-cenderawasih.md) — nearby; near-guaranteed whale sharks
+- [Banda Sea](banda-sea.md) — common transit route extension
+- [Wakatobi](wakatobi.md) — premium coral alternative within Indonesia
+- [Halmahera](halmahera.md) — adjacent frontier Coral Triangle region

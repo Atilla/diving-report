@@ -98,3 +98,8 @@ Occasional liveaboard stops with excellent pass diving and zero crowds.
 - **Fakarava UNESCO Biosphere Reserve** (2006): Multiple zoning levels. The South Pass is within a designated conservation zone. Enforcement largely effective, though illegal fishing at reef edges occurs.
 - The grouper spawning aggregation at Fakarava South Pass is one of the most studied in the Pacific — research by CRIOBE (Centre de Recherches Insulaires et Observatoire de l'Environnement) has documented the ecological significance.
 - Shark populations in the Tuamotus are among the healthiest in the Indo-Pacific, likely due to low human pressure, healthy reef structure, and traditional Polynesian marine stewardship.
+
+## Related Destinations
+
+- [Maldives](../indo-pacific/maldives.md) — comparable atoll diving in the Indian Ocean
+- [Niue](niue.md) — Pacific island alternative; legendary visibility

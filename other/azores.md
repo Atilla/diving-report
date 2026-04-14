@@ -39,3 +39,8 @@ highlights:
 - **Dive conditions**: Water temperature 17–24C depending on depth and season. 5–7mm wetsuit or drysuit recommended. Visibility 15–30m+ at open-ocean sites.
 - **Season**: Blue sharks July–October. Mobulas August–October. Princess Alice Bank trips heavily weather-dependent — cancellation rates significant.
 - **Liveaboard scene**: Limited but growing. Most diving is day-boat operations from shore.
+
+## Related Destinations
+
+- [Cape Verde](cape-verde.md) — mid-Atlantic neighbor; whale sharks vs blue sharks
+- [Sao Tome & Principe](sao-tome-principe.md) — eastern Atlantic volcanic diving

@@ -43,3 +43,9 @@ highlights:
 - **Windiest:** Jan–Mar — strong trade winds, rough seas, more boat cancellations. Good underwater visibility though (up to 30m).
 - **Visibility:** 15–30m year-round. Best Jan–Mar (clearest water despite wind). Can drop slightly Aug–Oct during light rain.
 - **No true off-season** — diveable year-round. But plan around whale sharks (Jul–Oct) or calm conditions (Apr–Aug) depending on priority.
+
+## Related Destinations
+
+- [Azores](azores.md) — mid-Atlantic pelagic diving alternative
+- [Sao Tome & Principe](sao-tome-principe.md) — Gulf of Guinea volcanic diving
+- [Christmas Island](../indian-ocean/christmas-island.md) — comparable whale shark season linked to ecology

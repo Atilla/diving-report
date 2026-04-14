@@ -81,3 +81,8 @@ The Agulhas Current is the dominant factor — pushes warm water south and drive
 - **Costs**: Affordable by Indian Ocean standards. USD $40–65 per guided dive, $350–500 for multi-day packages (5–10 dives). Accommodation from backpacker ($15–30/night) to luxury lodges ($300–800+/night).
 - **Recompression chamber**: Nearest in Maputo (Hospital Central). No chamber in Inhambane, Vilankulos, or northern Mozambique. Some operators coordinate with Durban, South Africa as secondary option for the south. DAN evacuation insurance strongly recommended.
 - **Experience level**: Advanced recommended for Tofo and Ponta do Ouro (strong currents, deep pelagic dives). Bazaruto sheltered sites suit Open Water. Malaria prophylaxis essential.
+
+## Related Destinations
+- [Tanzania](tanzania.md) — East African coast neighbor to the north
+- [Madagascar](madagascar.md) — Mozambique Channel neighbor; whale sharks at both
+- [Seychelles](seychelles.md) — Indian Ocean alternative with healthier reefs

@@ -119,3 +119,9 @@ The southernmost atoll, straddling the equator. **British Loyalty wreck** — a 
 - Southern reports are markedly more positive: a March 2025 Huvadhoo trip described "colourful hard coral gardens — brain corals, table corals, staghorns still intact" with "noticeably fewer boats than the central atolls."
 - Fuvahmulah reports from late 2024 through early 2026 consistently describe tiger shark encounters as "like clockwork — multiple tigers on every harbour dive." Thresher shark sighting rates vary more (estimated 50-70% success at the cleaning station).
 - A recurring theme: divers who visited the Maldives pre-2024 and returned in 2025 describe the central atolls as "unrecognizable" for coral but emphasize that pelagic encounters are as good or better than ever — sharks, mantas, and whale sharks are not coral-dependent.
+
+## Related Destinations
+
+- [Djibouti](../red-sea/djibouti.md) — Indian Ocean whale shark alternative
+- [Seychelles](../indian-ocean/seychelles.md) — Indian Ocean alternative with better outer-atoll coral
+- [French Polynesia — Tuamotus](../pacific/french-polynesia-tuamotus.md) — comparable atoll pass drift diving

@@ -74,4 +74,9 @@ The underwater landscape is basaltic lava flows, canyons, caves, swim-throughs �
 - ~50 dive centers on the west coast. Both FFESSM (French federation) and PADI available. French language predominates — limited English.
 - **Hyperbaric chamber**: CHU Saint-Pierre, operational since 1982. Adequate diving medicine infrastructure.
 - Reserve Naturelle Marine de La Reunion (2007): 3,500 hectares along the west coast. Protected zones show predatory fish densities 3x higher than unprotected areas.
-- **Reunion is primarily an adventure/topside destination with worthwhile diving**, not a standalone dive destination — except during whale season, when the calculus changes entirely. World-class hiking (Piton des Neiges, three cirques), active volcano trekking, canyoning, paragliding. Pair with Mauritius (170km away, quick flights) for a varied Indian Ocean itinerary.
+- **Reunion is primarily an adventure/topside destination with worthwhile diving**, not a standalone dive destination — except during whale season, when the calculus changes entirely. World-class hiking (Piton des Neiges, three cirques), active volcano trekking, canyoning, paragliding. Pair with [Mauritius](mauritius.md) (170km away, quick flights) for a varied Indian Ocean itinerary.
+
+## Related Destinations
+- [Mauritius](mauritius.md) — geographic neighbor; combine on one trip
+- [Tonga](../pacific/tonga.md) — comparable humpback whale season
+- [Azores](../other/azores.md) — comparable volcanic topography diving

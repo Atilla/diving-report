@@ -81,3 +81,8 @@ Deeper pinnacle site that weathered 2024 better than shallow reefs.
 ## Conservation
 
 - **New Heaven Reef Conservation Program**: running coral nurseries and artificial reef projects since 2007, with measurable local gains. Koh Tao has one of the strongest grassroots marine conservation communities in Southeast Asia.
+
+## Related Destinations
+
+- [Thailand — Andaman North](thailand-andaman-north.md) — Thailand's premier liveaboard coast
+- [Thailand — Andaman South](thailand-andaman-south.md) — Thailand's healthiest reefs

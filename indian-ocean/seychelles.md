@@ -82,3 +82,8 @@ Save Our Seas Foundation research station. Manta cleaning stations. Shark nurser
 ## Conservation
 - **Nature Seychelles Reef Rescuers**: largest coral restoration project in the Indian Ocean. 24,000+ fragments transplanted, targeting 50,000 by 2026. Specifically selecting thermally tolerant genotypes. 60-80% survival rate.
 - **Marine Spatial Plan (2020)**: first in the WIO — **30% of EEZ** designated as marine protected areas via landmark $21.6M debt-for-nature swap. World's first sovereign blue bond ($15M).
+
+## Related Destinations
+- [Maldives](../indo-pacific/maldives.md) — Indian Ocean atoll comparison; Seychelles outer atolls rival best Pacific shark diving
+- [Mozambique](mozambique.md) — East African alternative
+- [Madagascar](madagascar.md) — Indian Ocean neighbor

@@ -107,3 +107,10 @@ Jun–Nov is considered the premier season for Darwin/Wolf liveaboards despite t
 - **Challenges**: Illegal industrial fishing (primarily longline and purse seine fleets from distant-water nations) at reserve boundaries remains the dominant threat. The Ecuadorian Navy and park service conduct regular patrols, and satellite vessel monitoring has improved enforcement, but the sheer scale of the reserve makes comprehensive coverage difficult. Local artisanal fishing within the GMR continues under regulated permits, with ongoing tension between conservation goals and community livelihoods.
 - **Coral-specific concerns**: While the pelagic megafauna is not directly dependent on coral, the reef ecosystems at Darwin and Wolf support cleaning stations, nursery habitat, and food webs that underpin the entire system. Loss of coral cover could cascade unpredictably — another reason the 2026-2035 projections for Darwin warrant urgent attention.
 - **Tourism management**: Total visitor numbers to the Galapagos are capped (though caps have been raised repeatedly — ~270,000 visitors in 2023). Dive operator permits are strictly limited. Park fees fund ranger programs and research.
+
+## Related Destinations
+
+- [Cocos Island](cocos-island.md) — biological corridor via Cocos Ridge; hammerhead connectivity confirmed
+- [Malpelo](malpelo.md) — third point of the Hammerhead Triangle
+- [Hammerhead Triangle](hammerhead-triangle.md) — the corridor connecting all three
+- [Socorro](socorro.md) — comparable megafauna experience in the Eastern Pacific

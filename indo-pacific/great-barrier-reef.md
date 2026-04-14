@@ -124,3 +124,9 @@ Remote atolls with similar conditions: sheer walls, exceptional visibility, heal
 - **UNESCO World Heritage Site** since 1981. Sustained delisting pressure — political tension between scientists supporting "in danger" listing and government resisting it.
 - **Restoration**: Coral gardening, larval reseeding (AIMS), heat-resistant coral breeding, crown-of-thorns starfish culling. All small-scale relative to the reef's 344,400 km2 area.
 - **Citizen science**: Eye on the Reef (GBRMPA), Reef Check Australia, CoralWatch. Many liveaboards participate.
+
+## Related Destinations
+
+- [Fiji](fiji.md) — nearby Pacific reef alternative with better coral condition
+- [Papua New Guinea](png.md) — Coral Sea neighbor; healthier reefs
+- [Ningaloo Reef](../indian-ocean/christmas-island.md) — Australia's other major reef system (different coast)

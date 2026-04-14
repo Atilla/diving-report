@@ -72,3 +72,9 @@ Cenderawasih Bay (Teluk Cenderawasih), further north in West Papua, is Indonesia
 - **Operators**: Damai, Dewi Nusantara, Indo Siren, SeaTrek. Some operators combine Cenderawasih and Triton Bay into extended itineraries. Others link Triton Bay with Raja Ampat or Banda Sea routes.
 - **Costs**: Premium liveaboard pricing — USD $5,000–8,000+ for 7–10 night trips.
 - **Recompression chamber**: None nearby — Ambon or Makassar. DAN insurance essential.
+
+## Related Destinations
+
+- [Raja Ampat](raja-ampat.md) — combine on extended Papua itinerary
+- [Banda Sea](banda-sea.md) — remote Indonesia expedition alternative
+- [Christmas Island](../../indian-ocean/christmas-island.md) — comparable whale shark encounters linked to ecological cycles

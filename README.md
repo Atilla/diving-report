@@ -22,6 +22,9 @@ Cross-cutting content lives in `_meta/`:
 
 ## How to update
 
+See [CLAUDE.md](CLAUDE.md) for the complete wiki maintenance guide, including ingest workflows, cross-referencing conventions, and contradiction handling.
+
+Quick reference:
 1. Edit the individual destination file
 2. Update the `last_verified` field in frontmatter
 3. If the tier or status changed, update `_meta/ranking-table.md` to match

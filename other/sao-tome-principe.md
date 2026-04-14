@@ -102,4 +102,9 @@ Small island straddling the equator. Dive sites around the islet. Equator crossi
 
 - **This is NOT a destination for**: anyone expecting conventional reef quality or Indo-Pacific marine life density.
 - **This IS a destination for**: divers who want something genuinely different, underwater photographers documenting under-recorded marine life, combined dive/cultural/nature travelers (birding, hiking, chocolate plantations). The Sao Tome dive infrastructure is functional and professional — this is not as rough as it once was.
-- **Comparison**: less rewarding for pure diving than Cape Verde, Fernando de Noronha, or Canary Islands. More exotic and less explored. Best considered as diving-as-part-of-a-broader-trip rather than a dive-specific destination.
+- **Comparison**: less rewarding for pure diving than [Cape Verde](cape-verde.md), Fernando de Noronha, or Canary Islands. More exotic and less explored. Best considered as diving-as-part-of-a-broader-trip rather than a dive-specific destination.
+
+## Related Destinations
+
+- [Azores](azores.md) — Atlantic volcanic/pelagic alternative
+- [Cape Verde](cape-verde.md) — nearest established dive destination

@@ -59,7 +59,7 @@ Barracuda Point (world-famous — morning dives best for the tornado), South Poi
 
 ### Mabul Island — World-Class Muck Diving
 
-Sipadan's neighbor and the base for most Sipadan diving. A world-class muck/macro destination in its own right — regularly compared to Lembeh Strait.
+Sipadan's neighbor and the base for most Sipadan diving. A world-class muck/macro destination in its own right — regularly compared to [Lembeh Strait](indonesia/lembeh.md).
 
 Frogfish (multiple species), ornate ghost pipefish, pygmy seahorses, blue-ring octopus, mandarinfish (dusk courtship displays), ribbon eels, bobtail squid, nudibranchs in profusion, mantis shrimp.
 
@@ -128,3 +128,9 @@ These are pleasant, affordable dive destinations but not in the same league as S
 - **Recompression chamber:** Semporna (ESSCOM medical facility). KK has hospital chamber.
 - **Experience level:** Sipadan requires Advanced OW. Strong currents at signature sites reward experience. Mabul accessible to all levels. Peninsular islands suitable for beginners.
 - **Security:** Eastern Sabah was historically affected by kidnapping-for-ransom incidents from militant groups based in the southern Philippines. **No incidents since January 2020** (per Malaysian Home Ministry). ESSCOM — a dedicated joint military/police/coast guard security force — has patrolled the east coast since 2013. **US advisory** (2025): lowered to Level 1 (Exercise Normal Precautions) for eastern Sabah mainland; islands and maritime areas remain Level 2 (Exercise Increased Caution). Australia lowered its advisory for eastern Sabah mainland from Level 3 to Level 2 in August 2025. Dive resorts maintain armed security. Risk is low but not zero — book licensed operators only, avoid unlicensed night sea crossings.
+
+## Related Destinations
+
+- [Philippines](philippines.md) — Coral Triangle neighbor; Tubbataha accessible from same region
+- [Lembeh](indonesia/lembeh.md) — comparable muck diving at Mabul
+- [Indonesia — Raja Ampat](indonesia/raja-ampat.md) — Coral Triangle biodiversity comparison

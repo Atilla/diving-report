@@ -83,3 +83,8 @@ Five islands off Dhofar coast, genuinely unexplored. Minimal survey data but hig
 - **Access**: Fly to Muscat (MCT). International hub with connections worldwide.
 - **Liveaboard operators**: Oman Aggressor, Oman Explorer / Samana Explorer, MV Vision (Musandam-focused).
 - **Best strategy (normal conditions)**: Combine Muscat/Daymaniyat (3-4 days) with Musandam (2-3 days). Add Dhofar in Oct-Nov for whale sharks.
+
+## Related Destinations
+- [Djibouti](../red-sea/djibouti.md) — Arabian region neighbor; also upwelling-protected
+- [Saudi Arabia](../red-sea/saudi-arabia.md) — Arabian Peninsula neighbor
+- [Christmas Island](christmas-island.md) — Indian Ocean alternative

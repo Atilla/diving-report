@@ -65,6 +65,9 @@ highlights:
 
 ## Trip Reports
 (firsthand accounts with dates — include if content exists in original)
+
+## Related Destinations
+(bulleted list with relative markdown links to related destinations — geographic neighbors, similar experiences, biological corridors, alternatives. See CLAUDE.md section 5 for conventions.)
 ```
 
 ## Heading level rules

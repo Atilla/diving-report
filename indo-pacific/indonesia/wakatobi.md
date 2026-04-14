@@ -71,7 +71,7 @@ Drift dive with excellent coral coverage and reef fish schooling.
 ## Dive Conditions
 - **Visibility**: 20–40m typically, occasionally exceeding 50m.
 - **Temperature**: 26–29C year-round. 3mm sufficient; some prefer 5mm for repetitive multi-dive days.
-- **Currents**: Generally mild to moderate. Wakatobi is a relaxed diving destination compared to Komodo or Raja Ampat's current-swept sites.
+- **Currents**: Generally mild to moderate. Wakatobi is a relaxed diving destination compared to [Komodo](komodo.md) or [Raja Ampat](raja-ampat.md)'s current-swept sites.
 - **Experience level**: Beginner-friendly. Mild currents, warm water, easy entries, professional guides. Advanced divers will enjoy macro photography and deeper wall dives.
 
 ## Season
@@ -89,3 +89,9 @@ Drift dive with excellent coral coverage and reef fish schooling.
 - **Collaborative Reef Conservation Program**: Wakatobi Dive Resort pays local Bajo communities direct lease fees in exchange for no-take agreements on surrounding reefs. Running since the early 2000s, widely cited as a successful model for community-based marine management. Marine biologist on staff conducts regular reef surveys.
 - **Operation Wallacea**: UK-based conservation research organization running annual research expeditions from Hoga Island since 2003. Provides one of the best long-term monitoring datasets for any Coral Triangle reef system.
 - **Threats**: Blast fishing still occurs in peripheral areas (greatly reduced but not eliminated). Overfishing pressure from growing local populations. Plastic pollution increasing. The park's 1.39M hectare scale exceeds enforcement resources.
+
+## Related Destinations
+
+- [Raja Ampat](raja-ampat.md) — Indonesia's other premier coral destination
+- [Komodo](komodo.md) — more current-driven diving; comparable coral quality
+- [Lembeh](lembeh.md) — combine for coral + muck on one Indonesia trip

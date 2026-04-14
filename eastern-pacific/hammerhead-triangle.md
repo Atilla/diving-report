@@ -37,3 +37,9 @@ The three great hammerhead aggregation sites of the Eastern Tropical Pacific —
 | **Galapagos (Darwin/Wolf)** | Jun–Nov | 100–200+ | Fly Baltra/San Cristobal | $7,000–12,000 | Whale sharks + hammerheads together; sea lions; cold water (7mm+) |
 | **Cocos Island** | Jun–Nov | 200+ | 30–36hr from Puntarenas | $8,000–12,000 | Whitetip reef shark night hunts at Manuelita; most pristine of the three |
 | **Malpelo** | Jan–May (shallow) | 200–500+ | 30–36hr from Buenaventura | $6,000–10,000 | Largest schools; shark tornadoes; smalltooth sand tiger; tiger sharks |
+
+## Related Destinations
+
+- [Galapagos](galapagos.md) — the triangle's largest and most diverse destination
+- [Cocos Island](cocos-island.md) — the triangle's most reliable hammerhead aggregation
+- [Malpelo](malpelo.md) — the triangle's most extreme expedition destination

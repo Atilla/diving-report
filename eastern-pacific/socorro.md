@@ -94,3 +94,10 @@ Jan–Mar considered overall peak for diversity of encounters despite cooler wat
 - **UNESCO World Heritage Site** (2016). **Revillagigedo National Park** (2017) — one of the largest fully protected marine reserves in North America (~148,000 km2). All extractive fishing banned. Previously permitted longlining was devastating shark populations.
 - **Diver regulations**: No gloves, no spearfishing, no collecting. Operators must hold CONANP permits. Number of boats in park limited at any time. Park fee typically included in trip cost.
 - **Enforcement**: Mexico's navy (SEMAR) maintains a garrison on Socorro and conducts regular patrols. Illegal longlining incursions have decreased significantly since 2017 designation. Overall trajectory for shark and manta populations appears positive.
+
+## Related Destinations
+
+- [Galapagos](galapagos.md) — comparable Eastern Pacific megafauna destination
+- [Cocos Island](cocos-island.md) — similar pelagic-focused liveaboard diving
+- [Malpelo](malpelo.md) — similar remote pelagic diving; fewer mantas, more hammerheads
+- [BDE Circuit](../red-sea/bde-circuit.md) — comparable pelagic shark experience in a different ocean

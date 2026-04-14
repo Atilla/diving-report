@@ -128,3 +128,9 @@ November through April/May. Parks close May 15 to October 31. Best conditions an
 - **Costs include**: cabin, all dives (incl. tanks, weights, guide), meals, tea/coffee. Extras: equipment rental (~$15-30/day full set), Nitrox ($50-100/trip), national park fees (~$20-40), soft drinks/beer.
 - **Recompression chamber**: SSS Network Recompression Chamber, Phuket (Bangkok Hospital Phuket and Vachira Phuket Hospital). ~2 hrs by speedboat from Similans. DAN insurance strongly recommended.
 - **Experience level**: Similans east-side sites suitable for Open Water divers (calm, moderate depth). West-side sites (Christmas Point, Elephant Head), Richelieu Rock, and Burma Banks best suited for Advanced OW with 30+ logged dives. Strong currents at exposed sites require comfort with drift diving and blue-water descents.
+
+## Related Destinations
+
+- [Thailand — Andaman South](thailand-andaman-south.md) — combined on 5-7 night liveaboard itineraries
+- [Thailand — Gulf](thailand-gulf.md) — Thailand's other coast; training-focused
+- [Myanmar — Mergui](myanmar-mergui.md) — northern extension; same thermal regime as Similans

@@ -72,7 +72,7 @@ Current-swept point with grey reef sharks, barracuda, eagle rays along a steep w
 
 #### Dinah's Beach
 
-World-class muck diving on black volcanic sand. Mimic octopus, wonderpus, Ambon scorpionfish, rhinopias, flamboyant cuttlefish, hairy frogfish. 3-15m, calm conditions. A strong alternative to Lembeh Strait.
+World-class muck diving on black volcanic sand. Mimic octopus, wonderpus, Ambon scorpionfish, rhinopias, flamboyant cuttlefish, hairy frogfish. 3-15m, calm conditions. A strong alternative to [Lembeh Strait](indonesia/lembeh.md).
 
 #### Samarai Area
 
@@ -132,3 +132,10 @@ Seamounts north of Kimbe with strong currents and big-fish action. Often include
 - **Mahonia Na Dari** ("Guardian of the Sea") Research and Conservation Centre provides marine education and reef monitoring support.
 - **Conservation International** active in Milne Bay.
 - No large formal marine parks, but the decentralized clan-based system effectively limits destructive fishing — contributing to the reef health that makes PNG a strong recovery prospect.
+
+## Related Destinations
+
+- [Raja Ampat](indonesia/raja-ampat.md) — Coral Triangle neighbor to the west
+- [Solomon Islands](../pacific/solomon-islands.md) — geographic neighbor; similar frontier feel
+- [Lembeh](indonesia/lembeh.md) — comparable muck diving (Dinah's Beach vs Lembeh)
+- [Fiji](fiji.md) — Pacific island alternative

@@ -80,3 +80,9 @@ Structurally, classic Caribbean reef architecture — spur-and-groove, wall drop
 - **Non-US travelers**: European/Canadian citizens can technically travel, but Cuba's collapsing infrastructure (airline route cuts, fuel shortages, hotel closures) makes logistics unreliable. Verify Avalon's operational status before committing funds.
 - **Insurance**: Travel insurers increasingly excluding or restricting Cuba coverage. Verify explicitly before booking.
 - **Overall**: **Do not book for 2026–2027 without accepting significant risk of cancellation, stranding, or loss of funds.** The geopolitical situation may improve, but planning around that assumption is inadvisable.
+
+## Related Destinations
+
+- [Bahamas](bahamas.md) — nearest alternative for Caribbean shark diving
+- [Roatan](roatan.md) — Caribbean alternative with active restoration
+- [Belize](belize.md) — nearest accessible healthy Caribbean reefs

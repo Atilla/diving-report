@@ -89,3 +89,9 @@ Cold-water site with strong thermoclines. Hammerhead aggregations.
 - **Jan 2024 (ScubaBoard):** hot surface water (28C), thermocline at 25m, visibility 5–15m at best. Worst sea conditions in 5–6 years. Despite conditions, hammerhead and Galapagos shark encounters described as extraordinary.
 - **Feb 2025 (ScubaBoard):** video report documenting schooling hammerheads. Cold season with thermocline at ~10m bringing hammerheads shallow.
 - **Jul 2025 (ScubaBoard):** mantas, Galapagos sharks, hammerheads, whitetips, whale shark, eagle rays, massive pelican barracuda schools. Warm season conditions.
+
+## Related Destinations
+
+- [Cocos Island](cocos-island.md) — Hammerhead Triangle partner; similar transit and format
+- [Galapagos](galapagos.md) — Hammerhead Triangle partner; biological corridor
+- [Hammerhead Triangle](hammerhead-triangle.md) — the corridor connecting all three

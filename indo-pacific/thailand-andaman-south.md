@@ -26,7 +26,7 @@ highlights:
 
 ## Status
 
-- The southern Andaman emerges as a distinct and often superior alternative to the northern Similan circuit.
+- The southern Andaman emerges as a distinct and often superior alternative to the northern [Thailand — Andaman North](thailand-andaman-north.md) circuit.
 
 ## Key Dive Sites
 
@@ -112,3 +112,9 @@ A south Andaman liveaboard route (Koh Haa, Hin Daeng/Hin Muang, Koh Rok, potenti
 ## Conservation
 
 - **Coral restoration**: DMCR nurturing 60,000 coral colonies in nurseries nationally. Racha Yai 3D-printed coral structures (109 of 210 installed). Phuket Coral Cryobank operational since June 2025 — preserving coral larvae at -196C as "genetic insurance."
+
+## Related Destinations
+
+- [Thailand — Andaman North](thailand-andaman-north.md) — combined on north-south liveaboard itineraries
+- [Thailand — Gulf](thailand-gulf.md) — Thailand's other coast
+- [Myanmar — Mergui](myanmar-mergui.md) — frontier extension to the north

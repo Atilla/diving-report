@@ -61,3 +61,9 @@ Shows more development pressure; adjacent reefs are less pristine than the outer
 ## Practical Info
 - **Access**: Fly to Berau (via Balikpapan), then 2–3 hour speedboat. Small resorts on Derawan and Maratua (Maratua Paradise Resort, Nabucco Island Resort). No regular liveaboard service.
 - **No recompression chamber** nearby.
+
+## Related Destinations
+
+- [Palau](../palau.md) — both have stingless jellyfish lakes
+- [Raja Ampat](raja-ampat.md) — Coral Triangle comparison
+- [Lembeh](lembeh.md) — East Kalimantan/North Sulawesi Coral Triangle pair

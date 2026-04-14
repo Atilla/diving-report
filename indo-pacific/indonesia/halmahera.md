@@ -27,9 +27,9 @@ highlights:
 ## Status
 **FRONTIER — Indonesia's last undiscovered Coral Triangle corner; genuine exploration potential**
 
-- Halmahera is the largest island in the Maluku archipelago, positioned in the northern arc of the Coral Triangle between Raja Ampat (southeast) and the Banda Sea (south). It sits within Wallacea — the biogeographic transition zone between Asian and Australasian fauna — and at the convergence of Pacific, Philippine Sea, Banda Sea, and Ceram Sea influences.
+- Halmahera is the largest island in the Maluku archipelago, positioned in the northern arc of the Coral Triangle between [Raja Ampat](raja-ampat.md) (southeast) and the [Banda Sea](banda-sea.md) (south). It sits within Wallacea — the biogeographic transition zone between Asian and Australasian fauna — and at the convergence of Pacific, Philippine Sea, Banda Sea, and Ceram Sea influences.
 - The **Halmahera Sea** acts as a conduit for the Indonesian Throughflow, driving nutrient upwelling and extraordinary productivity. The Halmahera Eddy concentrates nutrients and plankton. This oceanographic engine supports high biodiversity that likely rivals better-surveyed areas — but Halmahera is **one of the least-surveyed corners of the Coral Triangle**. Baseline reef surveys, species inventories, and systematic wreck documentation are all lacking.
-- **Operators describe it as what Raja Ampat was 15–20 years ago**: pristine reefs, almost zero divers, genuine exploration. The combination of whale sharks, WWII wrecks, pristine reefs, and macro life in a single region is distinctive.
+- **Operators describe it as what [Raja Ampat](raja-ampat.md) was 15–20 years ago**: pristine reefs, almost zero divers, genuine exploration. The combination of whale sharks, WWII wrecks, pristine reefs, and macro life in a single region is distinctive.
 - Reefs around Weda Bay, Morotai, and outer island areas are generally reported as healthy to excellent — low population density, limited industrial fishing, and remoteness provide natural protection.
 - **2024 bleaching**: Specific data is extremely limited. Anecdotal reports suggest shallow reefs showed some stress, deeper reefs less affected. Current systems may provide thermal buffering. Recovery monitoring is essentially nonexistent.
 
@@ -87,4 +87,10 @@ The Malaillo liveaboard conducted exploration expeditions discovering previously
 - Few formally established MPAs compared to Raja Ampat. Some regency-level coastal designations but minimal enforcement capacity.
 - Aketajawe-Lolobata National Park (primarily terrestrial — one of the Moluccas' largest remaining rainforests) provides indirect watershed protection.
 - **Nickel mining** is the most significant near-term threat — mining operations on Halmahera and Obi generate sedimentation and pollution in coastal waters.
-- **Halmahera represents a rare conservation opportunity**: protecting high-value marine ecosystems *before* major degradation occurs, rather than restoring already-damaged ones. Dive tourism, developed sustainably, could provide economic incentives for marine protection (the Raja Ampat model).
+- **Halmahera represents a rare conservation opportunity**: protecting high-value marine ecosystems *before* major degradation occurs, rather than restoring already-damaged ones. Dive tourism, developed sustainably, could provide economic incentives for marine protection (the [Raja Ampat](raja-ampat.md) model).
+
+## Related Destinations
+
+- [Raja Ampat](raja-ampat.md) — adjacent; better-established Coral Triangle comparison
+- [Banda Sea](banda-sea.md) — Maluku neighbor to the south
+- [Lembeh](lembeh.md) — fly via Manado; combine for frontier + established

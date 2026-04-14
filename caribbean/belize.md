@@ -87,3 +87,9 @@ Described as **"one of the best developed and healthiest reefs in the Caribbean.
 - **Costs**: USD $3,000–4,500 per person for 7 nights depending on cabin and season, excluding gear rental, park fees (~$40 for Blue Hole), nitrox, and gratuities.
 - **Recompression chamber**: Sub-Aquatic Safety Services on Ambergris Caye (San Pedro). DAN membership strongly recommended.
 - **Experience level**: Open Water minimum, Advanced OW recommended. Blue Hole dive restricted to Advanced-certified. Outer walls suit intermediate to advanced; sheltered atoll sites accessible to newer divers.
+
+## Related Destinations
+
+- [Roatan](roatan.md) — nearest Caribbean neighbor; Mesoamerican Barrier Reef
+- [Turks & Caicos](turks-caicos.md) — comparable wall diving
+- [Bonaire / Saba / Curacao](bonaire-saba-curacao.md) — Caribbean alternative below hurricane belt

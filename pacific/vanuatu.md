@@ -60,3 +60,9 @@ Reef diving around Efate (Port Vila) and Santo is decent but not the primary dra
 - **Costs**: Coolidge dives ~USD $100–150/dive. Accommodation in Luganville budget-friendly ($50–150/night).
 - **No liveaboard scene** — resort/day-boat operations.
 - **Experience level**: Coolidge recreational areas require Advanced Open Water. Deep penetration is technical-level.
+
+## Related Destinations
+
+- [Chuuk Lagoon](chuuk-lagoon.md) — Pacific WWII wreck comparison
+- [Solomon Islands](solomon-islands.md) — Melanesian neighbor; WWII wrecks + reefs
+- [Fiji](../indo-pacific/fiji.md) — nearby Pacific reef alternative

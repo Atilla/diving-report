@@ -139,4 +139,9 @@ Malta is one of Europe's premier tech diving destinations:
 
 ## WWII Context
 
-Malta endured over 3,000 air raids during WWII — more bombing per square mile than anywhere in the conflict. Much of the WWII underwater heritage sits in deep water (60m+) because harbours were salvaged post-war and aircraft fell offshore. The shallow WWII wrecks (HMS Maori, the Beaufighter, the Blenheim) are historically significant but not structurally spectacular. The volume of intact WWII material at depth differentiates Malta from Chuuk or Scapa Flow where WWII wrecks sit in shallower water.
+Malta endured over 3,000 air raids during WWII — more bombing per square mile than anywhere in the conflict. Much of the WWII underwater heritage sits in deep water (60m+) because harbours were salvaged post-war and aircraft fell offshore. The shallow WWII wrecks (HMS Maori, the Beaufighter, the Blenheim) are historically significant but not structurally spectacular. The volume of intact WWII material at depth differentiates Malta from [Chuuk Lagoon](../pacific/chuuk-lagoon.md) or [Scapa Flow](scapa-flow.md) where WWII wrecks sit in shallower water.
+
+## Related Destinations
+
+- [Scapa Flow](scapa-flow.md) — comparable world-class wreck diving experience
+- [Chuuk Lagoon](../pacific/chuuk-lagoon.md) — world's other premier wreck destination

@@ -111,3 +111,9 @@ Extremely remote for dive tourists. No established dive operations based here.
 Saudi Arabia's Red Sea is **genuinely accessible for day-boat diving from Jeddah and Yanbu** — the visa works, operators exist, the reefs are real. For a diver visiting Saudi Arabia for other reasons (business, Hajj/Umrah, tourism), adding a few days of diving is entirely feasible and worthwhile.
 
 **For a dedicated liveaboard trip in 2026: not yet.** The infrastructure, itinerary options, and operator ecosystem are not comparable to Egypt, Maldives, or Indonesia. A diver specifically seeking a Saudi Red Sea liveaboard should monitor developments but plan their primary trip elsewhere. This is a destination in genuine transition — likely viable for liveaboard planning by 2028-2030 as NEOM, Red Sea Global, and private operators build out, but booking a 2026 liveaboard safari here would require significant logistical self-sufficiency and tolerance for uncertainty.
+
+## Related Destinations
+
+- [Northern Egypt](northern-egypt.md) — opposite coast at similar latitude
+- [Djibouti](djibouti.md) — southern Red Sea alternative
+- [Oman](../indian-ocean/oman.md) — Arabian Peninsula neighbor (not currently viable)

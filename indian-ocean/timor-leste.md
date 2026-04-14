@@ -59,3 +59,8 @@ highlights:
 - **Recompression chamber**: None in Timor-Leste. Nearest in Darwin, Australia. DAN evacuation insurance essential.
 - **Infrastructure**: Basic but developing. Roads outside Dili are rough. Power can be unreliable.
 - **For the right diver**: World-class biodiversity at a fraction of the cost of comparable destinations. The infrastructure trade-off is real — but Timor-Leste offers a genuine frontier experience with scientific credentials that rival anywhere on Earth.
+
+## Related Destinations
+- [Alor](../indo-pacific/indonesia/alor.md) — nearest established dive destination; Lesser Sunda neighbor
+- [Niue](../pacific/niue.md) — comparable frontier destination with scientific credibility
+- [Raja Ampat](../indo-pacific/indonesia/raja-ampat.md) — Coral Triangle biodiversity comparison (Timor-Leste holds per-site record)

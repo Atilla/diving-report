@@ -40,3 +40,9 @@ highlights:
 - **Temperature:** 23–28C. Coolest Jul–Sep (~23–25C), warmest Jan–Mar (~27–28C). 3mm for warm season; 5mm recommended during whale season (cooler water).
 - **Cyclone risk:** Dec–Apr (peak Jan–Mar). Not a major cyclone corridor but Cyclone Harold (2020) and the Hunga Tonga eruption (2022) demonstrate vulnerability.
 - **Note**: Scuba diving WITH whales is prohibited — but reef diving is available year-round alongside whale snorkeling trips.
+
+## Related Destinations
+
+- [Fiji](../indo-pacific/fiji.md) — Pacific neighbor; combine on multi-stop trip
+- [Niue](niue.md) — nearby Pacific island; different diving style
+- [Turks & Caicos](../caribbean/turks-caicos.md) — comparable humpback whale encounters (Atlantic)

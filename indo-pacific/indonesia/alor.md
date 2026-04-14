@@ -63,3 +63,10 @@ Current-swept walls and pinnacles with hammerhead sharks (seasonal), mobula rays
 ## Practical Info
 - **Liveaboard operators**: Indo Siren, Adelaar, Katharina, Aurora run Alor routes, typically as part of longer Lesser Sunda crossings (Maumere–Alor) or Alor–Banda Sea transitional routes. Season roughly September–November.
 - **Land-based**: A handful of small resorts (e.g., Alor Divers) but options are limited. Getting to Alor requires flying to Kupang (West Timor) then a connecting flight on Wings Air.
+
+## Related Destinations
+
+- [Lembeh](lembeh.md) — comparable muck diving quality
+- [Komodo](komodo.md) — western neighbor on Lesser Sunda routes
+- [Banda Sea](banda-sea.md) — liveaboard transit route continues east to Banda
+- [Nusa Penida](nusa-penida.md) — Lesser Sunda chain neighbor

@@ -59,3 +59,8 @@ highlights:
 - **Operators**: Aguas Claras, Noronha Divers. No liveaboard options.
 - **Access**: Flights from Recife (1h15m) or Natal (1h). Book well in advance.
 - **Not a liveaboard destination** but worth noting for any serious Atlantic dive planning.
+
+## Related Destinations
+
+- [Sao Tome & Principe](../other/sao-tome-principe.md) — South Atlantic volcanic island comparison
+- [Bonaire / Saba / Curacao](bonaire-saba-curacao.md) — nearest established Caribbean diving

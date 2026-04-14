@@ -57,3 +57,8 @@ Volcanic topography, black sand, manta cleaning stations. Advanced — weather-d
 - **Costs**: Very affordable — diving ~INR 4,000–7,000/dive ($50–85 USD). Accommodation from budget ($15–30/night) to mid-range ($80–200/night).
 - **Recompression chamber**: Port Blair has a chamber. DAN insurance recommended for Barren Island trips.
 - **Note**: Tourism growth (particularly domestic Indian) is increasing pressure on Havelock's reefs.
+
+## Related Destinations
+- [Thailand — Andaman North](../indo-pacific/thailand-andaman-north.md) — same sea; Similan comparison
+- [Myanmar — Mergui](../indo-pacific/myanmar-mergui.md) — Andaman Sea neighbor
+- [Komodo](../indo-pacific/indonesia/komodo.md) — comparable volcanic topography diving

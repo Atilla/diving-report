@@ -113,7 +113,7 @@ highlights:
 - **What happened**: Golden jellyfish (Mastigias papua etpisoni) population collapsed from millions to fewer than 5,600 — linked to elevated water temperatures disrupting the jellyfish's symbiotic zooxanthellae (same mechanism as coral bleaching). Lake closed to visitors during the worst decline.
 - **Historical pattern**: Similar collapses occurred during the 1998 and 2016 El Ninos. Both times, the population rebounded within 2-3 years once conditions normalized.
 - **2026 status**: Recovery underway. The Palau Aggressor II reintroduced Jellyfish Lake to its itinerary in early 2026, reporting jellyfish numbers "thriving again." Moon jellyfish remained present in healthy numbers throughout the decline. Lake is open (separate $100 permit; snorkeling only, no scuba).
-- **Comparable experience**: Kakaban Island in the Derawan Archipelago (East Kalimantan, Indonesia) has a similar stingless jellyfish lake — one of only a few in the world. As of 2024, Kakaban's population remains healthy with no Palau-style crash reported. See the Derawan section under Indonesia.
+- **Comparable experience**: [Kakaban Island](indonesia/derawan-kakaban.md) in the Derawan Archipelago (East Kalimantan, Indonesia) has a similar stingless jellyfish lake — one of only a few in the world. As of 2024, Kakaban's population remains healthy with no Palau-style crash reported. See the Derawan section under Indonesia.
 
 ## Conservation
 
@@ -127,3 +127,9 @@ highlights:
 - **2024 ScubaBoard**: "Schools of barracuda, bigeye trevally are always there. Humphead wrasse and sharks are also very common." Noted some bleached table coral but overall hard coral variety "world class."
 - **2025 Palau Siren (April)**: "One big plus about Palau is the lack of overcrowding at the dive sites — most of the time, we had the sites to ourselves." Good shark action at Blue Corner and Blue Hole.
 - **General consensus**: Palau's pelagic-driven sites remain fully intact. Coral shows some bleaching stress (consistent with the global event) but the signature experience — sharks, walls, currents — is undiminished. Jellyfish Lake recovering. Uncrowded relative to comparable destinations.
+
+## Related Destinations
+
+- [Philippines](philippines.md) — western Pacific neighbor
+- [Raja Ampat](indonesia/raja-ampat.md) — comparable world-class reef + pelagic diving
+- [Derawan / Kakaban](indonesia/derawan-kakaban.md) — also has a stingless jellyfish lake

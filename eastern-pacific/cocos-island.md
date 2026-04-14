@@ -96,3 +96,9 @@ highlights:
 - **2021–2022 expansions**: Cocos-Galapagos Swimway biocorridor created. No-take zone around the island further expanded. International cooperation with Ecuador (Galapagos) and Colombia (Malpelo) for corridor protection.
 - **Illegal longlining** by international fleets remains the primary enforcement challenge. Costa Rica has invested in additional patrol vessels and expanded satellite vessel monitoring (VMS), but remoteness limits comprehensive enforcement.
 - **Diver rules**: No-touch, no-glove policies. Operators coordinate with park authorities. All fees contribute to ranger presence and monitoring.
+
+## Related Destinations
+
+- [Galapagos](galapagos.md) — biological corridor; confirmed hammerhead migration
+- [Malpelo](malpelo.md) — Hammerhead Triangle partner; similar expedition format
+- [Hammerhead Triangle](hammerhead-triangle.md) — the corridor connecting all three

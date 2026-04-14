@@ -28,7 +28,7 @@ highlights:
 
 - Over 800 islands, many unexplored. One of the last frontier diving areas in Southeast Asia. Historically remote with very low tourism and fishing pressure.
 - **Scientific monitoring has collapsed post-coup (Feb 2021)**. International research collaborations suspended, in-country marine scientists displaced. Most information comes from liveaboard operator observations rather than systematic surveys.
-- The archipelago sits in the same thermal regime as the northern Similans — comparable 2024 bleaching stress expected. Shallow reefs likely impacted, but deeper structures and current-swept sites probably in reasonable condition. Some operators reported conditions "better than expected" compared to the Similans.
+- The archipelago sits in the same thermal regime as the northern [Thailand — Andaman North](thailand-andaman-north.md) Similans — comparable 2024 bleaching stress expected. Shallow reefs likely impacted, but deeper structures and current-swept sites probably in reasonable condition. Some operators reported conditions "better than expected" compared to the Similans.
 
 ## Key Dive Sites
 
@@ -80,3 +80,8 @@ Submerged seamounts famous for silvertip sharks. Trip reports 2023-2025 are mixe
 - **Ethical dimension**: permit fees reach the military government. Personal decision for each diver.
 - **Illegal fishing**: enforcement has collapsed post-coup. Reports of blast fishing evidence, increased fishing boats, and declining shark numbers at Burma Banks.
 - **For the right diver**: an unmatched frontier experience with outstanding macro, genuine exploration feel, and far fewer divers than anywhere in Thailand. But requires higher risk tolerance and flexibility.
+
+## Related Destinations
+
+- [Thailand — Andaman North](thailand-andaman-north.md) — same thermal regime; more accessible alternative
+- [Thailand — Andaman South](thailand-andaman-south.md) — nearest established dive area

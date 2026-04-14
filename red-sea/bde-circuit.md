@@ -98,3 +98,9 @@ East and west walls between the plateaus are draped in vibrant red, orange, and 
 - **Dec–Feb**: Cooler (21–24C) but best hammerhead schooling. Rougher seas mean more cancellations.
 - **Mar–May**: Transitional — sharks still present, fewer boats, strong value.
 - **Jun–Sep**: Warm, good viz, but oceanic whitetip encounters less consistent. Manta probability increases Aug onward.
+
+## Related Destinations
+
+- [Northern Egypt](northern-egypt.md) — combined on most Red Sea liveaboard itineraries
+- [Southern Egypt](southern-egypt.md) — deep south extensions on longer trips
+- [Socorro](../eastern-pacific/socorro.md) — comparable pelagic-focused diving experience

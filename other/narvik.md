@@ -87,3 +87,8 @@ Various deep locations (60m+). Rarely dived.
 - **Experience level**: Georg Thiele and Bernd von Arnim accessible to advanced recreational divers with cold-water drysuit experience. Deep wrecks require full technical capability (twinsets, deco gas, cold-water tech experience).
 - **Recompression chamber**: Nearest operational chamber at University Hospital of North Norway (Tromso), ~3hr drive south. Conservative profiles essential.
 - **For the right diver**: Narvik delivers a unique combination of WWII history, pristine Arctic fjord scenery, and near-total solitude on the wrecks. But you must be self-sufficient and plan ahead — this is expedition-grade logistics, not a resort.
+
+## Related Destinations
+
+- [Scapa Flow](scapa-flow.md) — premier cold-water wreck diving; better infrastructure
+- [Malta & Gozo](malta-gozo.md) — wreck diving in warmer conditions

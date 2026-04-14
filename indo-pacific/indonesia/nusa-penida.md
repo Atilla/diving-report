@@ -101,3 +101,9 @@ The snorkeling scene at Manta Bay is more chaotic — overcrowded sites, unlicen
 ### Operators (quality varies dramatically)
 - **Reputable:** Blue Corner Dive (PADI 5* IDC, cofounded by marine biologist, 4:1 ratio — the standard-setter), Legend Diving (Green Fins certified, eco-focused), **Scuba Junkie Penida** (personally confirmed Apr 2025 — safe, well-run dives), Pure Dive Resort (Dive Magazine top-5 Indonesia), Neptune Scuba Diving.
 - **Avoid:** unlicensed day-boat operators running snorkel trips from Bali with minimal safety equipment. The gap between good and bad operators here is wider than almost anywhere in Southeast Asia.
+
+## Related Destinations
+
+- [Komodo](komodo.md) — nearby; upwelling-protected Indonesian diving
+- [Alor](alor.md) — comparable current-driven diving
+- [Lembeh](lembeh.md) — combine Bali + Lembeh for diverse Indonesia trip

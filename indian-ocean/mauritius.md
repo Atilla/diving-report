@@ -75,3 +75,8 @@ Very limited dive infrastructure. A niche option for adventurous divers.
 - **Access**: Fly to Sir Seewoosagur Ramgoolam International Airport (MRU). Direct flights from Europe, Dubai, and regional hubs.
 - **Operators**: ~50 dive centers on the west and north coasts.
 - **No liveaboard industry.** Shore-based diving only.
+
+## Related Destinations
+- [Reunion](reunion.md) — geographic neighbor; volcanic diving
+- [Seychelles](seychelles.md) — Indian Ocean alternative with better diving
+- [Madagascar](madagascar.md) — nearby; more serious dive destination

@@ -101,3 +101,10 @@ Whitetip reef sharks at Ras Mohammed and Tiran. Green and hawksbill turtles wide
 - **Costs**: Day boats $50–80/day; liveaboards $150–300+/night.
 - **Recompression**: Sharm (Hyperbaric Medical Center) and Hurghada — among the best chamber infrastructure worldwide.
 - **Experience**: Beginner-friendly at Dahab shore sites, Giftun, Gordon Reef. Intermediate for Ras Mohammed, Abu Nuhas. Thomas Reef and Blue Hole Arch require advanced certification.
+
+## Related Destinations
+
+- [BDE Circuit](bde-circuit.md) — offshore extension of northern Egypt liveaboard routes
+- [Southern Egypt](southern-egypt.md) — continuation south; significantly more degraded
+- [Saudi Arabia](saudi-arabia.md) — opposite coast; similar latitude, comparable reef health
+- [Djibouti](djibouti.md) — Red Sea's other healthy reef system; upwelling-protected

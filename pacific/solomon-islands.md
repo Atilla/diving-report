@@ -73,3 +73,9 @@ Uninhabited, pristine, liveaboard-only access. Walls, reef sharks, untouched cor
 - **Season**: March–December. Best conditions October–December (transitional season — calmer seas, good visibility).
 - **Recompression chamber**: Limited — DAN insurance and conservative profiles essential.
 - **Experience level**: Most sites suit Advanced Open Water. Wreck penetration requires appropriate certification. Some outer sites advanced due to currents.
+
+## Related Destinations
+
+- [Papua New Guinea](../indo-pacific/png.md) — geographic neighbor; comparable pristine reefs + WWII wrecks
+- [Chuuk Lagoon](chuuk-lagoon.md) — comparable WWII wreck diving in the Pacific
+- [Vanuatu](vanuatu.md) — Melanesian neighbor; wreck + reef diving

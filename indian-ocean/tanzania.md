@@ -80,3 +80,8 @@ Tanzania's oldest marine park (1995). Whale shark aggregation Oct-Mar (peak Nov-
 - **Access**: Fly to Zanzibar (ZNZ) or Dar es Salaam (DAR). Domestic connections to Pemba and Mafia.
 - **No liveaboard industry** — resort/lodge-based diving only.
 - **Safari combo**: Unmatched combination of world-class diving and East African safari.
+
+## Related Destinations
+- [Mozambique](mozambique.md) — East African coast neighbor to the south
+- [Madagascar](madagascar.md) — Indian Ocean neighbor
+- [Seychelles](seychelles.md) — Indian Ocean alternative; outer atolls for shark diving

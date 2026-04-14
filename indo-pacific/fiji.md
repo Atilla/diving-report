@@ -159,3 +159,9 @@ Primarily a day-trip from Pacific Harbour, not a standard liveaboard stop.
 - Kadavu trips in mid-2025 reported excellent hard coral cover on outer passes and manta encounters on multiple dives.
 - Mamanuca and Yasawa resort-based divers reported noticeably reduced hard coral cover with algae overgrowth on shallow reefs following the 2023-2024 bleaching — consistent with the inner-reef degradation pattern. Some recovery of fast-growing Acropora observed by late 2025.
 - Beqa shark dives continue to deliver large bull shark numbers. Operators report consistent encounters of 30-50+ bulls per feed session.
+
+## Related Destinations
+
+- [Tonga](../pacific/tonga.md) — geographic Pacific neighbor; humpback whale season
+- [French Polynesia — Tuamotus](../pacific/french-polynesia-tuamotus.md) — Pacific island alternative; shark focus
+- [Papua New Guinea](png.md) — comparable Pacific reef diving

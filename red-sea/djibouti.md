@@ -92,3 +92,9 @@ Djibouti's signature marine experience. **November to February**, juvenile whale
 - The biggest conservation asset is simply **the absence of pressure** — minimal tourism, minimal industrial fishing, minimal coastal development. This passive protection has kept reefs intact where active management is absent.
 - **Monitoring gap**: no ongoing systematic coral monitoring program. The 2023 research mission was a rare data point. Whether reefs survived 2024 elevated SSTs is unknown — this is a genuine knowledge gap.
 - **For the right diver**: Djibouti offers potentially the most intact reefs in the greater Red Sea basin, reliable whale shark encounters, and a true frontier feel. But it demands high self-sufficiency, tolerance for logistical friction, advanced diving skills (for Seven Brothers), and acceptance of limited safety infrastructure.
+
+## Related Destinations
+
+- [Northern Egypt](northern-egypt.md) — Red Sea's other upwelling-protected healthy reefs
+- [Oman](../indian-ocean/oman.md) — nearby; also upwelling-protected (not currently viable)
+- [Christmas Island](../indian-ocean/christmas-island.md) — comparable whale shark encounters linked to ecological cycles
