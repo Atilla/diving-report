@@ -150,6 +150,7 @@ Cenote diving costs $150–235 per person for a two-dive day including transport
 - Jun 2025 (ScubaBoard): "The reef and sea life looked pretty good." One diver said reefs "looked like they did 15 years ago."
 - Late 2025 (ScubaBoard): Divemaster assessment: "The diving and reef health in Cozumel has been improving over the last few years."
 - Dec 2024 (ScubaBoard): "Reef in better condition than Roatan" but coral bleaching present, varies by dive site.
+- **Autumn 2025:** Cozumel reefs described as "wunderschön and relatively healthy," large spiny lobsters, curious nurse sharks, eagle rays. Note: fish life and topography can read as "healthy" even where hard coral cover is low (~15%).
 - Oct 2024 (ScubaBoard): "Mediocre" reef life; "significant reef degradation over the past decade;" topography impressive but coral coverage and abundance fell short of expectations.
 - Feb 2024 (ScubaBoard): "If there is bleaching, I didn't see it. The reefs were very healthy." Coral and sponges "nice, big and healthy." But: another Feb 2024 diver reported red/green algae, depressed fish populations, and lost 5 of 10 dive days to port closures.
 

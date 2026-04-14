@@ -153,6 +153,10 @@ Northeast monsoon (Amihan, Nov-Feb) brings drier conditions and better visibilit
 - **Community MPAs**: The Philippines pioneered community-based marine management. Apo Island's MPA (est. 1982) is a globally cited success — fish biomass inside the reserve is multiple times higher than outside. Hundreds of community MPAs across the Visayas, though enforcement quality varies.
 - **Challenges**: Dynamite and cyanide fishing reduced but not eliminated in some areas. Climate-driven bleaching is beyond local management control.
 
+## Trip Reports
+
+- **Dec 2025 (Visayas + Tubbataha):** Visayas — giant fan corals, staghorn corals "teeming with fish," dense stone coral forests, exceptional macro (nudibranchs "in unimaginable diversity"), whale sharks, parrotfish spawning. Tubbataha — "healthy coral populations full of life," leather and stone coral forests in shallow zones, dramatic walls. No bleaching at either location.
+
 ## Related Destinations
 
 - [Raja Ampat](indonesia/raja-ampat.md) — Coral Triangle neighbor; similar biodiversity

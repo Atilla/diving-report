@@ -91,6 +91,10 @@ The Agulhas Current is the dominant factor — pushes warm water south and drive
 - **Recompression chamber**: Nearest in Maputo (Hospital Central). No chamber in Inhambane, Vilankulos, or northern Mozambique. Some operators coordinate with Durban, South Africa as secondary option for the south. DAN evacuation insurance strongly recommended.
 - **Experience level**: Advanced recommended for Tofo and Ponta do Ouro (strong currents, deep pelagic dives). Bazaruto sheltered sites suit Open Water. Malaria prophylaxis essential.
 
+## Trip Reports
+
+- **2019 (older data, pre-2023):** Reefs described as "far less colourful and fewer corals" than Red Sea or Caribbean. Tofo encounter rates: estimated 10% manta, 33% whale shark probability. Ponta d'Ouro best for large fish — groupers and whitetip sharks with no shyness toward divers.
+
 ## Related Destinations
 
 - [Tanzania](tanzania.md) — East African coast neighbor to the north

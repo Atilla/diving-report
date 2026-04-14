@@ -157,6 +157,7 @@ highlights:
 ## Trip Reports
 
 - Nov-Dec 2025 (WAD blog): 12-day trip, liveaboard + Arborek land-based. Oceanic manta at Chicken Reef, mobula rays at Cape Kri at slack tide, walking carpet shark at Arborek jetty night dive. Wobbegong sharks ubiquitous across all areas. "Raja Ampat is not the ultimate macro destination" but unmatched for fish diversity and reef structure.
+- **Multiple 2023–2026 reports:** Consistently pristine conditions and ongoing recovery. Feb 2025 (MSV Amira, Dampier Strait): dense hard coral coverage, "soft coral gardens among the most beautiful reefs in Indonesia," manta cleaning stations, large groupers. 2026 (Misool): exceptional soft coral, massive fish aggregations, Raja Walking Shark; no bleaching. Late-2024 bleaching event not catastrophic; recovery is underway.
 
 ## Related Destinations
 

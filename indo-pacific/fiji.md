@@ -157,7 +157,7 @@ Day-trip based from Pacific Harbour.
 
 - NAI'A trip reports from 2024-2025 describe Bligh Water soft coral sites as "spectacular" with "walls of color" at E-6 and Mount Mutiny. Nigali Passage shark numbers reported as strong. Rainbow Reef / Great White Wall described as "living up to its reputation."
 - Kadavu trips in mid-2025 reported excellent hard coral cover on outer passes and manta encounters on multiple dives.
-- Mamanuca and Yasawa resort-based divers reported noticeably reduced hard coral cover with algae overgrowth on shallow reefs following the 2023-2024 bleaching — consistent with the inner-reef degradation pattern. Some recovery of fast-growing Acropora observed by late 2025.
+- Mamanuca and Yasawa resort-based divers reported noticeably reduced hard coral cover with algae overgrowth on shallow reefs following the 2023-2024 bleaching. Some recovery of fast-growing Acropora observed by late 2025.
 - Beqa shark dives continue to deliver large bull shark numbers. Operators report consistent encounters of 30-50+ bulls per feed session.
 
 ## Related Destinations

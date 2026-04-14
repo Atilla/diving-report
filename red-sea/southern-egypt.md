@@ -2,7 +2,7 @@
 destination: Southern Egypt
 region: Red Sea
 sub_region: Marsa Alam, Fury Shoals, St. Johns, Deep South
-status: "Poor — significant coral loss, but not a wasteland; early recovery visible"
+status: "Poor — Fury Shoals and Wadi Gimal catastrophically damaged; St. Johns offshore still viable"
 tier: 3
 coral_rating: "Poor"
 marine_life_rating: "Good megafauna"
@@ -26,11 +26,19 @@ highlights:
 
 ## Status
 
-- Severe bleaching in 2023 AND 2024 (up to 56% of coverage expelled algae). Reefs had not recovered from 2023 before 2024 hit.
-- Hard coral cover at some sites dropped from >40% to <5%.
-- **Firsthand account (April 2026):** coral death is obvious and widespread, but the area is not terrible — fish and marine life are still present, and new corals are visibly growing. It's not a coral garden, but there are clear signs of early recovery.
-- St. Johns and Fury Shoals confirmed by locals and frequent visitors to have significant coral loss. ScubaBoard Sept 2025 (Red Sea Aggressor V Deep South): *"On the best reef, maybe 50% was healthy. On the worst, 90% was dead... covered with algae."*
-- **Marine life still present and active**: dolphins at Sataya, mantas, sharks, dugongs. The diving is still worthwhile — just set expectations for coral aesthetics below what the Deep South was known for pre-2023.
+**Fury Shoals and Wadi Gimal catastrophically damaged; St. Johns offshore still viable**
+
+- **Two successive bleaching events** in summers 2023 and 2024 — reefs had not recovered from 2023 before 2024 struck. Water temps reached 35°C in shallow coastal areas in August 2024, with offshore areas hitting 30–31°C in summer 2023. Coral growth rates collapsed from >2 cm/year to <0.5 cm/year (divediscover.de, 2026). 2025 temperatures were significantly lower — no new mass bleaching event in 2025.
+
+**Condition by sub-area (as of late 2025–early 2026):**
+
+- **Wadi Gimal / Shams Alam National Park:** 70–80% hard coral death; dead skeletons heavily colonised by algae. Hammerheads and Napoleon fish now largely absent from sites where they were previously reliable.
+- **Fury Shoals / Sataya:** Progressed from ~50% bleached (October 2023) to approximately two-thirds dead by October 2025. Beautiful stone coral areas described as "almost completely dead." The resident spinner dolphin pod at Sataya remains.
+- **Marsa Alam coastal (Aurora Bay):** 95% coral mortality in shallow areas; 80–90% in deeper sections. Algae-covered skeletons dominant.
+- **Wadi El Gemal:** 50.1% bleached colonies per HEPCA official monitoring data.
+- **St. Johns (offshore, Habili Ali / Dangerous Reef):** 10–30% of coral skeletons algae-covered; remaining live coral still present. Described as "absolutely still worth seeing" (April 2025) — the offshore location provides more resilience than coastal sites. Hard coral cover at some sites dropped from >40% to <5% but pelagic encounters remain.
+
+- **Marine life still present and active:** dolphins at Sataya, mantas, sharks, dugongs unaffected by coral loss. The diving is still worthwhile for megafauna — set expectations for coral aesthetics accordingly.
 
 ## Key Dive Sites
 
@@ -77,7 +85,7 @@ Large horseshoe reef enclosing a sandy lagoon (5–14m). Resident pod of 60–80
 ## Dive Conditions
 
 - **Visibility**: 20–40m typical; best Sep–Nov. St. Johns and offshore sites regularly 30m+.
-- **Temperature**: 24–28C (May–Nov), 21–24C (Dec–Apr). 5mm for winter; 3mm in summer.
+- **Temperature**: 24–28C (May–Nov), 21–24C (Dec–Apr). 5mm for winter; 3mm in summer. Summer 2024 saw coastal water temps reach 35°C — the driver of catastrophic bleaching; summer 2025 was significantly cooler.
 - **Currents**: Mild inside Fury Shoals lagoons; moderate to strong at Elphinstone, Habili Ali, and exposed St. Johns sites.
 
 ## Practical Info
@@ -89,6 +97,12 @@ Large horseshoe reef enclosing a sandy lagoon (5–14m). Resident pod of 60–80
 - **Recompression chambers**: Nearest in Marsa Alam and Port Ghalib (DAN affiliated). No chamber south of Port Ghalib.
 - **Experience level**: Deep south requires minimum Advanced OW with 50+ dives. Habili Ali and Elphinstone suit experienced divers comfortable with currents.
 - **Best season**: **Sep–Nov** — warmest water (26–28C), best visibility, highest oceanic whitetip and hammerhead probability. Jun–Aug also good but windier. Winter (Dec–Feb) cooler with rougher seas but fewer boats.
+
+## Trip Reports
+
+- **2023–2025 reports:** Fury Shoals characterised as "almost completely dead" by October 2025; Wadi Gimal at 70–80% hard coral death with apex predators largely absent; Wadi El Gemal at 50.1% bleached per HEPCA data; Marsa Alam coastal zones at 80–95% mortality. 50% collapse in Egyptian dive safari bookings reported. Recovery outlook from local guides: "irreparably destroyed for 10–20 years" in worst-hit areas. St. Johns still viable for offshore megafauna.
+- **ScubaBoard Sep 2025, Red Sea Aggressor V (Deep South itinerary):** *"On the best reef, maybe 50% was healthy. On the worst, 90% was dead... covered with algae."*
+- **Firsthand account, April 2026:** Coral death obvious and widespread; isolated patches of new coral growth visible. Fish and marine life still present at St. Johns and Sataya. Expectations need resetting vs. pre-2023 baseline.
 
 ## Related Destinations
 

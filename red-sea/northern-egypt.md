@@ -115,6 +115,10 @@ Whitetip reef sharks at Ras Mohammed and Tiran. Green and hawksbill turtles wide
 - **Recompression**: Sharm (Hyperbaric Medical Center) and Hurghada — among the best chamber infrastructure worldwide.
 - **Experience**: Beginner-friendly at Dahab shore sites, Giftun, Gordon Reef. Intermediate for Ras Mohammed, Abu Nuhas. Thomas Reef and Blue Hole Arch require advanced certification.
 
+## Trip Reports
+
+- **April 2025:** Northern Sinai (Dahab, Sharm el-Sheikh, Ras Mohammed) reported "no visible damage." Hurghada described as "still okay." Gulf of Aqaba confirmed as the most resilient zone in Egypt, with corals tolerating 27–32°C that causes bleaching elsewhere — attributed to heat-adapted coral genetics.
+
 ## Related Destinations
 
 - [Brothers/Daedalus/Elphinstone](bde-circuit.md) — offshore extension of northern Egypt liveaboard routes

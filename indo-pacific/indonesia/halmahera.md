@@ -4,7 +4,7 @@ region: Indo-Pacific
 sub_region: Indonesia
 status: "FRONTIER — Indonesia's last undiscovered Coral Triangle corner; genuine exploration potential"
 tier: 5
-coral_rating: "Good-Excellent (unsurveyed)"
+coral_rating: "Good-Excellent (predominantly healthy 2024–2026; localized bleaching reported at unspecified sites)"
 marine_life_rating: "Very Good"
 best_season: Oct-Apr
 peak_months: [Oct, Nov, Mar, Apr]
@@ -32,7 +32,7 @@ highlights:
 - The **Halmahera Sea** acts as a conduit for the Indonesian Throughflow, driving nutrient upwelling and extraordinary productivity. The Halmahera Eddy concentrates nutrients and plankton. This oceanographic engine supports high biodiversity that likely rivals better-surveyed areas — but Halmahera is **one of the least-surveyed corners of the Coral Triangle**. Baseline reef surveys, species inventories, and systematic wreck documentation are all lacking.
 - **Operators describe it as what [Raja Ampat](raja-ampat.md) was 15–20 years ago**: pristine reefs, almost zero divers, genuine exploration. The combination of whale sharks, WWII wrecks, pristine reefs, and macro life in a single region is distinctive.
 - Reefs around Weda Bay, Morotai, and outer island areas are generally reported as healthy to excellent — low population density, limited industrial fishing, and remoteness provide natural protection.
-- **2024 bleaching**: Specific data is extremely limited. Anecdotal reports suggest shallow reefs showed some stress, deeper reefs less affected. Current systems may provide thermal buffering. Recovery monitoring is essentially nonexistent.
+- **2024–2026 reef condition:** Three independent sources now exist, with mixed but predominantly positive findings. TAUCHEN Magazin (Sep 2024) described "exceptionally healthy table and staghorn corals spanning hundreds of meters" with only minor localised bleaching attributable to historical dynamite fishing rather than thermal stress — and cited 803 fish species and 378 coral species documented in the region. Aqua Active (2026, Sali Bay / Kusu Island Resorts) reported colourful hard and soft corals, gorgonians, and pristine conditions with no bleaching. A single taucher.net report (2024, site unspecified) noted "extensive bleaching and debris pollution." The two-against-one weight of evidence points to predominantly healthy reefs, with geographic variation likely: resort-adjacent and sheltered sites (Sali Bay, Weda Bay) appear healthy while some exposed or coastal areas may have experienced stress. The "(unsurveyed)" qualifier has been retired — we now have first-hand accounts — but systematic baseline data remains absent.
 
 ## Key Dive Sites
 
@@ -98,6 +98,10 @@ The Malaillo liveaboard conducted exploration expeditions discovering previously
 - Aketajawe-Lolobata National Park (primarily terrestrial — one of the Moluccas' largest remaining rainforests) provides indirect watershed protection.
 - **Nickel mining** is the most significant near-term threat — mining operations on Halmahera and Obi generate sedimentation and pollution in coastal waters.
 - **Halmahera represents a rare conservation opportunity**: protecting high-value marine ecosystems *before* major degradation occurs, rather than restoring already-damaged ones. Dive tourism, developed sustainably, could provide economic incentives for marine protection (the [Raja Ampat](raja-ampat.md) model).
+
+## Trip Reports
+
+- **2024–2026 accounts (mixed):** Most firsthand reports describe healthy, colourful corals and exceptional biodiversity (803 fish spp, 378 coral spp) at Weda Bay, Sali Bay, and Kusu Island sites. One 2024 report described bleaching and debris at an unspecified location. Best current interpretation: site-dependent variation — resort-adjacent reefs healthy; some outer/coastal sites may have been affected. No systematic survey exists.
 
 ## Related Destinations
 

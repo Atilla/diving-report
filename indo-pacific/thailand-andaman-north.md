@@ -141,6 +141,10 @@ November through April/May. Parks close mid-May to mid-October (exact dates vary
 - **Recompression chamber**: SSS Network Recompression Chamber, Phuket (Bangkok Hospital Phuket and Vachira Phuket Hospital). ~2 hrs by speedboat from Similans. DAN insurance strongly recommended.
 - **Experience level**: Similans east-side sites suitable for Open Water divers (calm, moderate depth). West-side sites (Christmas Point, Elephant Head), Richelieu Rock, and Burma Banks best suited for Advanced OW with 30+ logged dives. Strong currents at exposed sites require comfort with drift diving and blue-water descents.
 
+## Trip Reports
+
+- **Aug 2024 (Similan Islands):** Reefs described as degraded vs. the early-2000s baseline — single-species coral dominance, sparse colonisation, algae growth. Compared unfavourably with current Indonesia.
+
 ## Related Destinations
 
 - [Thailand — Andaman South](thailand-andaman-south.md) — combined on 5-7 night liveaboard itineraries

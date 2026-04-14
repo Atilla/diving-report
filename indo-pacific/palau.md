@@ -126,7 +126,8 @@ highlights:
 
 - **2024 ScubaBoard**: "Schools of barracuda, bigeye trevally are always there. Humphead wrasse and sharks are also very common." Noted some bleached table coral but overall hard coral variety "world class."
 - **2025 Palau Siren (April)**: "One big plus about Palau is the lack of overcrowding at the dive sites — most of the time, we had the sites to ourselves." Good shark action at Blue Corner and Blue Hole.
-- **General consensus**: Palau's pelagic-driven sites remain fully intact. Coral shows some bleaching stress (consistent with the global event) but the signature experience — sharks, walls, currents — is undiminished. Jellyfish Lake recovering. Uncrowded relative to comparable destinations.
+- **General consensus**: Palau's pelagic-driven sites remain fully intact. Coral shows some bleaching stress but the signature experience — sharks, walls, currents — is undiminished. Jellyfish Lake recovering. Uncrowded relative to comparable destinations.
+- **2017–2024 reports:** Nov 2024: vibrant coral gardens, soft coral-covered wrecks (Iro Maru), no bleaching; manta activity strongest Nov–Feb. Mass spawning aggregations documented at Peleliu: ~1.2 million Sailfin Snapper each March–April; monthly Humphead Parrotfish and Red Snapper spawning cycles at reef edges.
 
 ## Related Destinations
 

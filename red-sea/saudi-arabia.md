@@ -2,9 +2,9 @@
 destination: Saudi Arabia Red Sea
 region: Red Sea
 sub_region: Yanbu, Jeddah, Farasan
-status: "NORTHERN GOOD, SOUTHERN MODERATE"
+status: "NORTHERN GOOD, SOUTHERN POOR — Farasan Banks severely bleached 2023"
 tier: 4
-coral_rating: "Northern good, southern moderate"
+coral_rating: "Northern good, southern poor (Farasan Banks)"
 marine_life_rating: "Good (no reliable pelagics)"
 best_season: October-May
 peak_months: [Nov, Dec, Jan, Feb, Mar]
@@ -27,7 +27,7 @@ highlights:
 ## Status
 
 - Northern (Tabuk/Gulf of Aqaba area): similar thermal resilience to Egyptian north — the same Gulf of Aqaba "supercoral" population extends down the Saudi coast. Good recovery from 2024 bleaching.
-- Southern (Farasan Banks): ~30% live coral cover, affected by repeated bleaching but recovering. Farasan Islands fringing reefs in better condition than offshore banks.
+- Southern (Farasan Banks): Summer 2023 bleaching was severe and rapid — described as occurring at "unprecedented pace" over 6–8 weeks from early August 2023, with up to 80% coral death in shallow zones. Farasan Islands fringing reefs in better condition than the offshore banks.
 - Central coast (Yanbu to Jeddah): patchy data, but offshore reefs appear moderately healthy. Less studied than Egyptian counterparts.
 - NEOM coral restoration project: 40,000 corals/year, the largest in the Red Sea.
 
@@ -59,7 +59,7 @@ Large offshore reef system, walls and coral slopes, 5-30m+. Historically good ha
 
 #### Farasan Banks (offshore)
 
-Vast submerged reef complex, the largest in the Red Sea. Remote — requires multi-day boat access. Coral coverage degraded by repeated bleaching (~30% live cover) but the sheer scale means extensive reef remains. Pelagic encounters (sharks, mantas) more likely here than inshore.
+Vast submerged reef complex, the largest in the Red Sea. Remote — requires multi-day boat access. Severely affected by 2023 bleaching — up to 80% dead in shallow zones. Deeper sections and the fringing reefs of the Farasan Islands themselves are in better shape. Pelagic encounters (sharks, mantas) more likely here than inshore.
 
 ### Farasan Islands (far south, near Yemen border)
 
@@ -115,6 +115,10 @@ Extremely remote for dive tourists. No established dive operations based here.
 Saudi Arabia's Red Sea is **genuinely accessible for day-boat diving from Jeddah and Yanbu** — the visa works, operators exist, the reefs are real. For a diver visiting Saudi Arabia for other reasons (business, Hajj/Umrah, tourism), adding a few days of diving is entirely feasible and worthwhile.
 
 This is a destination in genuine transition. The dive infrastructure is growing but still limited compared to Egypt's mature operator ecosystem. Liveaboard itineraries are emerging but not yet regularly bookable. Likely to become a more fully developed dive destination by 2028-2030 as NEOM, Red Sea Global, and private operators build out.
+
+## Trip Reports
+
+- **2023–2024 reports:** Farasan Banks experienced "unprecedented pace" of bleaching — 6–8 weeks from early August 2023, with up to 80% shallow coral death. Water temps reached 29–30°C in October–November 2023 and up to 33°C in August–September.
 
 ## Related Destinations
 

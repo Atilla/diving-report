@@ -31,7 +31,7 @@ highlights:
 - **1.39 million hectare** national park (one of Indonesia's largest marine parks), designated UNESCO Biosphere Reserve in 2012. Name is an acronym of the four main islands: **Wa**ngi-Wangi, **Ka**ledupa, **To**mia, **Bi**nongko.
 - **396 documented coral species** — not the single richest site globally (Raja Ampat exceeds 550+), but among the highest coral diversity per unit area on Earth. Sits squarely at the apex of the Coral Triangle.
 - Coral cover in well-managed zones ranges from **50–80%+**, well above Indonesian and global averages. The Operation Wallacea long-term monitoring program (running since the late 1990s, producing numerous peer-reviewed publications) confirms stable or increasing cover in protected areas.
-- **2024 bleaching**: NOAA Coral Reef Watch showed Bleaching Alert Level 1 for the Banda Sea region. Wakatobi Dive Resort reported localized minor bleaching in shallow areas but no mass mortality. Well-managed zones fared better — consistent with published science showing that reducing local stressors improves bleaching resilience.
+- **2024 bleaching**: NOAA Coral Reef Watch showed Bleaching Alert Level 1 for the Banda Sea region. Wakatobi Dive Resort reported localized minor bleaching in shallow areas but no mass mortality. Well-managed zones fared better.
 - **This is a coral and macro destination, not a big-animal destination.** Divers seeking sharks, mantas, and large pelagics should choose Komodo or Raja Ampat. Wakatobi's strength is pristine coral reefscapes, exceptional macro/critter life, and a relaxed, professional dive operation.
 
 ## Key Dive Sites

@@ -110,6 +110,10 @@ Occasional liveaboard stops with excellent pass diving and zero crowds.
 - The grouper spawning aggregation at Fakarava South Pass is one of the most studied in the Pacific — research by CRIOBE (Centre de Recherches Insulaires et Observatoire de l'Environnement) has documented the ecological significance. French Polynesia officially banned all shark feeding and baiting in 2017, though a 2019 WAD report noted some operators near Tahiti still conducting feeding despite the ban.
 - Shark populations in the Tuamotus are among the healthiest in the Indo-Pacific, likely due to low human pressure, healthy reef structure, and traditional Polynesian marine stewardship.
 
+## Trip Reports
+
+- **2022–2025 reports:** Oct 2022: healthy reefs, "wall of sharks," giant reef structure, humpback whales. Fakarava: "dense coral growth with diverse colors" confirmed, but crown-of-thorns starfish pressure and temperature stress also noted.
+
 ## Related Destinations
 
 - [Maldives](../indo-pacific/maldives.md) — comparable atoll diving in the Indian Ocean

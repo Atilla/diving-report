@@ -55,7 +55,7 @@ highlights:
 - Lab-reared corals show better bleaching resistance, and heat tolerance passes to offspring.
 
 - **Environmental management praised (2026):** March 2026 visitors reported positively on island protections, fishing regulations, Reef Renewal Foundation efforts, and the cleanliness of water and beaches — reinforcing Bonaire's reputation for proactive reef stewardship.
-- **Saba** is worst off (coral cover below 3%, algae >60%). **Curacao** similar trajectory to Bonaire but with less restoration capacity. **Bonaire remains the best-positioned** of the three due to marine park management, restoration infrastructure, and enforced environmental protections.
+- **Saba** is worst off (coral cover below 3%, algae >60%). **Curacao** — while sharing the same bleaching and SCTLD pressures as Bonaire — is independently noted as among the best-preserved reefs in the wider Caribbean in 2024, with comparatively good species richness including gorgonians and hard corals. **Bonaire remains the best-positioned** of the three due to marine park management, restoration infrastructure, and enforced environmental protections; novel shading programmes to mitigate bleaching are being trialled.
 - **If hard coral gardens are your priority, Bonaire will disappoint vs. its former glory.** But soft corals, sponges, marine life, and the world-class shore-diving infrastructure make it still one of the better Caribbean diving destinations. Northern and southern sites are meaningfully better than mid-island.
 
 ## Dive Conditions
@@ -83,6 +83,10 @@ highlights:
 - **Recompression chamber**: San Francisco Hospital, Kralendijk.
 - **Experience level**: All levels. Self-guided format rewards good buoyancy and navigation but is not inherently difficult.
 - **Diving style**: Shore diving — widely regarded as the best in the world. The entire experience is built around the self-guided shore-diving model described above.
+
+## Trip Reports
+
+- **2023–2024 reports:** Bonaire experiencing one of the worst bleaching events in recent memory, compounded by SCTLD. Curaçao noted as among the best-preserved reefs in the Caribbean with good species richness.
 
 ## Related Destinations
 

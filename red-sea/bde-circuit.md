@@ -28,6 +28,8 @@ highlights:
 
 - Severely bleached in summer 2024. A ScubaBoard trip report (Aug 2024, Red Sea Aggressor IV) described Daedalus as "maybe every 200th coral is NOT bleached." A Dec 2024 report called Brothers/Daedalus/Elphinstone reefs "largely dead."
 - HEPCA documented 70-85% recovery rates for surviving bleached corals, but many colonies died outright.
+- **Offshore temperature advantage:** Brothers and Daedalus recorded water temps of 25–26°C during the 2023–2024 bleaching period — cooler than southern coastal sites (which reached 35°C). This explains their relative preservation vs. the devastation at Marsa Alam/Fury Shoals.
+- **Zabargad Island:** Approximately 33% bleached (November 2023), progressing to roughly two-thirds dead by October 2025 — a site to monitor closely.
 - **Elphinstone looked very alive as of April 2026**, particularly the soft-coral side. Hard coral condition unclear vs. historical baseline, but the reef did not look degraded. Soft corals appear to be weathering the bleaching events better than hard corals across the region.
 - **The pelagic life is unaffected**: hammerheads, oceanic whitetips, thresher sharks remain. Go for the sharks; Elphinstone delivers on reef aesthetics too.
 
@@ -106,6 +108,10 @@ East and west walls between the plateaus are draped in vibrant red, orange, and 
 - **Dec–Feb**: Cooler (21–24C) but best hammerhead schooling. Rougher seas mean more cancellations.
 - **Mar–May**: Transitional — sharks still present, fewer boats, strong value.
 - **Jun–Sep**: Warm, good viz, but oceanic whitetip encounters less consistent. Manta probability increases Aug onward.
+
+## Trip Reports
+
+- **2023–2025 reports:** Brothers and Daedalus documented with scattered (~5%) white patches in October 2023. Elphinstone repeatedly cited as the best-preserved reef in the Marsa Alam area, confirmed as still healthy in April 2026. Zabargad Island tracked at ~33% bleached (Nov 2023) progressing to roughly two-thirds dead by October 2025.
 
 ## Related Destinations
 

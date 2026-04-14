@@ -89,6 +89,10 @@ Tanzania's oldest marine park (1995). Whale shark aggregation Oct-Mar (peak Nov-
 - **Diving format**: Resort and lodge-based diving.
 - **Safari combo**: Unmatched combination of world-class diving and East African safari.
 
+## Trip Reports
+
+- **2020–2021 (Mnemba Atoll, Nungwi, Pemba Island):** Reefs described as "quite intact." Good for beach-vacation divers; not world-class for dedicated divers seeking pristine coral. Note: older data, pre-2023 bleaching.
+
 ## Related Destinations
 
 - [Mozambique](mozambique.md) — East African coast neighbor to the south

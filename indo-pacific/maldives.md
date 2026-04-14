@@ -30,6 +30,9 @@ highlights:
 - **Southern atolls (Huvadhoo) show significantly greater resilience** — all major coral growth forms still well-represented in 2025.
 - Historical recovery time: 16 years between events, but events now occurring every 4-8 years.
 - **Recommendation: strongly prefer southern atoll itineraries.** Pelagic life (sharks, mantas at Hanifaru Bay, whale sharks) remains excellent everywhere.
+- **Depth-tiered recovery:** Reefs deeper than 5–6m are recovering well while very shallow areas remain dominated by algae-covered rubble. Plan dive profiles accordingly.
+- **Resort-level variation is wide:** Filitheyo (North Ari Atoll) described as "excellent — no better house reef" as of March 2025 — a genuine outlier. Bathala house reef was described as "dead." Kandolhu (North Ari) had ~80% house reef in good condition but some sections transformed to "coral graveyards." In the south, Addu Atoll (500km from Male) continues as the best-preserved atoll. Vilamendhoo (South Male) rated "OK."
+- **Positive autumn 2025 signal:** One resort reported its house reef as "healthy, colourful, species-rich" in late 2025 — cautiously encouraging but based on a single account.
 
 ## Key Dive Sites
 
@@ -119,6 +122,7 @@ The southernmost atoll, straddling the equator. **British Loyalty wreck** — a 
 - Southern reports are markedly more positive: a March 2025 Huvadhoo trip described "colourful hard coral gardens — brain corals, table corals, staghorns still intact" with "noticeably fewer boats than the central atolls."
 - Fuvahmulah reports from late 2024 through early 2026 consistently describe tiger shark encounters as "like clockwork — multiple tigers on every harbour dive." Thresher shark sighting rates vary more (estimated 50-70% success at the cleaning station).
 - A recurring theme: divers who visited the Maldives pre-2024 and returned in 2025 describe the central atolls as "unrecognizable" for coral but emphasize that pelagic encounters are as good or better than ever — sharks, mantas, and whale sharks are not coral-dependent.
+- **2024–2026 reports:** Confirm the north/south split. General assessment: "house reefs are more or less all in bad condition, at least regarding stone corals." Filitheyo stands out as a positive exception. January 2026 Spirit of Maldives liveaboard: healthy fish aggregations, manta and whale shark encounters. The depth-tiered recovery pattern (deeper = better) independently confirmed across multiple recent dives.
 
 ## Related Destinations
 

@@ -99,6 +99,10 @@ Jan–Mar considered overall peak for diversity of encounters despite cooler wat
 - **Diver regulations**: No gloves, no spearfishing, no collecting. Operators must hold CONANP permits. Number of boats in park limited at any time. Park fee typically included in trip cost.
 - **Enforcement**: Mexico's navy (SEMAR) maintains a garrison on Socorro and conducts regular patrols. Illegal longlining incursions have decreased significantly since 2017 designation. Overall trajectory for shark and manta populations appears positive.
 
+## Trip Reports
+
+- **Apr 2023 (Nautilus Explorer):** Abundant sharks; operational. No reef condition data — pelagic-focused trip.
+
 ## Related Destinations
 
 - [Galapagos](galapagos.md) — comparable Eastern Pacific megafauna destination

@@ -30,6 +30,7 @@ highlights:
 
 - 28-year monitoring dataset (published in *PNAS*) shows **faster recovery from each successive bleaching** — evidence of ecological adaptation. After 1998: 10+ years recovery at inner islands. After 2016: ~6 years at inner islands (roughly 4 years faster than post-1998), with Aldabra's lagoon recovering to near pre-bleaching levels within 2-3 years. Community composition has shifted from bleaching-susceptible branching Acropora to more thermally tolerant massive corals (Porites, Platygyra).
 - **2024 bleaching was severe** — even Aldabra experienced bleaching, which is notable given its remoteness. The critical question is whether the adaptation trend will hold; assessment is ongoing.
+- **Deep bleaching (2024–2025):** Corals bleached at 60–90m depth in Seychelles waters — depths previously considered thermal refuge zones below the warm surface layer. Mauritius and Tanzania experienced the same phenomenon simultaneously. This challenges the assumption that deep sites (>40m) remain immune to bleaching stress under current warming trajectories.
 
 ## Key Dive Sites
 
@@ -93,6 +94,10 @@ Save Our Seas Foundation research station. Manta cleaning stations. Shark nurser
 
 - **Nature Seychelles Reef Rescuers**: largest coral restoration project in the Indian Ocean. 24,000+ fragments transplanted, targeting 50,000 by 2026. Specifically selecting thermally tolerant genotypes. 60-80% survival rate.
 - **Marine Spatial Plan (2020)**: first in the WIO — **30% of EEZ** designated as marine protected areas via landmark $21.6M debt-for-nature swap. World's first sovereign blue bond ($15M).
+
+## Trip Reports
+
+- **2024–2025 reports:** Inner island reefs showing recovery relative to prior bleaching events. Outer islands reported with pristine corals and gorgonian cover. Deep bleaching at 60–90m documented — Seychelles alongside Mauritius and Tanzania among locations showing this unprecedented depth of thermal stress.
 
 ## Related Destinations
 

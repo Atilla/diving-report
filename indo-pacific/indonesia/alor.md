@@ -71,6 +71,10 @@ Current-swept walls and pinnacles with hammerhead sharks (seasonal), mobula rays
 - **Liveaboard operators**: Indo Siren, Adelaar, Katharina, Aurora run Alor routes, typically as part of longer Lesser Sunda crossings (Maumere–Alor) or Alor–Banda Sea transitional routes. Season roughly September–November.
 - **Land-based**: A handful of small resorts (e.g., Alor Divers) but options are limited. Getting to Alor requires flying to Kupang (West Timor) then a connecting flight on Wings Air.
 
+## Trip Reports
+
+- **Oct 2025 (Jun–Jul visit):** "Korallen sehen aus wie Gemälde" (corals look like paintings) — exceptional pristine condition, no bleaching. Comprehensive marine life including dwarf seahorses, rhinopias, hammerheads, silvertips, nurse sharks, manta rays, mobulas, blue whale, and abundant macro fauna.
+
 ## Related Destinations
 
 - [Lembeh](lembeh.md) — comparable muck diving quality

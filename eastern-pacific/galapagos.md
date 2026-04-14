@@ -129,6 +129,7 @@ Jun–Nov is considered the premier season for Darwin/Wolf liveaboards despite t
 ## Trip Reports
 
 - Jun 2022 (WAD blog): Month-long land + liveaboard trip. Whale shark at Darwin, 2 mola mola at Punta Vincente Roca, 100+ turtles at Gordon Rocks, hammerhead schools at Darwin/Wolf. Described conditions as "the Olympics of scuba diving" — very strong currents at Darwin/Wolf.
+- **Multiple 2024–2025 reports:** Colourful gorgonian and soft coral tapestries, no bleaching, diverse megafauna (sea lions, hammerheads, eagle rays, green turtles, flightless cormorants). 30+ shark species in the region; whale sharks present but uncommon outside peak season. One visitor noted absence of conservation briefings aboard their vessel.
 
 ## Related Destinations
 

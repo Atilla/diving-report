@@ -93,6 +93,10 @@ Extended itineraries push south toward these remote atolls. Pristine, rarely div
 
 - Banda Islands fall within Bandaneira Marine Protected Area. Enforcement limited by remoteness but the area benefits naturally from inaccessibility — fishing pressure is low. Manuk Island is uninhabited with no permanent enforcement. Remoteness itself remains the most effective protection. Liveaboard operators follow voluntary reef-protection protocols (mooring buoys, no-anchor, no-glove policies, sea snake etiquette briefings at Manuk).
 
+## Trip Reports
+
+- **Sep–Oct 2024 (Ring of Fire itinerary, Flores–Banda Sea–Ambon):** Whale sharks encountered. No bleaching; healthy conditions throughout.
+
 ## Related Destinations
 
 - [Raja Ampat](raja-ampat.md) — combine on extended Indonesia expeditions

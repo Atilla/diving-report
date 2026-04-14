@@ -133,6 +133,10 @@ Seamounts north of Kimbe with strong currents and big-fish action. Often include
 - **Conservation International** active in Milne Bay.
 - No large formal marine parks, but the decentralized clan-based system effectively limits destructive fishing — contributing to the reef health that makes Papua New Guinea a strong recovery prospect.
 
+## Trip Reports
+
+- **Feb 2024 (Walindi / Kimbe Bay):** "Dramatic underwater formations", "huge expanses of hard corals whose diversity overwhelms the senses." French expedition cited 1,300 fish species, 4,500 mollusk species, 400+ coral species. Indigenous tribal stewardship credited with limiting destructive fishing. Good recovery from 2016/17 bleaching.
+
 ## Related Destinations
 
 - [Raja Ampat](indonesia/raja-ampat.md) — Coral Triangle neighbor to the west
