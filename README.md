@@ -1,6 +1,6 @@
-# Global Coral Bleaching Report for Dive Trip Planning (2026)
+# Global Dive Destination Wiki (2026)
 
-This wiki collects personal diving experiences, recommendations from fellow divers, buddies, divemasters, and instructors into one place to help plan diving holidays. The goal is a realistic, current picture of each destination — no marketing fluff, no surprises, no disappointments. Costs aren't covered in detail; it's all expensive, and the current geopolitical situation makes pricing unpredictable anyway. You can browse it directly, but it's probably most useful as a structured resource to feed into an AI tool for trip planning.
+This wiki collects personal diving experiences, recommendations from fellow divers, buddies, divemasters, and instructors into one place to help plan diving holidays. The goal is a realistic, current picture of each destination — no marketing fluff, no surprises, no disappointments. That picture is shaped by the factors that matter right now: the ongoing effects of the 4th global mass coral bleaching event, shifting geopolitics, and changing access conditions. Costs aren't covered in detail; it's all expensive, and the current geopolitical situation makes pricing unpredictable anyway. You can browse it directly, but it's probably most useful as a structured resource to feed into an AI tool for trip planning.
 
 **66 destinations. Honest assessments. No sugar-coating.**
 
