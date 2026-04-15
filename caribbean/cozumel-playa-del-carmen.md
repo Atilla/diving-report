@@ -135,7 +135,7 @@ Playa del Carmen is the gateway to the Yucatan cenote systems — flooded limest
 - **Playa operators**: Tank-Ha (direct boat to Cozumel reefs), Pluto Dive (bull sharks, cenotes), The Cenote Guy (cenote specialist), Phantom Divers, Beyond Diving.
 - **Costs**: Marine park fee ~$12/day (doubled in Jan 2025).
 - **Diving style**: Day-boat and shore-based. Marine park regulations prohibit vessels over 20m or 2m draft.
-- **Recompression chamber**: Cozumel Hyperbaric Medicine Center (SSSM) on the island. DAN insurance recommended.
+- **Recompression chamber**: Cozumel Hyperbaric Medicine Center (SSSM) on the island.
 
 ## Conservation
 

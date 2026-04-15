@@ -71,7 +71,7 @@ Uninhabited, pristine, liveaboard-only access. Walls, reef sharks, untouched cor
 - **Liveaboard operators**: **MV Bilikiki** (since 1989, now under Emperor Divers management since 2025) — 7- and 10-night itineraries covering Florida Islands, Russell Islands, Marovo Lagoon, Iron Bottom Sound. **Solomons PNG Master** (Master Liveaboards) rotates seasonally between Solomons and Papua New Guinea.
 - **Land-based**: Uepi Island Resort (Marovo Lagoon). Limited shore-based diving from Honiara.
 - **Season**: March–December. Best conditions October–December (transitional season — calmer seas, good visibility).
-- **Recompression chamber**: Limited — DAN insurance and conservative profiles essential.
+- **Recompression chamber**: Limited — conservative profiles essential.
 - **Experience level**: Most sites suit Advanced Open Water. Wreck penetration requires appropriate certification. Some outer sites advanced due to currents.
 
 ## Related Destinations

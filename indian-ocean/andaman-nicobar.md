@@ -62,7 +62,7 @@ Volcanic topography, black sand, manta cleaning stations. Advanced — weather-d
 
 - **Access**: Foreigners can visit the Andaman Islands (Nicobar Islands remain off-limits). Restricted Area Permit issued on arrival at Port Blair airport — largely a formality. Fly from Chennai, Kolkata, or Delhi via connections.
 - **Operators**: Andaman Bubbles, Dive India, Barefoot Scuba, Lacadives (all Havelock). MV Infiniti (liveaboard — covers Barren Island and outer sites). Infinity Scuba offers Barren Island trips.
-- **Recompression chamber**: Port Blair has a chamber. DAN insurance recommended for Barren Island trips.
+- **Recompression chamber**: Port Blair has a chamber.
 - **Note**: Tourism growth (particularly domestic Indian) is increasing pressure on Havelock's reefs.
 
 ## Related Destinations

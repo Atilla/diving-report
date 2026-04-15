@@ -160,7 +160,7 @@ Malta is one of Europe's premier tech diving destinations:
 ## Practical Info
 
 - **Access**: Malta International Airport (MLA) — direct flights from most European cities. Low-cost carriers (Ryanair, Wizz Air, easyJet) serve MLA. Gozo: ferry from Cirkewwa, runs frequently.
-- **Recompression chamber**: Mater Dei Hospital (Malta's main hospital). Modern EU medical facilities. DAN Europe protocols cover Malta.
+- **Recompression chamber**: Mater Dei Hospital (Malta's main hospital). Modern EU medical facilities.
 - **Language**: English is an official language. No language barrier for international divers.
 - **Trip planning**: 5–7 days ideal. 3–4 days Gozo (Dwejra complex + Xatt l-Ahmar wrecks), 2–3 days Malta (Um El Faroud, Cirkewwa, WWII wrecks). Shore-based accommodation on both islands.
 - **Gozo is widely considered to have better diving than Malta proper** — Blue Hole, Inland Sea, Azure Window site, three purpose-sunk wrecks, less crowded, clearer water, more dramatic topography. Budget extra time for Gozo.

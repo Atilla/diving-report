@@ -75,7 +75,7 @@ Dramatic wall diving along the western shore. The wall drops from 12m with impre
 
 - **Access**: Providenciales (PLS) has direct flights from Miami, New York, Charlotte, Toronto, and London. Grand Turk accessible by short inter-island flight or by liveaboard. Salt Cay by small prop plane from Grand Turk (~10 min).
 - **Liveaboard operators**: Turks & Caicos Aggressor II — 7-night itineraries typically covering Grand Turk wall, Salt Cay, French Cay, West Caicos, and Providenciales sites. One of the few liveaboards that can efficiently cover the full territory. Capacity ~18 divers.
-- **Recompression chamber**: Associated Medical Practices on Providenciales has the territory's hyperbaric facility. DAN insurance recommended.
+- **Recompression chamber**: Associated Medical Practices on Providenciales has the territory's hyperbaric facility.
 - **Experience level**: Wall diving is accessible to Open Water divers (walls start at 10–15m), but depths exceed recreational limits quickly. Advanced Open Water recommended. Whale encounters are snorkel-based (no scuba).
 
 ## Related Destinations

@@ -95,7 +95,7 @@ Drift dive with excellent coral coverage and reef fish schooling.
 
 - **Access**: International flight to Bali (DPS). Wakatobi Dive Resort operates its own **charter flight** from Bali to Tomia (~2.5 hours, turboprop) — included in most packages, runs on specific days (typically Saturday turnovers). Alternative route: fly to Kendari (Southeast Sulawesi) via Jakarta/Makassar, then local flight or ferry to Wangi-Wangi, then boat to Tomia — 1–2 extra days each way.
 - **Operators**: **Wakatobi Dive Resort** dominates — most international divers visit through this single resort. Palm Bungalows to Villas, 3 boat dives/day + unlimited house reef, Nitrox often included. **Pelagian** liveaboard (36m luxury phinisi, ~10 guests, 5 cabins) operated by the resort covers sites inaccessible from shore plus Buton Island. **Patuno Resort** on Wangi-Wangi is an alternative with less developed dive infrastructure. A few smaller local operators exist on Wangi-Wangi but equipment standards vary.
-- **Recompression chamber**: None in Wakatobi. Nearest in Makassar (~1.5–2 hours by air). DAN insurance strongly recommended.
+- **Recompression chamber**: None in Wakatobi. Nearest in Makassar (~1.5–2 hours by air).
 
 ## Conservation
 

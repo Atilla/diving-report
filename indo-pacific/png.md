@@ -122,7 +122,7 @@ Seamounts north of Kimbe with strong currents and big-fish action. Often include
 
 - **Access**: International flights to Port Moresby (POM) via Brisbane, Cairns, Singapore, Manila, or Tokyo. Domestic Air Niugini to Hoskins (Kimbe) or Alotau (Milne Bay). Liveaboards arrange transfers.
 - **Liveaboard operators**: MV FeBrina (Kimbe specialist, 12 guests, well-regarded for photography), MV Oceania (Milne Bay and Eastern Fields), Chertan. Trip lengths 7-10 nights.
-- **Recompression chamber**: Nearest in Port Moresby. DAN membership and medevac insurance strongly recommended.
+- **Recompression chamber**: Nearest in Port Moresby. Medevac insurance strongly recommended.
 - **Safety**: Conservative profiles advisable. Malaria prophylaxis required. Medevac travel insurance essential.
 - **Experience level**: Most sites suit Advanced OW+. Muck diving at Dinah's Beach accessible to Open Water. Offshore seamounts best for experienced current/blue-water divers.
 

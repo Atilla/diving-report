@@ -82,7 +82,7 @@ Cold-water site with strong thermoclines. Hammerhead aggregations.
 - **Permits:** required in advance. Since 2018, only operators departing from Colombia may enter the marine park.
 - **Cost:** Park fees apply.
 - **Experience level:** Advanced OW minimum, **50+ logged dives recommended.** Strong currents and variable conditions make this genuinely advanced diving.
-- **Recompression:** nearest chamber on Colombian mainland. DAN membership and evacuation insurance essential.
+- **Recompression:** nearest chamber on Colombian mainland. Evacuation insurance essential.
 - **No accommodation on the island.** Military outpost only.
 
 ## Conservation

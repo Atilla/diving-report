@@ -88,7 +88,7 @@ The Agulhas Current is the dominant factor — pushes warm water south and drive
 
 - **Access**: International flights to Maputo (MPM). Domestic LAM connections to Vilankulos (Bazaruto), Inhambane (Tofo, 30 min drive), or Pemba (Quirimbas). Ponta do Ouro: 3–4hr drive south from Maputo (4x4 recommended).
 - **Operators**: Tofo — Peri-Peri Divers, Diversity Scuba, Liquid Dive Adventures. Bazaruto — Bazaruto Lodge, Anantara dive centre. Ponta do Ouro — Back to Basics, Gozo Azul.
-- **Recompression chamber**: Nearest in Maputo (Hospital Central). No chamber in Inhambane, Vilankulos, or northern Mozambique. Some operators coordinate with Durban, South Africa as secondary option for the south. DAN evacuation insurance strongly recommended.
+- **Recompression chamber**: Nearest in Maputo (Hospital Central). No chamber in Inhambane, Vilankulos, or northern Mozambique. Some operators coordinate with Durban, South Africa as secondary option for the south. Evacuation insurance strongly recommended.
 - **Experience level**: Advanced recommended for Tofo and Ponta do Ouro (strong currents, deep pelagic dives). Bazaruto sheltered sites suit Open Water. Malaria prophylaxis essential.
 
 ## Trip Reports

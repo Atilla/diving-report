@@ -116,7 +116,7 @@ Jun–Nov is considered the premier season for Darwin/Wolf liveaboards despite t
 - **San Cristobal as a base**: Dive sites are 10–30 minutes by boat from the harbor, the airport is walkable from town (no Baltra transfer needed), and excellent free snorkeling at Tijeretas. The most convenient base for day-boat diving in the central islands.
 - **Inter-island transport**: Speedboats between Santa Cruz, Isabela, and San Cristobal, ~2 hours. Bumpy ride — seasickness medication recommended.
 - **Experience requirements**: Liveaboards typically require Advanced Open Water + 50 logged dives minimum. For Darwin/Wolf realistically: 100+ dives with current experience strongly recommended. Gordon Rocks: advanced certification and current experience required (operators sometimes refuse divers they judge unready). Central islands sites like North Seymour are accessible to confident Open Water divers.
-- **Recompression chamber**: Located at the Ecuadorian Navy base on Santa Cruz. DAN or equivalent dive insurance essential.
+- **Recompression chamber**: Located at the Ecuadorian Navy base on Santa Cruz. Dive insurance essential.
 - **Nitrox**: Available on all major liveaboards. Strongly recommended for multi-dive days at depth.
 
 ## Conservation

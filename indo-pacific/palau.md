@@ -106,7 +106,7 @@ dive_styles: [walls, drift, pelagic, wrecks, caves]
 - **Liveaboard operators**: Palau Siren (luxury phinisi), Palau Aggressor II, Rock Islands Aggressor, Ocean Hunter III. Typical trip: 7 nights, 3-4 dives/day plus night dives.
 - **Day-boat operators**: Sam's Tours, Fish 'n Fins, Palau Dive Adventures, Splash, Blue Marlin — all Koror-based. All major sites (Blue Corner, German Channel, Ulong Channel) are reachable by day boat from Koror (45-90 min ride), typically running 2-3 dives/day and returning mid-afternoon. Liveaboards offer more dives per day (up to 5), night dives, and easier Peleliu access.
 - **Permits and fees**: **PPEF (Pristine Paradise Environmental Fee)**: $100 per international visitor, collected on arrival. **Rock Islands Permit**: $50/person, valid 5 days (two permits needed for a 7-night trip). **Jellyfish Lake Permit**: ~$100 additional. **Peleliu Permit**: $60 for up to 5 days. **Ngarchelong (northern sites)**: $60 for up to 4 days. Permits subject to change; verify before travel.
-- **Recompression chamber**: Located at Belau National Hospital in Koror. Having an on-island chamber is a significant safety advantage over many remote liveaboard destinations. DAN insurance still strongly recommended.
+- **Recompression chamber**: Located at Belau National Hospital in Koror. Having an on-island chamber is a significant safety advantage over many remote liveaboard destinations.
 
 ### Jellyfish Lake
 

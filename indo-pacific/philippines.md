@@ -72,7 +72,7 @@ Named for unpredictable swirling currents. Pelagic-rich site; experienced divers
 - **Trip length**: Typically 6 days / 7 nights.
 - **Liveaboards**: M/Y Atlantis Azores, M/Y Resolute, S/Y Philippine Siren, M/V Stella Maris Explorer, among others (16-22 guests).
 - **Park fee**: ~$100 USD conservation fee per diver (verify with Tubbataha Management Office).
-- **Recompression chamber**: None on-site. Nearest in Puerto Princesa and Cebu. DAN membership strongly advised.
+- **Recompression chamber**: None on-site. Nearest in Puerto Princesa and Cebu.
 - **Experience level**: Most operators require 50+ logged dives; Advanced Open Water recommended due to strong currents at several sites.
 - **Conditions**: Visibility 20-40m (often 30m+), temperature 27-30C, moderate to strong currents.
 

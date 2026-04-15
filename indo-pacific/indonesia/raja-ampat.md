@@ -145,7 +145,7 @@ dive_styles: [walls, drift, pelagic]
 - **Local rules**: Sunday is a no-dive day (Church Day in Papua). Sawandarek Village observes Saturday (Adventist). Gloves are prohibited in the water. Wayag is temporarily restricted due to local protests related to mining projects — verify status before booking.
 - **Best for first-timers**: One week liveaboard (Dampier/Misool) + one week land-based on Arborek provides a well-rounded introduction.
 - **Manta season note**: February reportedly now a strong manta month, in addition to the traditional Nov–Mar peak.
-- **Recompression chamber**: Nearest in Manado or Makassar — both multi-hour flights from Sorong. DAN insurance strongly recommended.
+- **Recompression chamber**: Nearest in Manado or Makassar — both multi-hour flights from Sorong.
 
 ## Conservation
 

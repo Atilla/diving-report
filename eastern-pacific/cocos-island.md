@@ -96,7 +96,7 @@ dive_styles: [walls, pelagic]
 - **Operators**: Okeanos Aggressor (~22 pax), Argo and Sea Hunter (Undersea Hunter Group, ~18 pax each), Aventura.
 - **Trip length**: 10–12 days total (5–7 days diving at the island, rest in transit).
 - **Cost**: Park fees ~$50/day for foreign divers.
-- **Recompression**: Nearest chamber on mainland. Undersea Hunter vessels maintain chamber access arrangements. DAN membership and evacuation insurance essential.
+- **Recompression**: Nearest chamber on mainland. Undersea Hunter vessels maintain chamber access arrangements. Evacuation insurance essential.
 
 ## Conservation
 

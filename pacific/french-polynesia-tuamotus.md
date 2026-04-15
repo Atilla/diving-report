@@ -101,7 +101,7 @@ Occasional liveaboard stops with excellent pass diving and zero crowds.
 - **Fakarava South Pass accommodation**: Tetamanu Diving Village is the only dive center right next to the South Pass, providing first-in-the-water advantage. Reaching it from the airport requires ~2 hours (30 min drive + 70 min boat). Basic bungalows, all meals included.
 - **Liveaboard operators**: **French Polynesia Master** (Master Liveaboards) covers extended Tuamotus including lesser-visited atolls. **Aqua Tiki** catamaran liveaboard.
 - **Land-based**: Fakarava — several small pensions near the South Pass (Tetamanu Village, Raimiti) and dive centers (Dive Spirit Fakarava, Top Dive). Rangiroa — multiple operators (The Six Passengers, Rangiroa Diving Center, Top Dive). Day-boat diving to the passes is the standard format.
-- **Recompression chamber**: Centre Hospitalier de Polynesie Francaise in Tahiti (Papeete). DAN insurance essential.
+- **Recompression chamber**: Centre Hospitalier de Polynesie Francaise in Tahiti (Papeete).
 - **Experience level**: Pass diving requires Advanced Open Water and comfort with strong currents and drift diving. Inner lagoon sites accessible to beginners.
 
 ## Conservation

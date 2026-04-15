@@ -95,7 +95,7 @@ Described as **"one of the best developed and healthiest reefs in the Caribbean.
 - **Liveaboard operators**: Belize Aggressor III and IV (longest-established, year-round). Smaller charter catamaran operations appear seasonally. Options limited compared to Red Sea — book well in advance.
 - **Typical itineraries**: 7-night trips combine two or three atolls. Common routing: Turneffe + Lighthouse Reef (including Blue Hole), with Glover's added on longer or southern-route trips. Whale shark season departures dedicate a day to Gladden Spit. 4–5 dives/day including night dives.
 - **Costs**: Park fees ~$40 for Blue Hole.
-- **Recompression chamber**: Sub-Aquatic Safety Services on Ambergris Caye (San Pedro). DAN membership strongly recommended.
+- **Recompression chamber**: Sub-Aquatic Safety Services on Ambergris Caye (San Pedro).
 - **Experience level**: Open Water minimum, Advanced OW recommended. Blue Hole dive restricted to Advanced-certified. Outer walls suit intermediate to advanced; sheltered atoll sites accessible to newer divers.
 
 ## Related Destinations

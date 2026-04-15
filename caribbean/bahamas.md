@@ -84,7 +84,7 @@ Dean's Blue Hole — 202m deep, the deepest known saltwater blue hole in the wor
 
 - **Access**: Nassau (NAS) is the main hub. Grand Bahama (FPO) for Tiger Beach. Bimini via short flight from Fort Lauderdale or seaplane. Andros and southern islands by domestic carriers (Bahamasair, regional charters).
 - **Liveaboard operators**: Bahamas Aggressor (typical route: Nassau–Exumas–Andros, 7 nights). Aqua Cat operates Exuma Cays itineraries. Blackbeard's Cruises runs budget liveaboards from Nassau. For Tiger Beach and Bimini, day-boat operations are standard rather than liveaboards.
-- **Recompression chambers**: UNEXSO chamber in Freeport (Grand Bahama), Princess Margaret Hospital in Nassau. DAN insurance essential for remote island diving.
+- **Recompression chambers**: UNEXSO chamber in Freeport (Grand Bahama), Princess Margaret Hospital in Nassau.
 - **Experience level**: Tiger Beach and Bimini shark dives are suitable for Open Water divers comfortable with sharks (briefings provided). Blue hole and wall diving: Advanced Open Water minimum, cave/cavern certifications for penetration dives.
 
 ## Conservation

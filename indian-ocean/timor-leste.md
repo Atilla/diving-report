@@ -62,7 +62,7 @@ dive_styles: [walls, shore]
 
 - **Access**: Flights to Dili from Bali/Denpasar, Darwin, Singapore. Ferry or speedboat to Atauro (~1 hour).
 - **Operators**: Atauro Dive Resort (PADI), Compass Diving (PADI 5-Star), Dive Timor Lorosae. The **Oriental Siren** liveaboard runs 10-night cruises Aug–Nov covering Dili, Atauro, and the northern coast.
-- **Recompression chamber**: None in Timor-Leste. Nearest in Darwin, Australia. DAN evacuation insurance essential.
+- **Recompression chamber**: None in Timor-Leste. Nearest in Darwin, Australia. Evacuation insurance essential.
 - **Infrastructure**: Basic but developing. Roads outside Dili are rough. Power can be unreliable.
 - **For the right diver**: The infrastructure trade-off is real — but Timor-Leste offers a genuine frontier experience with scientific credentials that rival anywhere on Earth.
 

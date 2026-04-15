@@ -95,7 +95,7 @@ Large horseshoe reef enclosing a sandy lagoon (5–14m). Resident pod of 60–80
 - **Operators**: Blue O Two, Emperor Divers, Red Sea Aggressor, Blue Planet, Cassiopeia, Excellence Fleet. Deep south is a specialty niche — book well ahead.
 - **Trip length**: 6–7 nights for deep south itineraries. Shorter 4–5 night trips cover Fury Shoals and Elphinstone only.
 - **Deep south permits**: Required for St. Johns and points south. Operators arrange; included in trip price. Can be delayed at short notice.
-- **Recompression chambers**: Nearest in Marsa Alam and Port Ghalib (DAN affiliated). No chamber south of Port Ghalib.
+- **Recompression chambers**: Nearest in Marsa Alam and Port Ghalib. No chamber south of Port Ghalib.
 - **Experience level**: Deep south requires minimum Advanced OW with 50+ dives. Habili Ali and Elphinstone suit experienced divers comfortable with currents.
 - **Best season**: **Sep–Nov** — warmest water (26–28C), best visibility, highest oceanic whitetip and hammerhead probability. Jun–Aug also good but windier. Winter (Dec–Feb) cooler with rougher seas but fewer boats.
 

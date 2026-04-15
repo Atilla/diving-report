@@ -139,7 +139,7 @@ November through April/May. Parks close mid-May to mid-October (exact dates vary
 - **Liveaboard operators**: Similan Explorer, MV Amapon, MV Giamani, Deep Andaman Queen, SY Diva Andaman, MV Hallelujah, MY Camic, Dolphin Queen.
 - **Typical itineraries**: 4-night/4-day covers Similans + Koh Bon + Richelieu Rock (standard route, ~14-18 dives). 5-night adds Surin Islands and/or extra Richelieu dives. Burma Banks requires dedicated 5-6 night trips or extended 7-8 night routes covering everything. Some operators run combined North + South routes (7-10 nights, adding Hin Daeng/Hin Muang and Koh Haa).
 - **Costs include**: cabin, all dives (incl. tanks, weights, guide), meals, tea/coffee. Extras: equipment rental, Nitrox, national park fees (~$20-40), soft drinks/beer.
-- **Recompression chamber**: SSS Network Recompression Chamber, Phuket (Bangkok Hospital Phuket and Vachira Phuket Hospital). ~2 hrs by speedboat from Similans. DAN insurance strongly recommended.
+- **Recompression chamber**: SSS Network Recompression Chamber, Phuket (Bangkok Hospital Phuket and Vachira Phuket Hospital). ~2 hrs by speedboat from Similans.
 - **Experience level**: Similans east-side sites suitable for Open Water divers (calm, moderate depth). West-side sites (Christmas Point, Elephant Head), Richelieu Rock, and Burma Banks best suited for Advanced OW with 30+ logged dives. Strong currents at exposed sites require comfort with drift diving and blue-water descents.
 
 ## Trip Reports

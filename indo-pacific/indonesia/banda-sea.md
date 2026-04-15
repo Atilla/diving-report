@@ -88,7 +88,7 @@ Extended itineraries push south toward these remote atolls. Pristine, rarely div
 - **Operators**: Limited number of boats run Banda Sea itineraries. SY Seahorse (Siren Fleet), MSY Damai, KLM Samambaia, Dewi Nusantara, Aurora/Arenui. **Slots book 12–18 months in advance** for peak October departures.
 - **Trip length**: 10–14 nights (10–11 common). Some extended routes (14 nights) incorporate Forgotten Islands.
 - **Departure port**: Almost always Ambon (Maluku). Fly to Ambon (AMQ) via Jakarta or Makassar. Domestic connections can be unreliable — build in buffer days.
-- **Recompression chamber**: Nearest in Ambon (military hospital) and Makassar. DAN insurance and conservative dive profiles essential.
+- **Recompression chamber**: Nearest in Ambon (military hospital) and Makassar. Conservative dive profiles essential.
 
 ## Conservation
 

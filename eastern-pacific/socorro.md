@@ -92,7 +92,7 @@ Jan–Mar considered overall peak for diversity of encounters despite cooler wat
 - **Operators**: Nautilus Explorer, Solmar V, Rocio del Mar, Quino el Guardian, Valentina, Vortex. Fleet size limited by park permits.
 - **Nitrox**: Widely available.
 - **Experience level**: Minimum Advanced Open Water and 50–100 logged dives. Strong current experience highly recommended.
-- **Recompression chamber**: Nearest in Cabo San Lucas (Hospiten hospital) — 22–26 hours away by boat. DAN insurance and conservative profiles strongly advised.
+- **Recompression chamber**: Nearest in Cabo San Lucas (Hospiten hospital) — 22–26 hours away by boat. Conservative profiles strongly advised.
 
 ## Conservation
 

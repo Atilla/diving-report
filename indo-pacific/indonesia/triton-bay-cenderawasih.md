@@ -78,7 +78,7 @@ Cenderawasih Bay (Teluk Cenderawasih), further north in West Papua, is Indonesia
 
 - **Access**: Liveaboard is the only practical way to dive both areas. Fly to Kaimana (for Triton Bay) or Nabire/Manokwari (for Cenderawasih) via Makassar or Ambon. Domestic connections can be unreliable — build in buffer days. **West Papua travel permit (surat jalan)** required — streamlined in recent years but remains an extra bureaucratic step.
 - **Operators**: Damai, Dewi Nusantara, Indo Siren, SeaTrek. Some operators combine Cenderawasih and Triton Bay into extended itineraries. Others link Triton Bay with Raja Ampat or Banda Sea routes.
-- **Recompression chamber**: None nearby — Ambon or Makassar. DAN insurance essential.
+- **Recompression chamber**: None nearby — Ambon or Makassar.
 
 ## Related Destinations
 

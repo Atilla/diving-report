@@ -142,7 +142,7 @@ Day-trip based from Pacific Harbour.
 - **Access**: Nadi International Airport (NAN) is the gateway. Direct flights from Australia, New Zealand, Los Angeles, and multiple Pacific hubs. Liveaboards depart from Lautoka (near Nadi) or Suva.
 - **Liveaboard operators**: NAI'A (the original Fiji liveaboard, steel-hulled, 18 passengers, well-regarded — runs Bligh Water/Namena/Taveuni itineraries and periodic Kadavu specials). Fiji Aggressor (catamaran, similar Bligh Water circuit). Reef Endeavour (Captain Cook Cruises — larger vessel, combines diving with cultural visits, less dive-focused).
 - **Typical itineraries**: 7-10 nights. Standard circuit: Bligh Water (E-6, Mount Mutiny, Cat's Meow) to Namena to Taveuni/Rainbow Reef and back. Kadavu/Great Astrolabe Reef requires dedicated or extended itinerary.
-- **Recompression chamber**: Located in Suva (Colonial War Memorial Hospital). Liveaboard operators carry emergency oxygen and have evacuation protocols. DAN insurance recommended.
+- **Recompression chamber**: Located in Suva (Colonial War Memorial Hospital). Liveaboard operators carry emergency oxygen and have evacuation protocols.
 - **Experience level**: Most operators require Advanced Open Water certification and 50+ logged dives minimum due to current conditions.
 
 ## Conservation
