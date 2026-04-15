@@ -29,7 +29,7 @@ highlights:
 **FAIR TO POOR — pleasant but not a serious dive destination; Wakashio legacy**
 
 - Nearly encircled by ~150 km of fringing reef creating a 243 km2 lagoon system. Reef condition has been declining for decades from chronic stress: agricultural runoff (sugar cane), sewage, sedimentation, overfishing, and tourism pressure.
-- **2024 bleaching**: Alert Level 1-2 from NOAA during the 2023-2024 southern hemisphere summer. Mascarene region benefits from cooler South Equatorial Current influence, so impact was likely less catastrophic than Seychelles inner islands or northern Maldives. However, reefs were already weakened entering the event from cumulative stress.
+- **2024 bleaching**: Alert Level 1-2 from NOAA during the 2023-2024 southern hemisphere summer. Mascarene region benefits from cooler South Equatorial Current influence — confirmed by regional monitoring as relatively less affected than Seychelles inner islands or northern Maldives. However, reefs were already weakened entering the event from cumulative stress.
 
 ### MV Wakashio oil spill (2020) — ongoing impact
 
@@ -48,7 +48,11 @@ Wall diving, better water quality than mainland, reef sharks more regularly seen
 
 #### Whale Rock, Colorado (west coast)
 
-Offshore pinnacle/drift sites with pelagic encounters — barracuda, trevally, occasional reef sharks. Better coral than inshore sites.
+Offshore pinnacle/drift sites with pelagic encounters — barracuda, trevally, occasional reef sharks. Better coral than inshore sites. Average depth ~25m with plateaus, caves, and canyons; occasional hammerhead sightings reported.
+
+#### Fosse aux Requins (Shark Pit, north coast)
+
+Primary site for hammerhead sightings in northern Mauritius. Depth and operator logistics vary; ask locally.
 
 #### Lagoon sites
 
@@ -84,8 +88,12 @@ Very limited dive infrastructure. A niche option for adventurous divers.
 ## Practical Info
 
 - **Access**: Fly to Sir Seewoosagur Ramgoolam International Airport (MRU). Direct flights from Europe, Dubai, and regional hubs.
-- **Operators**: ~50 dive centers on the west and north coasts.
+- **Operators**: ~50 dive centers on the west and north coasts. Named operators: Just Diving (FFESSM-affiliated), Exploration Sous-Marine (Flic-en-Flac).
 - **Diving format**: Shore-based diving from established dive centers.
+
+## Trip Reports
+
+- **Nov–Dec 2024**: Feature portfolio on Mauritius marine life — destination considered worthwhile despite reef quality caveats.
 
 ## Related Destinations
 

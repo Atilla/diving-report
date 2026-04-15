@@ -2,9 +2,9 @@
 destination: Reunion (La Reunion)
 region: Indian Ocean
 sub_region: Reunion
-status: "DEGRADED REEF (18% coral cover) — but unique volcanic topography, world-class macro, and humpback whale season"
+status: "DEGRADED REEF (~10% coral cover post-2025) — unique volcanic topography, world-class macro, and humpback whale season"
 tier: 3
-coral_rating: "Poor (18% cover)"
+coral_rating: "Very Poor (~10% cover, post-2025 bleaching + Garance)"
 marine_life_rating: "Good (whales Jun-Oct)"
 best_season: Jun-Oct (whale season)
 peak_months: [Jun, Jul, Aug, Sep, Oct]
@@ -26,10 +26,11 @@ highlights:
 
 ## Status
 
-**DEGRADED REEF (18% coral cover) — but unique volcanic topography, world-class macro, and humpback whale season**
+**DEGRADED REEF (~10% coral cover post-2025) — unique volcanic topography, world-class macro, and humpback whale season**
 
-- Limited reef development due to volcanic geology. Fringing reefs exist only on the west coast (~9 km between Saint-Gilles and Saint-Leu). **Only 18% hard coral cover** on hard substrate — approximately 50% loss over 40 years (UTOPIAN project, 2021-2026).
+- Limited reef development due to volcanic geology. Fringing reefs exist only on the west coast (~9 km between Saint-Gilles and Saint-Leu). **Only 18% hard coral cover** on hard substrate as of the UTOPIAN project (2021-2026) baseline — approximately 50% loss over 40 years. The 2025 compound events reduced this further (see below).
 - **Largely spared from the 2024 global bleaching event** due to southerly latitude producing cooler waters. IFRECOR confirmed "very low bleaching impact" at Saint-Gilles and Saint-Leu in May 2024 — in stark contrast to Mayotte and northern Mozambique Channel islands (30-40% coral mortality).
+- **2025 compound crisis**: After the 2024 reprieve, Réunion was struck by a double event. A marine heat wave caused intense bleaching across all reef flats and external slopes from late January to late March 2025 — approximately 60% of total coral coverage affected (external slopes 78%, lagoon platforms 54%). Cyclone Garance (February 28, 2025) then added physical destruction: ~100 hectares damaged, ~40 hectares completely destroyed. Saint-Leu specifically suffered >90% coral mortality — described as "the biggest ecological catastrophe in the reserve's history." Projected coral cover after both events: ~10% (down from 20-25% in 2022). A small proportion of surviving corals are being studied as resilient "super-coral" genotypes.
 
 ### The shark situation — critical context for divers
 
@@ -42,7 +43,7 @@ highlights:
 
 #### Le Tombant de la Pointe au Sel (Saint-Leu, 25-71m)
 
-THE premier site — massive volcanic drop-off. Moray eels, bannerfish, fusiliers. Possible mantas, dolphins, whale sharks. Strong currents, advanced/tech level.
+THE premier site — massive volcanic drop-off. Moray eels, bannerfish, fusiliers. Possible mantas, dolphins, whale sharks. Strong currents, advanced/tech level. The volcanic wall itself is unaffected by bleaching. However, the broader Saint-Leu reef suffered >90% coral mortality in 2025 (Cyclone Garance + heat wave); verify conditions with local operators before visiting.
 
 #### Cap La Houssaye
 
@@ -81,10 +82,20 @@ The underwater landscape is basaltic lava flows, canyons, caves, swim-throughs �
 
 ## Practical Info
 
-- ~50 dive centers on the west coast. Both FFESSM (French federation) and PADI available. French language predominates — limited English.
+- ~50 dive centers on the west coast. Both FFESSM (French federation) and PADI available; SSI/FFESSM certification crossovers offered at several centers. French language predominates — limited English.
+- Named operators: Corail Plongée (Saint-Paul), Scubananas (Saint-Leu), Ô Sea Bleu (Saint-Gilles), Excelsus Plongée (Saint-Leu), Escapade Plongée (Saint-Gilles-les-Bains), Kazabul Plongée (Saint-Pierre), Le Cinquième Élément (Saint-Gilles-les-Bains port).
 - **Hyperbaric chamber**: CHU Saint-Pierre, operational since 1982. Adequate diving medicine infrastructure.
-- Reserve Naturelle Marine de La Reunion (2007): 3,500 hectares along the west coast. Protected zones show predatory fish densities 3x higher than unprotected areas.
 - **Reunion is primarily an adventure/topside destination with worthwhile diving**, not a standalone dive destination — except during whale season, when the calculus changes entirely. World-class hiking (Piton des Neiges, three cirques), active volcano trekking, canyoning, paragliding. Pair with [Mauritius](mauritius.md) (170km away, quick flights) for a varied Indian Ocean itinerary.
+
+## Conservation
+
+- Réserve Naturelle Marine de La Réunion (2007): 3,500 hectares protecting the west-coast reef strip. The 2025 bleaching + Garance events represent the heaviest blow to the reserve since its establishment.
+- The reef ecosystem is estimated to generate approximately €49 million annually in services (fisheries, coastal protection, tourism) — a figure now under acute risk given the projected ~10% surviving coral cover.
+- Post-2025 surveys are identifying "super-coral" genotypes among surviving colonies, being studied for potential restoration use.
+
+## Trip Reports
+
+- **2025 bleaching + Cyclone Garance**: Intense bleaching on all reef flats and external slopes from late January to late March 2025. Cyclone Garance (February 28) added physical destruction — ~100 hectares damaged, ~40 hectares destroyed; Saint-Leu >90% coral mortality. Dive centers closed during and after red-alert periods due to sediment load and suspended debris. Projected coral cover: ~10%.
 
 ## Related Destinations
 

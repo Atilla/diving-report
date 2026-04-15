@@ -38,7 +38,8 @@ highlights:
 
 - 1998 El Nino killed ~90% of shallow corals. Recovery has been strong but coral cover remains modest (30-40% at best sites). Coral community now dominated by heat-tolerant massive species.
 - Diving is more about granitic boulder formations, fish life, and ease of access than pristine coral. Shark Bank (Mahe) best for pelagics — grey reef sharks, eagle rays.
-- Whale sharks seasonal Aug-Nov around Mahe. Turtles reliable at Ile Cocos (La Digue).
+- Whale sharks Jun–Dec, peak Sep–Oct at Ternay Bay (Mahé). Snorkel/freedive encounters. Turtles reliable at Ile Cocos (La Digue).
+- **Aldebaran wreck**: Taiwanese fishing vessel sunk in 2008 at 32m between Mahé and Silhouette — now an established artificial reef, rated by some as the best dive in the inner islands.
 - **Honestly**: inner island diving is pleasant but not destination-caliber for experienced divers.
 
 ### Outer islands — the real quality
@@ -49,7 +50,7 @@ One of the world's largest raised coral atolls (34km x 14.5km). Outer reef walls
 
 #### Cosmoledo & Astove
 
-Exceptional shark populations — "rival the best of the Pacific." Astove's sheer wall drop-off is one of the most dramatic in the Indian Ocean. Extremely remote, liveaboard only.
+Exceptional shark populations — "rival the best of the Pacific." Astove's sheer wall drop-off is arguably the best coral wall in the Indian Ocean. Extremely remote, liveaboard only.
 
 #### Alphonse / St. Francois
 
@@ -65,7 +66,7 @@ Save Our Seas Foundation research station. Manta cleaning stations. Shark nurser
 
 - **Sharks**: Grey reef, whitetip, blacktip, nurse at outer atolls. Exceptional populations at Cosmoledo/Aldabra/Astove.
 - **Mantas**: Present at D'Arros/St. Joseph and Aldabra year-round at cleaning stations.
-- **Whale sharks**: Aug-Nov around Mahe (inner islands). Snorkel/freedive encounters.
+- **Whale sharks**: Jun–Dec, peak Sep–Oct at Ternay Bay (Mahé inner islands). Snorkel/freedive encounters.
 - **Turtles**: Green and hawksbill year-round. Nesting Oct-Mar on outer island beaches.
 
 ## Dive Conditions
@@ -77,7 +78,7 @@ Save Our Seas Foundation research station. Manta cleaning stations. Shark nurser
 ## Season
 
 - **Best diving windows:** Mar–May and Oct–Nov (inter-monsoon calm, best visibility, flattest seas). These are the only practical windows for outer atoll expeditions.
-- **Whale sharks (inner islands):** Aug–Nov around Mahe. Snorkel/freedive encounters.
+- **Whale sharks (inner islands):** Jun–Dec, peak Sep–Oct at Ternay Bay (Mahé). Snorkel/freedive encounters.
 - **Mantas:** present at D'Arros/St. Joseph and Aldabra year-round at cleaning stations; no documented seasonal peak — encounters are reliable whenever access is possible.
 - **Sharks (outer atolls):** year-round residents at Cosmoledo/Aldabra/Astove — not seasonal. Access is the limiting factor, not timing.
 - **Turtles:** green and hawksbill year-round. Nesting Oct–Mar on outer island beaches.
@@ -88,16 +89,17 @@ Save Our Seas Foundation research station. Manta cleaning stations. Shark nurser
 ## Practical Info
 
 - **Access**: Fly to Mahe (SEZ). International flights from major hubs.
-- **Liveaboard options**: Galatea, Maya's Dugong, Silhouette Cruises. Amirantes circuit 7-10 days. Far southern expeditions (Cosmoledo/Aldabra) 10-14 days.
+- **Liveaboard options**: Galatea, Maya's Dugong, Silhouette Cruises (Sea Star, Sea Bird). Amirantes circuit 7-10 days. Far southern expeditions (Cosmoledo/Aldabra) 10-14 days. **Access note**: Amirantes previously required military accompaniment; as of 2025 independent catamaran access is available.
+- **Resort dive operators**: Octopus Dive Centre (Praslin/Anse Volbert, French-speaking staff), Blue Sea Divers (FFESSM courses), Atoll Divers (PADI).
 
 ## Conservation
 
-- **Nature Seychelles Reef Rescuers**: largest coral restoration project in the Indian Ocean. 24,000+ fragments transplanted, targeting 50,000 by 2026. Specifically selecting thermally tolerant genotypes. 60-80% survival rate.
+- **Nature Seychelles Reef Rescuers**: largest coral restoration project in the Indian Ocean. 24,000+ fragments transplanted, targeting 50,000 by 2026. Specifically selecting thermally tolerant genotypes. 60-80% survival rate. In May 2025, Nature Seychelles opened Africa's first land-based coral aquaculture facility — scaling up production of thermally tolerant coral fragments for reef restoration.
 - **Marine Spatial Plan (2020)**: first in the WIO — **30% of EEZ** designated as marine protected areas via landmark $21.6M debt-for-nature swap. World's first sovereign blue bond ($15M).
 
 ## Trip Reports
 
-- **2024–2025 reports:** Inner island reefs showing recovery relative to prior bleaching events. Outer islands reported with pristine corals and gorgonian cover. Deep bleaching at 60–90m documented — Seychelles alongside Mauritius and Tanzania among locations showing this unprecedented depth of thermal stress.
+- **2024–2025:** Inner island granite-dive sites (soft corals, sea fans, sponges) holding up well despite bleaching pressure — rays and turtles daily. Outer islands reported with pristine corals and gorgonian cover. Deep bleaching at 60–90m documented. Amirantes now independently accessible by liveaboard without military escort.
 
 ## Related Destinations
 
