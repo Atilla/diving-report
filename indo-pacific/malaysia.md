@@ -20,6 +20,7 @@ highlights:
   - Sipadan — universally ranked top 5-10 globally; 20+ turtles per dive; Barracuda Tornado
   - Mabul — world-class muck diving comparable to Lembeh Strait
   - 252 permits/day for Sipadan — book 6-12 months ahead
+dive_styles: [walls, muck, pelagic]
 ---
 
 # Malaysia (Sipadan, Mabul, Layang-Layang, Peninsular Islands)
@@ -97,7 +98,7 @@ Popular budget diving destination, strong turtle populations. Shallow reef bleac
 
 Resort-heavy, good snorkeling, reef quality variable.
 
-These are pleasant, affordable dive destinations but not in the same league as Sipadan for serious divers.
+These are pleasant dive destinations but not in the same league as Sipadan for serious divers.
 
 ## Marine Life
 
@@ -124,7 +125,7 @@ These are pleasant, affordable dive destinations but not in the same league as S
 - **Access:** Fly Kota Kinabalu (BKI) or Tawau (TWU) via Kuala Lumpur. Tawau is closer to Semporna (1hr drive). Semporna is the boat departure point for Mabul/Sipadan (~45min boat). For Peninsular islands: fly Kuala Terengganu or Tioman (direct from KL/Singapore).
 - **Liveaboard**: **MV Celebes Explorer 9:** the only liveaboard with daily Sipadan permits (16/day). Built 2019, 35m, 8 cabins (16 divers). 3, 4, or 7-night itineraries departing Tue/Fri. 2 dives/day at Sipadan + 1-2 at Mabul. Books out fast — groups charter full weeks up to a year ahead. Operating year-round 2026. No other liveaboards currently serve Sipadan. Layang-Layang had no liveaboard service (resort-based only, now closed).
 - **Operators:** Scuba Junkie (Mabul — strong reputation), Seaventures Dive Rig, Mabul Water Bungalows, Sipadan-Kapalai Dive Resort, Pom Pom Island Resort (new Sipadan permit allocation 2025), Celebes Explorer liveaboard.
-- **Costs:** Sipadan permit packages (3-night stay + Sipadan dives) from ~$500-1,200 depending on resort tier. Celebes Explorer liveaboard ~$1,500-3,000 for 3-7 nights. Peninsular island diving significantly cheaper (~$30-60/dive).
+- **Sipadan permit cost:** ~$90 USD/day (for 2 dives).
 - **Recompression chamber:** Semporna (ESSCOM medical facility). KK has hospital chamber.
 - **Experience level:** Sipadan requires Advanced OW. Strong currents at signature sites reward experience. Mabul accessible to all levels. Peninsular islands suitable for beginners.
 - **Security:** Eastern Sabah was historically affected by kidnapping-for-ransom incidents from militant groups based in the southern Philippines. **No incidents since January 2020.** ESSCOM — a dedicated joint military/police/coast guard security force — has patrolled the east coast since 2013. **US advisory** (2025): lowered to Level 1 (Exercise Normal Precautions) for eastern Sabah mainland; islands and maritime areas remain Level 2 (Exercise Increased Caution). Australia lowered its advisory for eastern Sabah mainland from Level 3 to Level 2 in August 2025. Dive resorts maintain armed security. Risk is low but not zero — book licensed operators only, avoid unlicensed night sea crossings.

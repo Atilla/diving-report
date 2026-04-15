@@ -20,6 +20,7 @@ highlights:
   - Caribbean's premier drift diving
   - Cenote diving from Playa del Carmen (unique globally)
   - Bull shark encounters Nov-Mar (Playa del Carmen)
+dive_styles: [walls, drift, pelagic, caves]
 ---
 
 # Cozumel & Playa del Carmen
@@ -96,8 +97,6 @@ Playa del Carmen is the gateway to the Yucatan cenote systems — flooded limest
 - **Zapote (Hells Bells)** — Advanced Open Water. Features unique bell-shaped speleothems found nowhere else on Earth.
 - **Kukulkan, Chikin Ha, Dreamgate, Taj Maha, Ponderosa** — Various levels. All accessible as day trips from Playa (30–90 minutes by road).
 
-Cenote diving costs $150–235 per person for a two-dive day including transport, guide, tanks, and lights. Entrance fees sometimes extra.
-
 ## Marine Life
 
 - **Eagle rays**: Spotted on almost every dive. Peak December–February.
@@ -132,9 +131,9 @@ Cenote diving costs $150–235 per person for a two-dive day including transport
 - **Access**: Fly direct to Cozumel (CZM) from Miami, Dallas, Houston, Atlanta, and other US cities. Alternative: Cancun (CUN) international airport, 1-hour shuttle to Playa del Carmen, then 45-minute ferry to Cozumel.
 - **Staying on Cozumel vs Playa del Carmen**: **For reef diving, stay on Cozumel.** Crossing from Playa adds 2+ hours and can be rough. Only a handful of Playa operators (Tank-Ha, Phocea, Pro Dive International) run direct speedboats to Cozumel reefs — most divers must take the public ferry plus taxi to the marina. If combining cenotes and reef, split your trip: cenote days from Playa del Carmen, then ferry to Cozumel for reef days.
 - **Reef rotation closures**: The marine park closes different reef sections on a two-month rotation to allow recovery. **Check the current schedule before booking.** If Santa Rosa Wall is closed during your dates (October–November), strongly consider different dates. Current schedules at cozumel4you.com or bluenotescuba.com.
-- **Cozumel operators**: Aldora Divers (120cf steel tanks, 70–80 minute dives, $110/2-tank), Geiser's Independent Charters (max 5–6 divers, $100–110/2-tank), Bottom Time Divers (slow pace, good for mixed groups), Blue Note Scuba (PADI 5-Star, $130/2-tank), Dive With Martin. Avoid Aquaworld.
-- **Playa operators**: Tank-Ha (direct boat to Cozumel reefs, $210/2-tank), Pluto Dive (bull sharks, cenotes), The Cenote Guy (cenote specialist), Phantom Divers, Beyond Diving.
-- **Costs**: Cozumel 2-tank boat dive $80–130 depending on operator. Night dive ~$90. Full equipment rental ~$40/day. Marine park fee ~$12/day (doubled in Jan 2025). Cenote diving from Playa $150–235/day. Bull shark dive from Playa: enquire with operators. Nitrox $10–25/tank.
+- **Cozumel operators**: Aldora Divers (120cf steel tanks, 70–80 minute dives), Geiser's Independent Charters (max 5–6 divers), Bottom Time Divers (slow pace, good for mixed groups), Blue Note Scuba (PADI 5-Star), Dive With Martin. Avoid Aquaworld.
+- **Playa operators**: Tank-Ha (direct boat to Cozumel reefs), Pluto Dive (bull sharks, cenotes), The Cenote Guy (cenote specialist), Phantom Divers, Beyond Diving.
+- **Costs**: Marine park fee ~$12/day (doubled in Jan 2025).
 - **Diving style**: Day-boat and shore-based. Marine park regulations prohibit vessels over 20m or 2m draft.
 - **Recompression chamber**: Cozumel Hyperbaric Medicine Center (SSSM) on the island. DAN insurance recommended.
 
@@ -157,6 +156,6 @@ Cenote diving costs $150–235 per person for a two-dive day including transport
 
 ## Related Destinations
 
-- [Roatan](roatan.md) — Mesoamerican Barrier Reef neighbor; comparable coral condition, more affordable diving
+- [Roatan](roatan.md) — Mesoamerican Barrier Reef neighbor; comparable coral condition, Mesoamerican Barrier Reef
 - [Belize](belize.md) — Mesoamerican Barrier Reef; healthier atolls, liveaboard available
 - [Bonaire / Saba / Curacao](bonaire-saba-curacao.md) — Caribbean shore diving alternative

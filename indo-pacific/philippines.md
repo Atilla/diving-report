@@ -20,6 +20,7 @@ highlights:
   - Tubbataha — one of the world's best dive destinations (liveaboard-access only); strict no-take MPA
   - Malapascua Monad Shoal — only reliable daily thresher shark encounters globally
   - Eastern Visayas "super reefs" — documented climate refugia with 60% coral cover
+dive_styles: [walls, drift, muck, pelagic]
 ---
 
 # Philippines (Tubbataha, Apo Reef, Visayas)

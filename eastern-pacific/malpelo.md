@@ -20,6 +20,7 @@ highlights:
   - "Shark tornadoes — 200-500+ schooling hammerheads"
   - "Smalltooth sand tiger shark at Bajo del Monstruo — one of few accessible locations globally"
   - "Only 1 liveaboard at a time (max 25 divers) — ultimate exclusivity"
+dive_styles: [walls, pelagic]
 ---
 
 # Malpelo Island, Colombia
@@ -79,7 +80,7 @@ Cold-water site with strong thermoclines. Hammerhead aggregations.
 - **Access:** fly to Cali (Colombia), then 2.5-hour drive to **Buenaventura** port. Liveaboard transit: **30–36 hours each way** across open Pacific. Total trip: 9–11 nights.
 - **Operators:** extremely limited. **MV Ferox** (the primary vessel with scheduled 2026 departures) and **MV Sea Wolf** — both depart Buenaventura. The Malpelo Foundation allows **only one liveaboard at the island at a time**, carrying a maximum of 25 divers. Groups of max 6 divers per guide.
 - **Permits:** required in advance. Since 2018, only operators departing from Colombia may enter the marine park.
-- **Cost:** premium expedition — USD $4,000–7,000+ for the liveaboard portion. Add flights to Cali, hotels in Buenaventura, park fees, tips. Total all-in: $6,000–10,000.
+- **Cost:** Park fees apply.
 - **Experience level:** Advanced OW minimum, **50+ logged dives recommended.** Strong currents and variable conditions make this genuinely advanced diving.
 - **Recompression:** nearest chamber on Colombian mainland. DAN membership and evacuation insurance essential.
 - **No accommodation on the island.** Military outpost only.

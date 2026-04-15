@@ -20,6 +20,7 @@ highlights:
   - Eastern Tropical Pacific Marine Corridor member alongside Galapagos, Cocos, and Malpelo
   - Dramatic thermoclines and nutrient-rich upwelling drive abundant pelagic life
   - Former penal colony (1919-2004) accidentally preserved a marine paradise
+dive_styles: [walls, drift, pelagic]
 ---
 
 # Coiba National Park
@@ -116,10 +117,10 @@ The dry season (December-April) is the recommended window. The rainy season brin
 
 ## Practical Info
 
-- **Access**: Santa Catalina is the base — a small fishing village turned surf-and-dive hub on Panama's Pacific coast. From Panama City: 6-7 hours by bus via Sona and Santiago de Veraguas (~$16 USD). No regular tourist shuttle; Odalis offers private transfers ($220 USD regardless of group size). Car rental possible but the final road to Santa Catalina is in poor condition — do not rent a small car. Charter flights to Coiba's grass airstrip exist through travel agencies but are expensive.
+- **Access**: Santa Catalina is the base — a small fishing village turned surf-and-dive hub on Panama's Pacific coast. From Panama City: 6-7 hours by bus via Sona and Santiago de Veraguas. No regular tourist shuttle; private transfers available. Car rental possible but the final road to Santa Catalina is in poor condition — do not rent a small car. Charter flights to Coiba's grass airstrip exist through travel agencies.
 - **Operators**: Expedicion Coiba (primarily Spanish-speaking; local divemaster with 18+ years at Coiba) and Coiba Dive Center (fully bilingual English/Spanish). Both operate from Santa Catalina.
 - **Itineraries**: Day trips to Canales depart Santa Catalina at 8am, return by 4pm (1.5 hours each way by boat). 2-3 day expeditions required for Contreras sites, with overnight stays at Bahia Honda (basic conditions). Multi-activity expeditions combining diving, kayaking, and hiking available through agencies like Balanea Travel and Pacific Adventure.
-- **Costs**: No specific dive pricing available. Budget for bus transport ($16 from Panama City), national park fees, and accommodation in Santa Catalina (budget hostels to luxury villas available). Multi-day expeditions with camping/Bahia Honda stays will cost significantly more than day trips.
+- **Costs**: National park fees apply. Multi-day expeditions with camping/Bahia Honda stays will cost significantly more than day trips.
 - **Recompression**: No recompression chamber at Coiba or Santa Catalina. Nearest chambers in Panama City or David. Dive insurance essential — plan conservatively given the remote location and deep diving at Contreras.
 - **Minimum trip duration**: At least 4 days recommended including travel from Panama City or Bocas del Toro. A single day trip is not feasible given travel times.
 

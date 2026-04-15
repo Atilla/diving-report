@@ -20,6 +20,7 @@ highlights:
   - Muck diving rivals Lembeh
   - Pantar Strait pelagics including seasonal hammerheads
   - Liveaboard transit route to Banda Sea
+dive_styles: [walls, drift, muck, pelagic]
 ---
 
 # Alor

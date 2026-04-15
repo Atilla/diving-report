@@ -20,6 +20,7 @@ highlights:
   - Whale shark season at Nosy Be (Oct-Nov)
   - Mitsio Archipelago standout diving when accessible
   - Unmatched terrestrial biodiversity (lemurs, chameleons, baobabs)
+dive_styles: [drift, pelagic]
 ---
 
 # Madagascar

@@ -17,9 +17,10 @@ experience_level: Advanced OW+ (most sites); Open Water (Dinah's Beach muck)
 last_verified: 2026-04
 bleaching_resilience: high
 highlights:
-  - Kimbe Bay — 413 hard coral species on volcanic seamounts; outstanding value and uncrowded
+  - Kimbe Bay — 413 hard coral species on volcanic seamounts; uncrowded
   - Dinah's Beach (Milne Bay) — world-class muck diving rivaling Lembeh Strait
   - Eastern Fields — pristine walls, large shark populations, virtually zero other divers
+dive_styles: [walls, muck, pelagic]
 ---
 
 # Papua New Guinea (Kimbe Bay, Milne Bay)
@@ -28,7 +29,7 @@ highlights:
 
 - Hit by 2024 event (Alert Level 3) but from an exceptional baseline. Low human pressure = faster recovery.
 - Kimbe Bay: 413 species of hard coral (over half all known world species). Geographic isolation and low tourist pressure are protective.
-- **One of the best-value, least-crowded, most biodiverse dive destinations in the Indo-Pacific.** Narrow seasonal windows.
+- **One of the least-crowded, most biodiverse dive destinations in the Indo-Pacific.** Narrow seasonal windows.
 
 ## Key Dive Sites
 
@@ -120,7 +121,7 @@ Seamounts north of Kimbe with strong currents and big-fish action. Often include
 ## Practical Info
 
 - **Access**: International flights to Port Moresby (POM) via Brisbane, Cairns, Singapore, Manila, or Tokyo. Domestic Air Niugini to Hoskins (Kimbe) or Alotau (Milne Bay). Liveaboards arrange transfers.
-- **Liveaboard operators**: MV FeBrina (Kimbe specialist, 12 guests, well-regarded for photography), MV Oceania (Milne Bay and Eastern Fields), Chertan. Trip lengths 7-10 nights. Expect USD $350-500+/night all-inclusive (nitrox typically extra).
+- **Liveaboard operators**: MV FeBrina (Kimbe specialist, 12 guests, well-regarded for photography), MV Oceania (Milne Bay and Eastern Fields), Chertan. Trip lengths 7-10 nights.
 - **Recompression chamber**: Nearest in Port Moresby. DAN membership and medevac insurance strongly recommended.
 - **Safety**: Conservative profiles advisable. Malaria prophylaxis required. Medevac travel insurance essential.
 - **Experience level**: Most sites suit Advanced OW+. Muck diving at Dinah's Beach accessible to Open Water. Offshore seamounts best for experienced current/blue-water divers.

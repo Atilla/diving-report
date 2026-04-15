@@ -20,6 +20,7 @@ highlights:
   - 350-500 individually identified giant oceanic mantas with unique diver-seeking behavior
   - Humpback whales January-March
   - Roca Partida wall of sharks
+dive_styles: [walls, pelagic]
 ---
 
 # Socorro / Revillagigedo
@@ -89,7 +90,7 @@ Jan–Mar considered overall peak for diversity of encounters despite cooler wat
 - **Departure**: All liveaboards from Cabo San Lucas, Baja California Sur. ~22–26 hours transit each way.
 - **Trip length**: 8–9 days total (4–5 full diving days, 3–4 dives/day). Extended Clarion itineraries 10–12 days.
 - **Operators**: Nautilus Explorer, Solmar V, Rocio del Mar, Quino el Guardian, Valentina, Vortex. Fleet size limited by park permits.
-- **Cost**: USD $3,500–$5,500 per person. Nitrox widely available (sometimes included, sometimes $100–150 extra).
+- **Nitrox**: Widely available.
 - **Experience level**: Minimum Advanced Open Water and 50–100 logged dives. Strong current experience highly recommended.
 - **Recompression chamber**: Nearest in Cabo San Lucas (Hospiten hospital) — 22–26 hours away by boat. DAN insurance and conservative profiles strongly advised.
 

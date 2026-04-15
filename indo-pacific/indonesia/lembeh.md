@@ -20,6 +20,7 @@ highlights:
   - World's #1 muck diving destination
   - Best critter-spotting guides on Earth
   - Combine with Bunaken for muck + reef combo
+dive_styles: [muck, shore]
 ---
 
 # Lembeh Strait
@@ -58,7 +59,6 @@ Guides are the key differentiator across all sites — they know exactly which r
 
 ## Dive Conditions
 
-- **Costs**: Resort + diving packages $200–400+ per person/day. No longer a budget destination.
 - **Recompression chamber**: Manado (near Bunaken) has a chamber.
 
 ## Season
@@ -75,7 +75,6 @@ Guides are the key differentiator across all sites — they know exactly which r
 
 - **Access**: Via Manado (Sam Ratulangi Airport), drive to Bitung (~30 min via toll road, or 1.5–2 hours on the old road), short boat crossing.
 - **Operators**: Lembeh Resort, NAD Lembeh, Hairball Resort, Two Fish Divers, Kungkungan Bay Resort.
-- **Costs**: Resort + diving packages $200–400+ per person/day. No longer a budget destination.
 - **Recompression chamber**: Manado (near Bunaken) has a chamber.
 
 ## Trip Reports

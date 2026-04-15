@@ -20,6 +20,7 @@ highlights:
   - Soft coral capital of the world — Bligh Water/Namena/Rainbow Reef
   - Nigali Passage — 20-50 grey reef sharks per drift dive
   - Beqa bull shark feed — 30-50+ bulls per session, 6-8 shark species present
+dive_styles: [walls, drift, pelagic]
 ---
 
 # Fiji
@@ -141,7 +142,6 @@ Day-trip based from Pacific Harbour.
 - **Access**: Nadi International Airport (NAN) is the gateway. Direct flights from Australia, New Zealand, Los Angeles, and multiple Pacific hubs. Liveaboards depart from Lautoka (near Nadi) or Suva.
 - **Liveaboard operators**: NAI'A (the original Fiji liveaboard, steel-hulled, 18 passengers, well-regarded — runs Bligh Water/Namena/Taveuni itineraries and periodic Kadavu specials). Fiji Aggressor (catamaran, similar Bligh Water circuit). Reef Endeavour (Captain Cook Cruises — larger vessel, combines diving with cultural visits, less dive-focused).
 - **Typical itineraries**: 7-10 nights. Standard circuit: Bligh Water (E-6, Mount Mutiny, Cat's Meow) to Namena to Taveuni/Rainbow Reef and back. Kadavu/Great Astrolabe Reef requires dedicated or extended itinerary.
-- **Costs**: USD 4,000-7,000+ for 7-10 night liveaboard trips, excluding flights and gear rental.
 - **Recompression chamber**: Located in Suva (Colonial War Memorial Hospital). Liveaboard operators carry emergency oxygen and have evacuation protocols. DAN insurance recommended.
 - **Experience level**: Most operators require Advanced Open Water certification and 50+ logged dives minimum due to current conditions.
 

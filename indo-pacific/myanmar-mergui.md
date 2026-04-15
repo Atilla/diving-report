@@ -20,6 +20,7 @@ highlights:
   - Unmatched frontier diving experience with 800+ islands, many unexplored
   - Macro life superior to Thai sites — ghost pipefish, harlequin shrimp, Coleman's shrimp
   - Black Rock premier manta site; Western Rocky dramatic topography
+dive_styles: [walls, drift, muck]
 ---
 
 # Myanmar — Mergui (Myeik) Archipelago

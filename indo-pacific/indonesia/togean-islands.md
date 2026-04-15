@@ -20,6 +20,7 @@ highlights:
   - "'Jurassic Park reef' — prehistoric-scale barrel sponges and XXL gorgonians"
   - "Black Forest — ancient reef, potential genetic source for the Coral Triangle"
   - "True zero-crowd diving on a remote volcanic island"
+dive_styles: [walls]
 ---
 
 # Togean Islands
@@ -114,9 +115,8 @@ Accessed via a blue-water swim from Satellite. Delicate hard corals in perfect c
   - **Option 2 (budget/masochist)**: Overnight bus from Manado to Gorontalo (~12 hours), then continue as above.
   - **Option 3 (ultra-budget)**: Cargo boat from Gorontalo to Una Una, approximately every 9 days. For those with extreme patience.
   - **Exit via Wakai**: Wooden boat from Una Una to Wakai (~1.5 hours), then overnight ferry to Gorontalo.
-- **Operators**: **Sanctum Una Una Dive Resort** is the sole dive operation on Una Una. Eco-resort with seafront bungalows, outdoor bathrooms, hammocks. Relaxed and unpretentious rather than polished luxury. Affordable pricing — even the best bungalows do not break the bank. They provide divemasters and arrange all logistics from Gorontalo.
+- **Operators**: **Sanctum Una Una Dive Resort** is the sole dive operation on Una Una. Eco-resort with seafront bungalows, outdoor bathrooms, hammocks. Relaxed and unpretentious rather than polished luxury. They provide divemasters and arrange all logistics from Gorontalo.
 - **Itineraries**: Minimum 5-6 nights recommended. Anything less is a logistics mistake given the transit investment. Four full dive days allows 8-11 dives across the main sites.
-- **Costs**: No specific pricing available. Described as affordable for the level of accommodation.
 - **Recompression**: **None nearby.** Nearest chambers are in Manado (multiple flights and transits away) or Makassar. DAN evacuation insurance is absolutely essential. Conservative dive profiles (watch depths on wall dives), adequate surface intervals, and hydration are non-negotiable.
 - **Communication**: Limited. Cell coverage is unreliable on Una Una.
 

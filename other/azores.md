@@ -20,6 +20,7 @@ highlights:
   - "Near-100% blue shark encounter success in season"
   - "Princess Alice Bank mobula aggregations (sometimes hundreds)"
   - "Sperm whales year-round residents; snorkel encounters possible"
+dive_styles: [pelagic, caves]
 ---
 
 # Azores (Portugal)
@@ -35,7 +36,6 @@ highlights:
 ## Practical Info
 
 - **Operators**: CW Azores (Faial — blue shark and pelagic specialists), Azores Sub (Sao Miguel), Haliotis (multiple islands), Dive Azores (Santa Maria — mobula season specialist).
-- **Costs**: Blue shark dives ~80–120 euro/dive. Princess Alice Bank day trips 150–250 euro (long boat day — 3–4 hours each way from Faial). General diving 50–80 euro/dive. Flights from mainland Portugal or European cities affordable (100–300 euro round trip). Accommodation 50–150 euro/night.
 - **Dive conditions**: Water temperature 17–24C depending on depth and season. 5–7mm wetsuit or drysuit recommended. Visibility 15–30m+ at open-ocean sites.
 - **Season**: Blue sharks July–October. Mobulas August–October. Princess Alice Bank trips heavily weather-dependent — cancellation rates significant.
 - **Diving format**: Primarily day-boat operations from shore. A small number of liveaboard options are emerging.

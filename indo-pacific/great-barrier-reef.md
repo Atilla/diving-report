@@ -20,6 +20,7 @@ highlights:
   - Minke whales Jun-Jul — only reliable in-water encounters globally
   - Osprey Reef (Coral Sea) — 40-60m visibility, shark feeds, nautilus
   - SS Yongala — consistently ranked among world's top 5 wreck dives
+dive_styles: [walls, drift, pelagic, wrecks]
 ---
 
 # Great Barrier Reef
@@ -113,10 +114,10 @@ Remote atolls with similar conditions: sheer walls, exceptional visibility, heal
 
 - **Departure**: Cairns (primary); some trips from Port Douglas or Townsville (Yongala).
 - **Liveaboard operators**:
-  - **Spirit of Freedom**: 3-, 4-, 7-night itineraries. Ribbon Reefs + Coral Sea. AUD $2,500-$5,500+.
-  - **Mike Ball (MV Spoilsport)**: 3-, 4-, 7-night. The original Coral Sea operator. Minke whale specialist trips. AUD $2,200-$5,000+.
+  - **Spirit of Freedom**: 3-, 4-, 7-night itineraries. Ribbon Reefs + Coral Sea.
+  - **Mike Ball (MV Spoilsport)**: 3-, 4-, 7-night. The original Coral Sea operator. Minke whale specialist trips.
   - **Coral Sea Dreaming**: Dedicated Coral Sea itineraries, smaller vessel.
-  - **ProDive Cairns**: Budget 3-day/2-night outer Great Barrier Reef (not Coral Sea). AUD $900-$1,200.
+  - **ProDive Cairns**: 3-day/2-night outer Great Barrier Reef (not Coral Sea).
 - **Coral Sea itineraries**: 5-7 nights. Osprey Reef ~12-15 hours from Cairns. Combined Ribbon Reefs + Coral Sea most popular format.
 - **GBRMPA fee**: AUD $7.00/day (usually included in trip price).
 - **Recompression chamber**: Townsville Hospital hyperbaric unit. Liveaboards carry emergency oxygen.

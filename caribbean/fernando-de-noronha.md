@@ -20,6 +20,7 @@ highlights:
   - 1,000+ resident spinner dolphins
   - Strict visitor caps (~460 people on island at any time)
   - South Atlantic endemics in UNESCO World Heritage Site
+dive_styles: [walls, pelagic]
 ---
 
 # Fernando de Noronha

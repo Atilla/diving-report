@@ -20,6 +20,7 @@ highlights:
   - "Potentially most intact reef system in the broader Red Sea region"
   - "Remarkably reliable whale shark encounters Nov-Feb in Gulf of Tadjoura"
   - "Seven Brothers UNESCO Biosphere Reserve (2025) — expedition-level frontier diving"
+dive_styles: [walls, drift, pelagic]
 ---
 
 # Djibouti (Seven Brothers)
@@ -84,7 +85,6 @@ Djibouti's signature marine experience. **November to February**, juvenile whale
 - **Dive operators**: a small number of land-based operators exist (historically including Dolphin Excursions and Le Lagon Bleu), but the industry is very small and operators come and go. Verify current status before booking. No PADI 5-star operations as of available information.
 - **Multi-day access**: No established liveaboard circuit. Occasional expedition charters may visit the Seven Brothers, but nothing regularly scheduled or bookable. A dedicated yacht charter arranged through Djibouti City is the most realistic way to dive the Seven Brothers with multiple days of access.
 - **Recompression chamber**: Djibouti has a military hyperbaric facility (French naval base, Camp Lemonnier area) — access for civilian divers is not guaranteed and would depend on military cooperation. The nearest reliable civilian chamber is likely Jeddah or Cairo. This is a significant safety concern.
-- **Costs**: Djibouti is expensive relative to the region — French military presence inflates prices. Hotels, food, and boat charters cost more than you would expect. Budget $150-300/day for diving + accommodation at a minimum.
 - **Logistics challenges**: limited tourist infrastructure, language barrier (French/Somali — minimal English outside hotels), extreme heat, no dive-specific tourism ecosystem. This is genuinely expedition-level planning for the Seven Brothers.
 - **Safety**: Djibouti is politically stable relative to neighbors (Somalia, Eritrea, Yemen). Street crime in Djibouti City is moderate. The military bases (French, American, Chinese, Japanese) create a security presence. Travel outside the capital requires awareness but is generally feasible.
 

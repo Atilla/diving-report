@@ -19,7 +19,8 @@ bleaching_resilience: ~
 highlights:
   - "Hundreds of individually documented whale sharks Jul-Oct"
   - "Volcanic underwater topography — caves, arches, tunnels, walls"
-  - "Easy European access with affordable diving (~40-70 euro/dive)"
+  - "Easy European access (4-6hr from Lisbon/London)"
+dive_styles: [pelagic]
 ---
 
 # Cape Verde
@@ -31,7 +32,6 @@ highlights:
 - **Humpback whales**: March–May, on the breeding grounds.
 - Not traditional coral reefs — volcanic rock with sponges, gorgonians, and scattered coral growth. Visibility typically 15–30m.
 - **Operators**: Manta Diving Center (Sal), Scuba Caribe, Dive Point. Several on Sal (the most developed dive island).
-- **Costs**: Affordable by European standards — diving ~40–70 euro/dive. Flights from Europe 4–6 hours (Lisbon, London, other hubs), reasonably priced.
 - **Honest assessment**: Reef diving alone doesn't compare to Indo-Pacific destinations. The combination of whale sharks, volcanic topography, humpback whales, and easy accessibility from Europe is the sell.
 
 ## Season

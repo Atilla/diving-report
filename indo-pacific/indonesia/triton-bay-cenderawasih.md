@@ -20,6 +20,7 @@ highlights:
   - Best soft coral walls globally (Triton Bay)
   - Near-guaranteed whale sharks at Cenderawasih bagan platforms
   - Endemic flasher wrasses and walking sharks
+dive_styles: [walls, pelagic]
 ---
 
 # Triton Bay & Cenderawasih Bay
@@ -77,7 +78,6 @@ Cenderawasih Bay (Teluk Cenderawasih), further north in West Papua, is Indonesia
 
 - **Access**: Liveaboard is the only practical way to dive both areas. Fly to Kaimana (for Triton Bay) or Nabire/Manokwari (for Cenderawasih) via Makassar or Ambon. Domestic connections can be unreliable — build in buffer days. **West Papua travel permit (surat jalan)** required — streamlined in recent years but remains an extra bureaucratic step.
 - **Operators**: Damai, Dewi Nusantara, Indo Siren, SeaTrek. Some operators combine Cenderawasih and Triton Bay into extended itineraries. Others link Triton Bay with Raja Ampat or Banda Sea routes.
-- **Costs**: Premium liveaboard pricing — USD $5,000–8,000+ for 7–10 night trips.
 - **Recompression chamber**: None nearby — Ambon or Makassar. DAN insurance essential.
 
 ## Related Destinations

@@ -20,6 +20,7 @@ highlights:
   - "Gulf of Aqaba supercorals surviving extreme thermal stress"
   - "Ras Mohammed 60-80% coral cover with world-class wall diving"
   - "Abu Nuhas four-wreck reef for outstanding wreck penetration"
+dive_styles: [walls, drift, wrecks, pelagic]
 ---
 
 # Northern Egypt (Sharm el-Sheikh, Hurghada, Ras Mohammed, Gulf of Aqaba/Dahab)
@@ -111,7 +112,6 @@ Whitetip reef sharks at Ras Mohammed and Tiran. Green and hawksbill turtles wide
 - **Operators**: Red Sea Aggressor, Blue Planet, Emperor Divers, Blue O Two, Cassiopeia.
 - **Departure ports**: Sharm (Tiran, Ras Mohammed), Hurghada (Giftun, Abu Nuhas), Port Ghalib (south).
 - **Itineraries**: 3–7 nights. Day trips available from Sharm and Hurghada.
-- **Costs**: Day boats $50–80/day; liveaboards $150–300+/night.
 - **Recompression**: Sharm (Hyperbaric Medical Center) and Hurghada — among the best chamber infrastructure worldwide.
 - **Experience**: Beginner-friendly at Dahab shore sites, Giftun, Gordon Reef. Intermediate for Ras Mohammed, Abu Nuhas. Thomas Reef and Blue Hole Arch require advanced certification.
 

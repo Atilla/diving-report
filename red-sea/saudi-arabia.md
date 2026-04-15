@@ -20,6 +20,7 @@ highlights:
   - NEOM 40,000 corals/year restoration project
   - Gulf of Aqaba supercoral population extends along Saudi coast
   - Emerging destination with genuine e-visa access
+dive_styles: [walls, drift, wrecks]
 ---
 
 # Saudi Arabia Red Sea
@@ -98,7 +99,6 @@ Extremely remote for dive tourists. No established dive operations based here.
 - **Dive operators**: a small but growing number of operators exist, primarily based in **Jeddah** (Dream Dive, Scuba Arabia, Red Sea Divers) and **Yanbu**. These are land-based day-boat operations. Quality and reliability vary — this is not the mature, competitive market of Sharm or Hurghada. Expect to do more due diligence.
 - **Liveaboards**: As of early 2026, no established Saudi Red Sea liveaboard circuit exists. A small number of operators have begun offering multi-day boat trips (notably from Jeddah covering Farasan Banks, and from Yanbu), but these are irregular, not widely bookable through international aggregators, and information is sparse. The Saudi Tourism Authority has signaled intent to develop liveaboard tourism as part of Vision 2030, and NEOM's Sindalah island resort targets luxury marine tourism — but purpose-built liveaboard itineraries remain in early stages.
 - **Access logistics**: fly into Jeddah (IATA: JED) for central coast diving, or Yanbu (IATA: YNB, limited international connections). NEOM area theoretically accessible via NEOM Bay Airport but not open for dive tourism. Farasan Islands: fly Jeddah to Jizan, then ferry — genuinely remote, multi-day commitment.
-- **Costs**: day boat diving from Jeddah/Yanbu runs $80-150/day. Overall trip costs comparable to or slightly higher than Egypt, reflecting Saudi Arabia's generally higher cost of living. Accommodation ranges widely — budget options exist but the tourism sector skews toward higher-end development.
 - **Recompression chamber**: Jeddah has a hyperbaric facility (King Fahd Armed Forces Hospital). Additional military facilities exist. Civilian access protocols less well-documented than Egypt's DAN-affiliated chambers in Sharm/Hurghada.
 - **Cultural considerations**: Saudi Arabia has liberalized significantly since 2019, but remains socially conservative. **Alcohol is prohibited** — no exceptions, no resort exemptions, strictly enforced. Modest dress expected in public (not while diving, but in towns — women should cover shoulders and knees; men should avoid shorts in conservative areas). Gender mixing is now normal in tourist/commercial settings. Female divers face no legal restrictions. Respect during prayer times (businesses pause 5x daily, briefly). Ramadan affects restaurant hours and general pace but does not prevent diving.
 - **Experience level**: beginner to intermediate at established Yanbu/Jeddah day sites. Advanced for Farasan Banks (remote, currents, limited safety infrastructure). No technical diving support readily available.

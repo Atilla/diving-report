@@ -19,7 +19,8 @@ bleaching_resilience: ~
 highlights:
   - "12+ diveable wrecks from 14m to 115m+ depth"
   - "Gozo Dwejra complex — Blue Hole, Inland Sea, Azure Window collapse site"
-  - "30-40m+ visibility; best value-for-money dive destination globally"
+  - "30-40m+ visibility; outstanding diving quality for the Mediterranean"
+dive_styles: [wrecks, walls, caves, shore]
 ---
 
 # Malta & Gozo
@@ -29,7 +30,7 @@ highlights:
 - Malta has one of the most developed dive industries in the Mediterranean (~40–50 dive centers) and is definitively the Med's best wreck diving destination. **12+ diveable wrecks** across all depth ranges (14m to 115m+), covering submarines, destroyers, tankers, ferries, aircraft, patrol boats, and tugboats — a mix of WWII combat casualties and modern purpose-sunk artificial reefs.
 - **Visibility regularly 30–40m+** — among the best in the Mediterranean, due to limestone geology (no river runoff/silt) and oligotrophic central Mediterranean waters. Summer/autumn can see 40–50m.
 - **Not a coral reef destination.** The underwater topography is limestone karst — caves, arches, tunnels, walls, boulder fields. Marine life is Mediterranean-grade: groupers, barracuda schools, amberjack, moray eels, octopus, nudibranchs, seahorses in Posidonia meadows, eagle rays seasonal. Don't expect tropical abundance.
-- **English-speaking** (former British colony, official language), EU member state, modern medical facilities, easy European access. One of the best value-for-money dive destinations globally.
+- **English-speaking** (former British colony, official language), EU member state, modern medical facilities, easy European access. A top-tier dive destination in the Mediterranean.
 - **Diving format**: Shore diving and short day-boat rides. Malta is 27km long; you can stay in one location and dive everything. Excellent shore diving access is a defining strength.
 
 ## Key Dive Sites
@@ -158,8 +159,7 @@ Malta is one of Europe's premier tech diving destinations:
 
 ## Practical Info
 
-- **Access**: Malta International Airport (MLA) — direct flights from most European cities. Low-cost carriers (Ryanair, Wizz Air, easyJet) keep prices competitive. Gozo: 25-minute ferry from Cirkewwa (~5 euro/person), runs frequently.
-- **Costs**: Single guided dive 35–55 euro. 10-dive package 250–400 euro. Full equipment rental 25–40 euro/day. Technical dive (trimix, guide) 80–150+ euro. Accommodation: budget 30–60 euro/night, mid-range 70–150 euro/night. Restaurant meal 15–30 euro. **One of the best value-for-money dive destinations globally** when quality is factored in.
+- **Access**: Malta International Airport (MLA) — direct flights from most European cities. Low-cost carriers (Ryanair, Wizz Air, easyJet) serve MLA. Gozo: ferry from Cirkewwa, runs frequently.
 - **Recompression chamber**: Mater Dei Hospital (Malta's main hospital). Modern EU medical facilities. DAN Europe protocols cover Malta.
 - **Language**: English is an official language. No language barrier for international divers.
 - **Trip planning**: 5–7 days ideal. 3–4 days Gozo (Dwejra complex + Xatt l-Ahmar wrecks), 2–3 days Malta (Um El Faroud, Cirkewwa, WWII wrecks). Shore-based accommodation on both islands.

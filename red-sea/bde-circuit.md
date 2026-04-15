@@ -20,6 +20,7 @@ highlights:
   - "World's most reliable oceanic whitetip shark encounters"
   - "Schooling hammerheads at Daedalus Nov-Feb"
   - "Elphinstone soft coral walls among most colorful in Red Sea"
+dive_styles: [walls, drift, pelagic, wrecks]
 ---
 
 # Brothers, Daedalus, Elphinstone (BDE Circuit — Central/Offshore)
@@ -99,7 +100,6 @@ East and west walls between the plateaus are draped in vibrant red, orange, and 
 - **Itinerary**: 6–7 nights. Standard Brothers/Daedalus/Elphinstone route covers all three over 5–6 diving days. Some add Salem Express wreck or Fury Shoals.
 - **Operators**: My Vasseem, Hurricane Fleet, Blue O Two, Emperor Elite/Superior, Red Sea Aggressor, Exocet. Book 3–6 months ahead for peak season.
 - **Permits**: Special marine park permits required for Brothers and Daedalus — arranged by operator, included in price. Limited boats allowed at each site simultaneously.
-- **Costs**: $1,200–2,500 per person for 6–7 nights depending on boat and season.
 - **Experience level**: Advanced. Minimum 50+ dives; most require Advanced OW. Strong current handling, blue-water descents, and comfort with zodiac pickups essential.
 
 ## Season

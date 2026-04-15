@@ -20,6 +20,7 @@ highlights:
   - World record fish count (374 species on a single dive at Cape Kri)
   - 80-90% manta encounter reliability in season
   - Unmatched fish diversity globally
+dive_styles: [walls, drift, pelagic]
 ---
 
 # Raja Ampat

@@ -20,6 +20,7 @@ highlights:
   - Safari + diving combination unmatched globally
   - Mafia whale sharks Oct-Mar
   - Pemba arguably most underrated destination in Indian Ocean
+dive_styles: [walls, pelagic, shore]
 ---
 
 # Tanzania (Zanzibar, Mafia, Pemba)

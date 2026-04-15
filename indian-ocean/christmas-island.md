@@ -20,6 +20,7 @@ highlights:
   - Whale sharks drawn to red crab larvae
   - Dramatic walls to 4,000m depth
   - Combine with Cocos (Keeling) Islands
+dive_styles: [walls, pelagic, shore]
 ---
 
 # Christmas Island
@@ -58,7 +59,7 @@ highlights:
 ## Practical Info
 
 - **Operators**: Christmas Island Wet 'n' Dry Adventures, Extra Divers Christmas Island. Small operations, limited capacity.
-- **Access**: Flights from Perth (seasonal Virgin Australia) or via Jakarta. Australian territory — normal visa rules apply. One main settlement. Accommodation limited ($100–250 AUD/night).
+- **Access**: Flights from Perth (seasonal Virgin Australia) or via Jakarta. Australian territory — normal visa rules apply. One main settlement. Accommodation limited.
 - **Combine with Cocos (Keeling) Islands** (flights via Christmas Island) — Indian Ocean Experiences offers packages covering both. Cocos has a single dive operator (Cocos Dive) with pristine atoll reefs, spectacular manta encounters, and 15,000+ green turtles in the lagoon — but extremely limited capacity.
 
 ## Related Destinations

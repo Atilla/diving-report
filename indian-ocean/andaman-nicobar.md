@@ -19,7 +19,8 @@ bleaching_resilience: moderate
 highlights:
   - India's only active volcano dive (Barren Island)
   - Manta cleaning stations
-  - Very affordable diving ($50-85/dive)
+  - Accessible "Southeast Asian-quality" reefs under the Indian flag
+dive_styles: [walls, pelagic]
 ---
 
 # Andaman & Nicobar Islands
@@ -61,7 +62,6 @@ Volcanic topography, black sand, manta cleaning stations. Advanced — weather-d
 
 - **Access**: Foreigners can visit the Andaman Islands (Nicobar Islands remain off-limits). Restricted Area Permit issued on arrival at Port Blair airport — largely a formality. Fly from Chennai, Kolkata, or Delhi via connections.
 - **Operators**: Andaman Bubbles, Dive India, Barefoot Scuba, Lacadives (all Havelock). MV Infiniti (liveaboard — covers Barren Island and outer sites). Infinity Scuba offers Barren Island trips.
-- **Costs**: Very affordable — diving ~INR 4,000–7,000/dive ($50–85 USD). Accommodation from budget ($15–30/night) to mid-range ($80–200/night).
 - **Recompression chamber**: Port Blair has a chamber. DAN insurance recommended for Barren Island trips.
 - **Note**: Tourism growth (particularly domestic Indian) is increasing pressure on Havelock's reefs.
 

@@ -20,6 +20,7 @@ highlights:
   - Humpback whale snorkeling transforms destination Jun-Oct
   - 2026 eruption creating new dive topography
   - 885 reef fish species including 9 endemics
+dive_styles: [walls, pelagic, wrecks]
 ---
 
 # Reunion (La Reunion)

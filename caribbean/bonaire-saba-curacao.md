@@ -20,6 +20,7 @@ highlights:
   - World's best shore diving (60 marked sites, truck + tanks + 24/7 access)
   - Reef Renewal Foundation 65,000+ corals outplanted
   - 470-500+ fish species, highest in the Caribbean
+dive_styles: [walls, shore]
 ---
 
 # Bonaire / Saba / Curacao
@@ -79,7 +80,7 @@ highlights:
 - **Access**: Flamingo International Airport (BON). Direct flights from Miami, Houston, Atlanta, Newark, and Amsterdam (KLM — Bonaire is a Dutch special municipality). 4–5 hours from US East Coast.
 - **Shore-diving infrastructure**: Bonaire's defining feature. ~60 marked dive sites ring the leeward coast, each identified by a numbered yellow painted stone on the roadside. Divers rent pickup trucks, load their own tanks, and dive 24/7 at their own pace — no boat, no guide, no schedule. Most resorts offer unlimited tank packages and drive-through tank fills.
 - **Operators**: Buddy Dive Resort (drive-through tank station), Dive Friends Bonaire (multiple locations), Wannadive. Most resorts are dive-resort hybrids.
-- **Costs**: Moderate by Caribbean standards. Unlimited shore-diving packages (accommodation + truck + tanks) $1,200–2,000/week. Marine park fee $45/year. Boat dives to Klein Bonaire ~$50–70 for two tanks.
+- **Costs**: Marine park fee $45/year.
 - **Recompression chamber**: San Francisco Hospital, Kralendijk.
 - **Experience level**: All levels. Self-guided format rewards good buoyancy and navigation but is not inherently difficult.
 - **Diving style**: Shore diving — widely regarded as the best in the world. The entire experience is built around the self-guided shore-diving model described above.

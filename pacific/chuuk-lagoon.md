@@ -20,6 +20,7 @@ highlights:
   - "60+ WWII wrecks with tanks, torpedoes, battleship shells, trucks, aircraft"
   - "Fujikawa Maru — zero fighter aircraft parts in forward holds"
   - "San Francisco Maru — Ha-Go tanks and naval mines at technical depth"
+dive_styles: [wrecks]
 ---
 
 # Chuuk (Truk) Lagoon, Micronesia
@@ -125,7 +126,6 @@ highlights:
 
 - **Access**: United Airlines island-hopper from Guam or Honolulu via Pohnpei, or from Guam direct. Flights infrequent (2–3/week). Connections via Guam from Tokyo, Manila, Seoul, or via Honolulu from US mainland. Flight cancellations not uncommon — build in buffer days.
 - **Operators**: **Blue Lagoon Resort & Dive** (main shore-based — functional but aging facilities, mixed accommodation reviews, dive operation well-regarded for guide knowledge). **Truk Master** (Master Liveaboards, seasonal — strong reviews, significant step up from shore-based). **MV Thorfinn** (historic permanently-moored floating hotel/dive vessel — unique experience but showing its age; long-term future uncertain). **Odyssey Adventures / Truk Odyssey** (another established operation).
-- **Costs**: Land-based packages USD $2,500–4,000/week including diving. Liveaboards $4,000–6,000/week. Expensive to reach — multiple flights via Guam or Hawaii.
 - **Weno town**: Consistently described as "rough" and "not a tropical paradise." Basic infrastructure, trash, power outages, water supply issues. Petty theft — don't leave valuables unattended. Night walking not recommended (alcohol-related incidents). **The contrast between the extraordinary underwater experience and the challenging topside environment is stark.** Go for the diving, not the resort experience.
 - **Recompression chamber**: A chamber exists on Chuuk but its operational readiness has been inconsistent. **Conservative dive planning is essential** — this is not a destination where you want to push limits. DAN evacuation insurance strongly recommended (serious cases may require Guam evacuation).
 - **Medical facilities**: Chuuk State Hospital is extremely basic. Serious medical issues require evacuation to Guam or Hawaii.

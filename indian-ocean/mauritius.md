@@ -20,6 +20,7 @@ highlights:
   - Cathedral dive (Flic-en-Flac) volcanic formations
   - Rodrigues Island healthier alternative
   - Combined holiday + diving destination
+dive_styles: [walls, drift, pelagic]
 ---
 
 # Mauritius

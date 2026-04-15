@@ -20,6 +20,7 @@ highlights:
   - North-south split defines diving (pelagic walls vs world-class macro)
   - Manta Alley 70-80% reliability Jun-Sep
   - Batu Bolong and Castle Rock among Indonesia's premier current-swept sites
+dive_styles: [walls, drift, muck, pelagic]
 ---
 
 # Komodo

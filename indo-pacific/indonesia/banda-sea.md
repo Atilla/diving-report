@@ -20,6 +20,7 @@ highlights:
   - Expedition-grade pristine diving
   - Hammerhead schools at Suanggi Island
   - World's premier sea snake dive at Manuk Island
+dive_styles: [walls, drift, pelagic]
 ---
 
 # Banda Sea

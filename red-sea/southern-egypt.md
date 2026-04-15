@@ -20,6 +20,7 @@ highlights:
   - "Habili Ali hammerheads at offshore pinnacle rising from 400m+"
   - "Sataya resident pod of 60-80 spinner dolphins"
   - "Elphinstone oceanic whitetip shark encounters"
+dive_styles: [walls, drift, pelagic]
 ---
 
 # Southern Egypt (Marsa Alam, Fury Shoals, St. Johns, Deep South)

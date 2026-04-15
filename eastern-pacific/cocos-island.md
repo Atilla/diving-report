@@ -20,6 +20,7 @@ highlights:
   - "Schools of 200+ scalloped hammerheads at Bajo Alcyone"
   - "Manuelita whitetip reef shark cooperative night hunt — career-highlight experience"
   - "Top 5 world diving destination; Cocos-Galapagos biological corridor"
+dive_styles: [walls, pelagic]
 ---
 
 # Cocos Island, Costa Rica
@@ -94,7 +95,7 @@ highlights:
 - **Departure**: Puntarenas, Pacific coast of Costa Rica. **Transit: 30–36 hours each way** across open ocean. Seasickness is common.
 - **Operators**: Okeanos Aggressor (~22 pax), Argo and Sea Hunter (Undersea Hunter Group, ~18 pax each), Aventura.
 - **Trip length**: 10–12 days total (5–7 days diving at the island, rest in transit).
-- **Cost**: Premium — USD $6,500–$9,500+ per person for liveaboard, plus park fees (~$50/day for foreign divers), flights to San Jose, tips. Total all-in: $8,000–$12,000.
+- **Cost**: Park fees ~$50/day for foreign divers.
 - **Recompression**: Nearest chamber on mainland. Undersea Hunter vessels maintain chamber access arrangements. DAN membership and evacuation insurance essential.
 
 ## Conservation

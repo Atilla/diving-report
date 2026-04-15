@@ -20,6 +20,7 @@ highlights:
   - 5,000+ ID'd manta rays; Hanifaru Bay feeding aggregation (100-200+ mantas)
   - Fuvahmulah tiger sharks near-daily (>95% success rate)
   - Southern atolls (Huvadhoo) show significantly greater coral resilience
+dive_styles: [walls, drift, pelagic]
 ---
 
 # Maldives
@@ -100,9 +101,9 @@ The southernmost atoll, straddling the equator. **British Loyalty wreck** — a 
 
 ## Practical Info
 
-- **Access**: Velana International Airport (MLE), Male. Major hub with direct flights from Colombo (1h), Dubai (4h), Singapore (4.5h), European cities (10-12h via Gulf carriers). Most liveaboards depart from Male harbour. Southern itineraries may use domestic flights to Kaadedhdhoo (Huvadhoo), Fuvahmulah, or Gan (Addu) — adding $200-400 return for domestic transfers.
+- **Access**: Velana International Airport (MLE), Male. Major hub with direct flights from Colombo (1h), Dubai (4h), Singapore (4.5h), European cities (10-12h via Gulf carriers). Most liveaboards depart from Male harbour. Southern itineraries may use domestic flights to Kaadedhdhoo (Huvadhoo), Fuvahmulah, or Gan (Addu).
 - **Liveaboard routes**: **Central classic** (North/South Male, Ari — 7 nights, the standard route, most operators) — good pelagics but worst-hit coral. **Northern** (Baa Atoll, Raa, Lhaviyani — 7 nights) — Hanifaru Bay focus during manta season. **Deep South** (Huvadhoo, Fuvahmulah area, Addu — 7-10 nights) — best coral, fewest boats, longer open-water crossings. **Best of Maldives** (Male to Addu or reverse — 10-14 nights) — premium itineraries covering the full north-to-south range.
-- **Operators**: large fleet — 150+ liveaboards operate in the Maldives, ranging from budget to ultra-luxury. Established names include Four Seasons Explorer (luxury), Carpe Diem fleet (mid-range, multiple boats), MV Scubaspa (spa + diving hybrid), Emperor fleet (reliable mid-range), Blue Force (deep south specialists). Budget boats from $150/night; mid-range $250-400/night; luxury $500-1,000+/night. All-inclusive with 2-3 dives/day standard.
+- **Operators**: large fleet — 150+ liveaboards operate in the Maldives, ranging from budget to ultra-luxury. Established names include Four Seasons Explorer (luxury), Carpe Diem fleet (mid-range, multiple boats), MV Scubaspa (spa + diving hybrid), Emperor fleet (reliable mid-range), Blue Force (deep south specialists). All-inclusive with 2-3 dives/day standard.
 - **Trip length**: 7 nights standard for single-region routes; 10-14 nights for cross-atoll or deep south expeditions. Short 4-5 night trips exist but limit route options.
 - **Recompression chambers**: Bandos Island (North Male Atoll) operates a well-equipped hyperbaric facility staffed by DAN-affiliated physicians — the primary chamber for the country. A second chamber exists at Kuramathi (Rasdhoo Atoll). Southern atolls are hours from either chamber — deep south itineraries carry elevated DCI risk due to distance from treatment.
 - **Experience level**: most operators require Advanced OW + 30-50 logged dives minimum. Nitrox certification strongly recommended (and often included). Deep south and Fuvahmulah require genuine experience — not the place to log dive #31.

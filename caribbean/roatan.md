@@ -17,9 +17,9 @@ experience_level: All levels
 last_verified: 2026-04
 bleaching_resilience: low
 highlights:
-  - Most affordable Caribbean diving
   - Record 158 shark sightings 2024
   - CRCR first land-based coral rearing facility in Central America
+dive_styles: [walls, drift, shore]
 ---
 
 # Roatan / Bay Islands
@@ -85,7 +85,6 @@ highlights:
 - **Access**: Juan Manuel Galvez International Airport (RTB). Direct flights from Miami, Houston (seasonal). Connections via San Pedro Sula or La Ceiba on domestic carriers.
 - **Dive operators**: Wide range from budget to upscale. Anthony's Key Resort (long-established, dolphin encounters, north shore), CoCo View Resort (dedicated dive resort, south shore wall access), Turquoise Bay Resort (upscale, east end). West End concentration of shops (Coconut Tree Divers, Native Sons, Subway Watersports, Roatan Divers) creates a competitive, walkable dive hub.
 - **Liveaboard options**: Roatan Aggressor and Bay Islands Aggressor operate multi-day itineraries covering Roatan, Utila, and Cayos Cochinos.
-- **Costs**: One of the most affordable Caribbean dive destinations. Two-tank boat dives $70–90. Multi-dive resort packages (accommodation + 3 dives/day) $1,500–2,500/week. OW certification from ~$300–350.
 - **Recompression chamber**: Anthony's Key Resort, north shore (operated by the Cornerstone Foundation). Serves the entire Bay Islands.
 - **Experience level**: All levels. Shallow reef suits beginners; deep walls, channels, and swim-throughs challenge advanced divers.
 

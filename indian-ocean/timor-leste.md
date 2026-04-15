@@ -19,7 +19,8 @@ bleaching_resilience: high
 highlights:
   - World record 253 fish species per dive site
   - Blue whale and sperm whale migration Oct-Nov
-  - Genuine frontier experience at fraction of comparable destination costs
+  - Genuine frontier experience with minimal infrastructure
+dive_styles: [walls, shore]
 ---
 
 # Timor-Leste / Atauro Island
@@ -60,11 +61,10 @@ highlights:
 ## Practical Info
 
 - **Access**: Flights to Dili from Bali/Denpasar, Darwin, Singapore. Ferry or speedboat to Atauro (~1 hour).
-- **Operators**: Atauro Dive Resort (PADI, beachfront bungalows from $50/night with meals), Compass Diving (PADI 5-Star), Dive Timor Lorosae. The **Oriental Siren** liveaboard runs 10-night cruises Aug–Nov covering Dili, Atauro, and the northern coast.
-- **Costs**: Very affordable — resort + diving packages excellent value by global standards.
+- **Operators**: Atauro Dive Resort (PADI), Compass Diving (PADI 5-Star), Dive Timor Lorosae. The **Oriental Siren** liveaboard runs 10-night cruises Aug–Nov covering Dili, Atauro, and the northern coast.
 - **Recompression chamber**: None in Timor-Leste. Nearest in Darwin, Australia. DAN evacuation insurance essential.
 - **Infrastructure**: Basic but developing. Roads outside Dili are rough. Power can be unreliable.
-- **For the right diver**: World-class biodiversity at a fraction of the cost of comparable destinations. The infrastructure trade-off is real — but Timor-Leste offers a genuine frontier experience with scientific credentials that rival anywhere on Earth.
+- **For the right diver**: The infrastructure trade-off is real — but Timor-Leste offers a genuine frontier experience with scientific credentials that rival anywhere on Earth.
 
 ## Related Destinations
 

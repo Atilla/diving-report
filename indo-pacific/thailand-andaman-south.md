@@ -20,6 +20,7 @@ highlights:
   - Hin Daeng mantas — 118 individually documented oceanic mantas; designated ISRA
   - Koh Haa — among the healthiest reefs in the region; the Cathedral and the Chimney
   - Krabi pinnacles showed only 13-18% bleaching — confirmed high resilience
+dive_styles: [walls, drift, pelagic, caves]
 ---
 
 # Thailand — Andaman Sea South (Koh Haa, Hin Daeng/Hin Muang, Phi Phi, Koh Rok, Koh Lipe)
@@ -126,7 +127,7 @@ A south Andaman liveaboard route (Koh Haa, Hin Daeng/Hin Muang, Koh Rok, potenti
 - **Departure ports**: Most south itineraries from **Koh Lanta** or **Krabi**. Combined north-south from **Phuket** (Chalong Bay) or **Khao Lak**.
 - **Liveaboard operators**: South-focused — MV Lapat (dedicated Koh Haa/Hin Daeng from Koh Lanta), MV Kepsub. Combined north-south — Deep Andaman Queen, MV Manta Queen fleet, SY Diva Andaman, MV Giamani. Premium — MV Halcyon, Sawasdee Fasai.
 - **Typical itineraries**: South-only (3-4 nights): Koh Lanta -> Koh Haa -> Hin Daeng/Hin Muang -> Koh Rok -> return. Combined north-south (5-7 nights): Khao Lak -> Similans -> Koh Bon -> Richelieu -> transit south -> Koh Haa -> Hin Daeng -> end Koh Lanta.
-- **Costs**: South-only 3-4 nights USD $500-1,000. Combined 5-7 nights $1,000-2,200. Day trips from Koh Lanta to Hin Daeng ~$130-190. Generally 10-20% cheaper than equivalent Similan-only trips.
+- **Day trips**: Available from Koh Lanta to Hin Daeng.
 - **Season**: Same **Nov-Apr** as the north. Park closures mid-May to mid-Oct. Hin Daeng manta peak: **Feb-Apr**. Early season (Nov-Dec) calmest seas.
 - **Experience level**: Koh Haa and Koh Rok suitable for Open Water. Hin Daeng/Hin Muang require Advanced OW (depths to 50m+, open-ocean currents).
 - **Recompression chamber**: SSS Phuket (same as north). Evacuation from Hin Daeng 3-4 hours by speedboat.

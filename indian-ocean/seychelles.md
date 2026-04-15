@@ -20,6 +20,7 @@ highlights:
   - Aldabra/Cosmoledo world-class but extremely limited access
   - 30% EEZ protected via landmark debt-for-nature swap
   - Evidence of ecological adaptation (faster recovery from successive bleaching events)
+dive_styles: [walls, drift, pelagic]
 ---
 
 # Seychelles

@@ -20,6 +20,7 @@ highlights:
   - Blue Corner — 20-50+ grey reef sharks per dive; world-famous reef hook technique
   - 80% EEZ no-take marine sanctuary; first nation to declare entire EEZ shark sanctuary
   - Jellyfish Lake recovering as of 2026; Peleliu bull sharks and occasional tiger sharks
+dive_styles: [walls, drift, pelagic, wrecks, caves]
 ---
 
 # Palau

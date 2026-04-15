@@ -20,6 +20,7 @@ highlights:
   - "Critically important sea turtle nesting site (green, hawksbill, olive ridley, leatherback)"
   - "Unique Eastern Atlantic biogeography — species unavailable on any standard dive itinerary"
   - "Principe UNESCO Biosphere Reserve with Tinhosas Islands pelagic potential"
+dive_styles: [walls, pelagic]
 ---
 
 # Sao Tome and Principe

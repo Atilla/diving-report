@@ -20,6 +20,7 @@ highlights:
   - "Fakarava South Pass — 700+ grey reef sharks in a single channel"
   - "Rangiroa Tiputa Pass — dolphins surfing currents alongside divers"
   - "30-60m visibility — among the clearest tropical waters on Earth"
+dive_styles: [drift, pelagic, walls]
 ---
 
 # French Polynesia — Tuamotus (Fakarava, Rangiroa)
@@ -95,12 +96,11 @@ Occasional liveaboard stops with excellent pass diving and zero crowds.
 
 ## Practical Info
 
-- **Access**: International flights to Tahiti (Papeete, PPT) — direct from Los Angeles, Auckland, Tokyo, Paris. Domestic Air Tahiti flights to Fakarava (FAV, ~1 hour) and Rangiroa (RGI, ~1 hour). Internal flights are expensive ($200–500+ round trip per segment).
+- **Access**: International flights to Tahiti (Papeete, PPT) — direct from Los Angeles, Auckland, Tokyo, Paris. Domestic Air Tahiti flights to Fakarava (FAV, ~1 hour) and Rangiroa (RGI, ~1 hour).
 - **Dive gear on flights**: Air Tahiti Nui allows a free 23kg sports equipment bag (for scuba gear) in addition to standard luggage — significant for traveling divers.
 - **Fakarava South Pass accommodation**: Tetamanu Diving Village is the only dive center right next to the South Pass, providing first-in-the-water advantage. Reaching it from the airport requires ~2 hours (30 min drive + 70 min boat). Basic bungalows, all meals included.
-- **Liveaboard operators**: **French Polynesia Master** (Master Liveaboards) covers extended Tuamotus including lesser-visited atolls. **Aqua Tiki** catamaran liveaboard. Typical 7–10 night trips, USD $5,000–7,000+.
+- **Liveaboard operators**: **French Polynesia Master** (Master Liveaboards) covers extended Tuamotus including lesser-visited atolls. **Aqua Tiki** catamaran liveaboard.
 - **Land-based**: Fakarava — several small pensions near the South Pass (Tetamanu Village, Raimiti) and dive centers (Dive Spirit Fakarava, Top Dive). Rangiroa — multiple operators (The Six Passengers, Rangiroa Diving Center, Top Dive). Day-boat diving to the passes is the standard format.
-- **Costs**: Land-based diving USD $80–120/dive. Liveaboard premium. French Polynesia is expensive across the board — accommodation, food, internal transport.
 - **Recompression chamber**: Centre Hospitalier de Polynesie Francaise in Tahiti (Papeete). DAN insurance essential.
 - **Experience level**: Pass diving requires Advanced Open Water and comfort with strong currents and drift diving. Inner lagoon sites accessible to beginners.
 

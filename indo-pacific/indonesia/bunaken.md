@@ -20,6 +20,7 @@ highlights:
   - "World-class wall diving — sheer drop-offs to 300m+ with dense gorgonians and soft corals"
   - "Turtle capital of the world — 30-40 green turtles on a single dive"
   - "Combine with Lembeh for the ultimate muck + reef Indonesia trip"
+dive_styles: [walls, shore]
 ---
 
 # Bunaken National Park

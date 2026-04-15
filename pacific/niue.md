@@ -20,6 +20,7 @@ highlights:
   - "60-100m visibility — among the clearest documented waters anywhere"
   - "Abundant banded sea kraits with curious diver interaction"
   - "Named one of the world's greatest places 2025 — diving discovery of the year"
+dive_styles: [walls, caves]
 ---
 
 # Niue
@@ -33,7 +34,6 @@ highlights:
 - Named one of the world's greatest places in 2025 — gaining wider international recognition.
 - **Niue Dive** (formerly Niue Blue) is essentially the **only operator** — very limited capacity. Shore diving from some coastal points is possible. No harbour — boat launching depends on weather; cancellations due to swell are common.
 - Flights from Auckland only (Air New Zealand, twice weekly, seasonal). Total island accommodation ~100–150 beds. Book months in advance for whale season.
-- Diving ~NZD $150–200/dive. Accommodation NZD $100–250/night.
 
 ## Season
 

@@ -20,6 +20,7 @@ highlights:
   - Sail Rock — best site in the Gulf with schools of batfish, barracuda, jacks, occasional whale sharks
   - Chumphon Pinnacle — seasonal bull sharks Dec-Mar
   - Grassroots reef conservation programme since 2007 — coral nurseries and artificial reefs
+dive_styles: [walls, pelagic]
 ---
 
 # Thailand — Gulf of Thailand (Koh Tao, Koh Phangan, Chumphon)

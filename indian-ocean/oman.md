@@ -20,6 +20,7 @@ highlights:
   - Daymaniyat Islands 40-70% hard coral cover
   - Pharaoh cuttlefish encounters (Musandam)
   - Dhofar coast whale sharks Oct-Mar
+dive_styles: [walls, drift, pelagic]
 ---
 
 # Oman

@@ -20,6 +20,7 @@ highlights:
   - "Three great hammerhead aggregation sites connected by Cocos Ridge migratory highway"
   - "CMAR corridor — joint Ecuador/Costa Rica/Colombia/Panama conservation initiative"
   - "73% hammerhead decline at Malpelo (2009–2019 monitoring period) and 2026-2035 coral projections at Darwin signal narrowing window"
+dive_styles: [pelagic]
 ---
 
 # The Hammerhead Triangle — Eastern Tropical Pacific Shark Corridor
@@ -32,11 +33,11 @@ The three great hammerhead aggregation sites of the Eastern Tropical Pacific —
 - **UNESCO Transboundary Marine Biosphere Reserve** designation further links all four nations' conservation efforts.
 - **The corridor's importance for divers:** these three destinations are the world's premier hammerhead diving. Doing all three in separate trips is the ultimate shark diving trilogy. The corridor also means that conservation at one site benefits the others — and threats (longline fishing outside MPA boundaries) affect all three. The 73.3% hammerhead decline documented at Malpelo between 2009–2019 and the 2026–2035 coral projections at Darwin/Wolf are warning signs that the window for peak encounters may be narrowing.
 
-| Destination | Hammerhead peak | School size | Transit | Cost (all-in) | Unique draw |
-|---|---|---|---|---|---|
-| **Galapagos (Darwin/Wolf)** | Jun–Nov | 100–200+ | Fly Baltra/San Cristobal | $7,000–12,000 | Whale sharks + hammerheads together; sea lions; cold water (7mm+) |
-| **Cocos Island** | Jun–Nov | 200+ | 30–36hr from Puntarenas | $8,000–12,000 | Whitetip reef shark night hunts at Manuelita; most pristine of the three |
-| **Malpelo** | Jan–May (hammerheads); May–Nov (whale sharks) | 200–500+ | 30–36hr from Buenaventura | $6,000–10,000 | Largest schools; shark tornadoes; smalltooth sand tiger; tiger sharks |
+| Destination | Hammerhead peak | School size | Transit | Unique draw |
+|---|---|---|---|---|
+| **Galapagos (Darwin/Wolf)** | Jun–Nov | 100–200+ | Fly Baltra/San Cristobal | Whale sharks + hammerheads together; sea lions; cold water (7mm+) |
+| **Cocos Island** | Jun–Nov | 200+ | 30–36hr from Puntarenas | Whitetip reef shark night hunts at Manuelita; most pristine of the three |
+| **Malpelo** | Jan–May (hammerheads); May–Nov (whale sharks) | 200–500+ | 30–36hr from Buenaventura | Largest schools; shark tornadoes; smalltooth sand tiger; tiger sharks |
 
 ## Related Destinations
 

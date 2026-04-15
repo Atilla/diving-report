@@ -20,6 +20,7 @@ highlights:
   - Lighthouse Reef "one of healthiest in Caribbean"
   - Blue Bond conservation funding model
   - Gladden Spit whale sharks Mar-Jun
+dive_styles: [walls, pelagic, caves]
 ---
 
 # Belize
@@ -93,7 +94,7 @@ Described as **"one of the best developed and healthiest reefs in the Caribbean.
 - **Access**: Fly to Philip S. W. Goldson International Airport (BZE), Belize City. Liveaboards depart from Belize City (typically Radisson Fort George marina area).
 - **Liveaboard operators**: Belize Aggressor III and IV (longest-established, year-round). Smaller charter catamaran operations appear seasonally. Options limited compared to Red Sea — book well in advance.
 - **Typical itineraries**: 7-night trips combine two or three atolls. Common routing: Turneffe + Lighthouse Reef (including Blue Hole), with Glover's added on longer or southern-route trips. Whale shark season departures dedicate a day to Gladden Spit. 4–5 dives/day including night dives.
-- **Costs**: USD $3,000–4,500 per person for 7 nights depending on cabin and season, excluding gear rental, park fees (~$40 for Blue Hole), nitrox, and gratuities.
+- **Costs**: Park fees ~$40 for Blue Hole.
 - **Recompression chamber**: Sub-Aquatic Safety Services on Ambergris Caye (San Pedro). DAN membership strongly recommended.
 - **Experience level**: Open Water minimum, Advanced OW recommended. Blue Hole dive restricted to Advanced-certified. Outer walls suit intermediate to advanced; sheltered atoll sites accessible to newer divers.
 

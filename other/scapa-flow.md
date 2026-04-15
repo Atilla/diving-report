@@ -20,6 +20,7 @@ highlights:
   - "3 Konig-class battleships + 4 light cruisers — only WWI dreadnoughts on Earth"
   - "SMS Brummer — often cited as best dive at Scapa Flow"
   - "Wrecks deteriorating — dive sooner rather than later"
+dive_styles: [wrecks]
 ---
 
 # Scapa Flow, Orkney Islands (Scotland)
@@ -118,7 +119,6 @@ The blockships are particularly prolific — anemone gardens, crustacean colonie
 - **Access**: Fly to Kirkwall (KOI) via Loganair from Edinburgh (~1hr), Glasgow, Aberdeen, Inverness. Or ferry — NorthLink from Scrabster (near Thurso) to Stromness (~90 min), or Pentland Ferries from Gills Bay to St Margaret's Hope (~1hr). Aberdeen overnight ferry to Kirkwall also available. Ferries carry vehicles (useful for dive gear).
 - **Liveaboard operators**: **MV Halton** (~12 divers, week-long packages, based Stromness — the classic Scapa liveaboard). **MV Huskyan** (similar format). Living aboard means diving at whatever time slack falls — even 4 AM in the endless summer daylight. Critical advantage over shore-based.
 - **Shore-based operators**: Scapa Scuba (Stromness), Diving Cellar (Stromness), Scapa Flow Charters. Hardboat charters to all main wrecks.
-- **Costs**: Liveaboard week GBP 1,200–1,800+ per person (includes accommodation, meals, diving). Day boat diving GBP 40–80/dive. B&B in Stromness GBP 60–100/night. Flights Edinburgh–Kirkwall from GBP 80–200 return.
 - **Recompression chamber**: Orkney Hyperbaric Trust operates a chamber in Kirkwall. Staffed by trained volunteers with medical oversight. **Funded by charitable donations** — visiting divers are expected to contribute (~GBP 25–50/diver/trip, often folded into operator fees). Its continued operation depends on this funding.
 - **Technical diving**: Trimix and nitrox fills available from Stromness operators. Helium supply can be limited on Orkney — check in advance. Twinset and stage rental from some operators. Many visiting tech divers bring own gear on the ferry.
 

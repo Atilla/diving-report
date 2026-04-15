@@ -20,6 +20,7 @@ highlights:
   - One of the world's most reliable mola mola (ocean sunfish) sites
   - Year-round manta rays at cleaning stations (90-95% success)
   - Active coral restoration with visible results on dives
+dive_styles: [drift, pelagic]
 ---
 
 # Nusa Penida
@@ -116,7 +117,6 @@ The snorkeling scene at Manta Bay is more chaotic — overcrowded sites, unlicen
 
 - **Access:** 30–45 min fast boat from Sanur (Bali) to Nusa Penida or Nusa Lembongan. Most dive operators arrange transfers. Can also stay on Bali and take day-boat trips (adds transit time, less ideal).
 - **Accommodation:** range from backpacker to mid-range on Nusa Penida and Nusa Lembongan. Not luxury resort territory.
-- **Costs:** ~$80–150 for a 2-dive day trip with equipment from a reputable operator. Significantly cheaper than comparable Indonesian destinations.
 - **Recompression chamber:** Sanglah Hospital, Denpasar (Bali) — ~1.5 hours from Nusa Penida by fast boat + road. Not ideal; reinforces the importance of conservative diving here.
 - **Experience level:** intermediate to advanced for Penida's signature sites (Crystal Bay, Manta Point, drift dives). Lembongan's sheltered sites accessible to Open Water divers.
 - **Day-boat diving** from island resorts or Bali.

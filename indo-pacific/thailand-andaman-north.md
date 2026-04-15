@@ -20,6 +20,7 @@ highlights:
   - Richelieu Rock — arguably Thailand's best dive; whale sharks Feb-Apr; macro capital (seahorses, ghost pipefish)
   - Koh Bon manta cleaning station — 60-70% encounter rate during peak Feb-Apr
   - Leopard shark rewilding programme launched May 2025 — first-ever in Thailand
+dive_styles: [walls, drift, pelagic]
 ---
 
 # Thailand — Andaman Sea North (Similans, Richelieu Rock, Surin, Burma Banks)
@@ -135,9 +136,9 @@ November through April/May. Parks close mid-May to mid-October (exact dates vary
 ## Practical Info
 
 - **Departure port**: Khao Lak (Tab Lamu Navy Pier) for nearly all northern Andaman liveaboards. 1-1.5 hrs north of Phuket airport.
-- **Liveaboard range**: Budget (~$900-1,200 for 4N) to premium ($2,000-3,500+ for 4N). Budget boats: Similan Explorer, MV Amapon. Mid-range: MV Giamani, Deep Andaman Queen. Premium: SY Diva Andaman, MV Hallelujah. Luxury: MY Camic, Dolphin Queen.
+- **Liveaboard operators**: Similan Explorer, MV Amapon, MV Giamani, Deep Andaman Queen, SY Diva Andaman, MV Hallelujah, MY Camic, Dolphin Queen.
 - **Typical itineraries**: 4-night/4-day covers Similans + Koh Bon + Richelieu Rock (standard route, ~14-18 dives). 5-night adds Surin Islands and/or extra Richelieu dives. Burma Banks requires dedicated 5-6 night trips or extended 7-8 night routes covering everything. Some operators run combined North + South routes (7-10 nights, adding Hin Daeng/Hin Muang and Koh Haa).
-- **Costs include**: cabin, all dives (incl. tanks, weights, guide), meals, tea/coffee. Extras: equipment rental (~$15-30/day full set), Nitrox ($50-100/trip), national park fees (~$20-40), soft drinks/beer.
+- **Costs include**: cabin, all dives (incl. tanks, weights, guide), meals, tea/coffee. Extras: equipment rental, Nitrox, national park fees (~$20-40), soft drinks/beer.
 - **Recompression chamber**: SSS Network Recompression Chamber, Phuket (Bangkok Hospital Phuket and Vachira Phuket Hospital). ~2 hrs by speedboat from Similans. DAN insurance strongly recommended.
 - **Experience level**: Similans east-side sites suitable for Open Water divers (calm, moderate depth). West-side sites (Christmas Point, Elephant Head), Richelieu Rock, and Burma Banks best suited for Advanced OW with 30+ logged dives. Strong currents at exposed sites require comfort with drift diving and blue-water descents.
 

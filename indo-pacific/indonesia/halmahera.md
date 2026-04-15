@@ -20,6 +20,7 @@ highlights:
   - What Raja Ampat was 15-20 years ago
   - Weda Bay whale sharks at bagan platforms
   - Morotai WWII wrecks (P-38 Lightnings, B-24 Liberators)
+dive_styles: [walls, wrecks, pelagic]
 ---
 
 # Halmahera / North Maluku
@@ -87,8 +88,8 @@ The Malaillo liveaboard conducted exploration expeditions discovering previously
 ## Practical Info
 
 - **Access**: Fly to Ternate (TTE) via Manado (1–1.5hr), Makassar (2–2.5hr), or Jakarta (4hr+). To Weda Bay: overland transit across Halmahera (~6–8 hours, roads improving) or charter boat; Weda Resort arranges transfers. To Morotai: Wings Air from Ternate (~45 min) or ferry from Tobelo (2–3 hours).
-- **Liveaboard operators**: **Malaillo** (expedition pioneer, exploration focus). **Dewi Nusantara** (premium phinisi, ~$6,000–9,000/10–12 nights, Halmahera as part of Spice Islands/Forgotten Islands routes). **Indo Siren / Indo Master** (periodic "Halmahera & Beyond" itineraries, $4,000–7,000/7–10 nights). **Mermaid Liveaboards** (occasional Maluku expedition routes). Most boats don't do "Halmahera only" — typical routing: Ternate embarkation, dive south along Halmahera's coast, round to Weda Bay, continue to Raja Ampat or Banda Sea. 10–14 night itineraries.
-- **Land-based**: Weda Resort (~$150–250/night with diving). Basic guesthouses on Morotai. Very limited options.
+- **Liveaboard operators**: **Malaillo** (expedition pioneer, exploration focus). **Dewi Nusantara** (premium phinisi, Halmahera as part of Spice Islands/Forgotten Islands routes). **Indo Siren / Indo Master** (periodic "Halmahera & Beyond" itineraries). **Mermaid Liveaboards** (occasional Maluku expedition routes). Most boats don't do "Halmahera only" — typical routing: Ternate embarkation, dive south along Halmahera's coast, round to Weda Bay, continue to Raja Ampat or Banda Sea. 10–14 night itineraries.
+- **Land-based**: Weda Resort. Basic guesthouses on Morotai. Very limited options.
 - **Recompression chamber**: **None in North Maluku province.** Nearest in Manado (~1.5hr by air from Ternate) or Makassar. DAN evacuation insurance absolutely essential. Conservative dive profiles strongly recommended.
 - **Communication**: Cell coverage in Ternate and some coastal towns; absent or unreliable in remote areas. Liveaboards carry satellite communication.
 

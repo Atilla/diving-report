@@ -20,6 +20,7 @@ highlights:
   - Kakaban stingless jellyfish lake (like Palau)
   - Sangalaki manta point
   - Maratua walls with barracuda tornados
+dive_styles: [walls, pelagic]
 ---
 
 # Derawan Islands / Kakaban

@@ -20,6 +20,7 @@ highlights:
   - "In-water swimming with humpback whales — 80-90% success rate peak season"
   - "Ha'apai reef diving with South Pacific's biggest known coral arch"
   - "One of very few places globally where whale swimming is legal and commercially operated"
+dive_styles: [walls, pelagic]
 ---
 
 # Tonga
@@ -35,7 +36,6 @@ highlights:
 
 - **Access**: Fly to Tongatapu (Nuku'alofa) then domestic flight to Vava'u (~1 hour) or Ha'apai. International flights from Auckland, Sydney, Fiji.
 - **Operators**: Deep Blue Diving (Vava'u — whale swims + reef diving), Whale Discoveries (dedicated whale-swim operator), Beluga Diving (Ha'apai). Resort-based and day-boat diving.
-- **Costs**: Whale swim day trips ~USD $250–350/person. Reef diving $100–150 for 2-tank. Accommodation from budget ($40/night) to mid-range ($150–300/night).
 - **Season**: **July–October** for whales (peak Aug–Sep). Reef diving year-round, best May–November.
 - **Temperature:** 23–28C. Coolest Jul–Sep (~23–25C), warmest Jan–Mar (~27–28C). 3mm for warm season; 5mm recommended during whale season (cooler water).
 - **Cyclone risk:** Dec–Apr (peak Jan–Mar). Not a major cyclone corridor but Cyclone Harold (2020) and the Hunga Tonga eruption (2022) demonstrate vulnerability.

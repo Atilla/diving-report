@@ -20,6 +20,7 @@ highlights:
   - World's best house reef (consistently ranked top 5 globally)
   - 396 documented coral species in UNESCO Biosphere Reserve
   - Operation Wallacea long-term monitoring dataset
+dive_styles: [walls, shore]
 ---
 
 # Wakatobi
@@ -92,9 +93,8 @@ Drift dive with excellent coral coverage and reef fish schooling.
 
 ## Practical Info
 
-- **Access**: International flight to Bali (DPS). Wakatobi Dive Resort operates its own **charter flight** from Bali to Tomia (~2.5 hours, turboprop) — included in most packages, runs on specific days (typically Saturday turnovers). Alternative budget route: fly to Kendari (Southeast Sulawesi) via Jakarta/Makassar, then local flight or ferry to Wangi-Wangi, then boat to Tomia — significantly cheaper but 1–2 extra days each way.
-- **Operators**: **Wakatobi Dive Resort** dominates — most international divers visit through this single resort. Palm Bungalows to Villas, 3 boat dives/day + unlimited house reef, Nitrox often included. **Pelagian** liveaboard (36m luxury phinisi, ~10 guests, 5 cabins) operated by the resort covers sites inaccessible from shore plus Buton Island. **Patuno Resort** on Wangi-Wangi offers a more budget-friendly option with less developed dive infrastructure. A few smaller local operators exist on Wangi-Wangi but equipment standards vary.
-- **Costs**: Wakatobi Dive Resort 7-night package: **USD $3,000–5,500** per person depending on room type and season, including charter flight, full board, diving, and Nitrox. Pelagian liveaboard 7-night: **USD $5,000–7,500**. Budget option (independent travel + local operator on Wangi-Wangi): potentially $800–1,500/week but with significantly lower quality.
+- **Access**: International flight to Bali (DPS). Wakatobi Dive Resort operates its own **charter flight** from Bali to Tomia (~2.5 hours, turboprop) — included in most packages, runs on specific days (typically Saturday turnovers). Alternative route: fly to Kendari (Southeast Sulawesi) via Jakarta/Makassar, then local flight or ferry to Wangi-Wangi, then boat to Tomia — 1–2 extra days each way.
+- **Operators**: **Wakatobi Dive Resort** dominates — most international divers visit through this single resort. Palm Bungalows to Villas, 3 boat dives/day + unlimited house reef, Nitrox often included. **Pelagian** liveaboard (36m luxury phinisi, ~10 guests, 5 cabins) operated by the resort covers sites inaccessible from shore plus Buton Island. **Patuno Resort** on Wangi-Wangi is an alternative with less developed dive infrastructure. A few smaller local operators exist on Wangi-Wangi but equipment standards vary.
 - **Recompression chamber**: None in Wakatobi. Nearest in Makassar (~1.5–2 hours by air). DAN insurance strongly recommended.
 
 ## Conservation

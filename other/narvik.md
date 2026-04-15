@@ -20,6 +20,7 @@ highlights:
   - "10 German destroyers + HMS Hardy from April 1940 naval battles"
   - "Georg Thiele in 2-30m — most accessible wreck, no commercial operators needed"
   - "Pristine Arctic fjord scenery with midnight sun diving Jun-Jul"
+dive_styles: [wrecks]
 ---
 
 # Narvik, Norway (Ofotfjorden)

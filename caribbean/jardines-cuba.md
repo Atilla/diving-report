@@ -20,6 +20,7 @@ highlights:
   - Caribbean reef sharks near-guaranteed (6-15 per dive)
   - American crocodile snorkeling encounters
   - Pre-exploitation Caribbean fish biomass levels
+dive_styles: [walls, pelagic]
 ---
 
 # Jardines de la Reina
@@ -86,7 +87,6 @@ Structurally, classic Caribbean reef architecture — spur-and-groove, wall drop
 - **Access**: Fly to Havana, then domestic connection or ~8hr road transfer to Jucaro (Ciego de Avila province). From Jucaro marina, ~3 hours by boat to the archipelago.
 - **Sole operator**: **Avalon Diving Center** holds the exclusive concession. All trips book through Avalon or authorized agents.
 - **Accommodation**: Floating hotels (converted houseboats) moored in mangroves — not traditional liveaboards. La Tortuga and similar vessels. Basic but functional; diving by skiff from the mothership.
-- **Costs**: ~USD $3,500–5,000 per person for 7-night packages including Havana transfers, diving, meals, permits.
 - **US travelers**: Effectively blocked. OFAC restrictions have been further tightened under 2025–2026 sanctions. Legal pathways for recreational diving are essentially nonexistent.
 - **Non-US travelers**: European/Canadian citizens can technically travel, but Cuba's collapsing infrastructure (airline route cuts, fuel shortages, hotel closures) makes logistics unreliable. Verify Avalon's operational status before committing funds.
 - **Insurance**: Travel insurers increasingly excluding or restricting Cuba coverage. Verify explicitly before booking.
