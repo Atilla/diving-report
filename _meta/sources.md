@@ -15,6 +15,10 @@ This report synthesizes data from the following categories. Individual destinati
 - Environmental Biology of Fishes, Ecology Letters
 - PeerJ, MDPI, Springer
 
+### Specific Papers
+
+- **Paramuricea clavata mass mortality (Mediterranean gorgonians)**: *16SrDNA Pyrosequencing of the Mediterranean Gorgonian Paramuricea clavata* — documents mass mortality events in Mediterranean gorgonian populations driven by marine heatwaves and associated bacterial outbreaks. Source for Tavolara gorgonian decline data (healthy colonies now at 35–40m; largely absent above 30m). PLOS One, DOI: 10.1371/journal.pone.0102782
+
 ## Conservation Organisations
 
 - HEPCA — Red Sea monitoring reports (Egypt)
@@ -47,7 +51,7 @@ Added April 2026 cross-reference pass. Primary German diving community sources u
 
 ### Forums
 
-- **taucher.net** — Germany's largest diving forum (300k+ posts). Key threads: Red Sea bleaching (ioz94550, ioz94650, ioz95875, ioz95440, ioz95771), Maldives 2025 house reefs (ioz95572), global reef state (ioz95165). Extensive first-hand documentation of 2023–2024 Egyptian Red Sea bleaching events.
+- **taucher.net** — Germany's largest diving forum (300k+ posts). Key threads: Red Sea bleaching (ioz94550, ioz94650, ioz95875, ioz95440, ioz95771), Maldives 2025 house reefs (ioz95572), global reef state (ioz95165). Extensive first-hand documentation of 2023–2024 Egyptian Red Sea bleaching events. Tavolara: operator reviews for Aquarius dive center at Capo Coda Cavallo (tauchbasis-aquarius__capo_coda_cavallo-faz12781).
 - **scuba-people.com** — multilingual community, German section
 
 ### Magazines & Publications

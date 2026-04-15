@@ -2,7 +2,7 @@
 
 This wiki collects personal diving experiences, recommendations from fellow divers, buddies, divemasters, and instructors into one place to help plan diving holidays. The goal is a realistic, current picture of each destination — no marketing fluff, no surprises, no disappointments. That picture is shaped by the factors that matter right now: the ongoing effects of the 4th global mass coral bleaching event, shifting geopolitics, and changing access conditions. Costs aren't covered in detail; it's all expensive, and the current geopolitical situation makes pricing unpredictable anyway. You can browse it directly, but it's probably most useful as a structured resource to feed into an AI tool for trip planning.
 
-**66 destinations. Honest assessments. No sugar-coating.**
+**67 destinations. Honest assessments. No sugar-coating.**
 
 The 4th Global Mass Coral Bleaching Event (2023-2025) — the worst in recorded history — has affected 84.4% of the world's coral reef area. This report synthesizes scientific data, NOAA monitoring, and firsthand diver accounts to tell you what's actually worth booking.
 
@@ -106,6 +106,7 @@ The 4th Global Mass Coral Bleaching Event (2023-2025) — the worst in recorded 
 - [Sao Tome & Principe](other/sao-tome-principe.md) — Eastern Atlantic biogeography
 - [Azores](other/azores.md) — Blue sharks + mobula rays
 - [Malta & Gozo](other/malta-gozo.md) — Mediterranean wreck diving
+- [Sardinia — Tavolara](other/sardinia-tavolara.md) — Marine park, Papa pinnacles, Mediterranean fish density
 - [Scapa Flow](other/scapa-flow.md) — WWI dreadnoughts
 - [Narvik](other/narvik.md) — WWII Arctic destroyers
 - [Cape Verde](other/cape-verde.md) — Whale sharks + European access
