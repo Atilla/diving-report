@@ -29,7 +29,7 @@ highlights:
 - Thermal stress occurred in 2024 but coral thermal tolerance has been increasing at 0.1C/decade (published science).
 - **Warning sign:** Jellyfish Lake golden jellyfish collapsed from 5 million to fewer than 5,600 (see below — recovering as of 2026).
 - Blue Corner, Blue Hole, wall diving = defined by fish density and sharks, largely independent of coral cover. Remain world-class.
-- Hard coral diversity is high (~400 hard coral species, ~300 soft coral species, ~1,400 reef fish species). A 2024 ScubaBoard report noted some bleached table corals but called hard coral variety and abundance "world class." A 2025 report noted a juvenile humphead wrasse sighting as "maybe a sign of a rebound."
+- Hard coral diversity is high (~400 hard coral species, ~300 soft coral species, ~1,400 reef fish species). A 2024 report noted some bleached table corals but called hard coral variety and abundance "world class." A 2025 report noted a juvenile humphead wrasse sighting as "maybe a sign of a rebound."
 - **Overall: Palau's premier sites are current-swept walls and plateaus where pelagic action, not coral cover, defines the experience. It remains a top-tier destination.**
 
 ## Key Dive Sites
@@ -124,8 +124,8 @@ highlights:
 
 ## Trip Reports
 
-- **2024 ScubaBoard**: "Schools of barracuda, bigeye trevally are always there. Humphead wrasse and sharks are also very common." Noted some bleached table coral but overall hard coral variety "world class."
-- **2025 Palau Siren (April)**: "One big plus about Palau is the lack of overcrowding at the dive sites — most of the time, we had the sites to ourselves." Good shark action at Blue Corner and Blue Hole.
+- **2024:** "Schools of barracuda, bigeye trevally are always there. Humphead wrasse and sharks are also very common." Noted some bleached table coral but overall hard coral variety "world class."
+- **Apr 2025:** "One big plus about Palau is the lack of overcrowding at the dive sites — most of the time, we had the sites to ourselves." Good shark action at Blue Corner and Blue Hole.
 - **General consensus**: Palau's pelagic-driven sites remain fully intact. Coral shows some bleaching stress but the signature experience — sharks, walls, currents — is undiminished. Jellyfish Lake recovering. Uncrowded relative to comparable destinations.
 - **2017–2024 reports:** Nov 2024: vibrant coral gardens, soft coral-covered wrecks (Iro Maru), no bleaching; manta activity strongest Nov–Feb. Mass spawning aggregations documented at Peleliu: ~1.2 million Sailfin Snapper each March–April; monthly Humphead Parrotfish and Red Snapper spawning cycles at reef edges.
 

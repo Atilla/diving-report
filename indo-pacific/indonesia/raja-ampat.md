@@ -118,7 +118,7 @@ highlights:
 - **Pygmy seahorses**: Bargibant's and Denise's on gorgonian fans at multiple sites. Guides know specific fans; sightings reliable.
 - **Schooling fish**: Fusiliers, surgeonfish, jacks, barracuda, bumphead parrotfish in large aggregations. Cape Kri and Sardine Reef are standouts.
 - **Pelagics**: Giant trevally, dogtooth tuna, occasional eagle rays. Whale sharks rare but reported in Cenderawasih Bay (see [Triton Bay / Cenderawasih](triton-bay-cenderawasih.md) — near-guaranteed whale shark encounters year-round at bagan platforms).
-- **Population trends**: Fish biomass surveys by Conservation International and TNC show stable or increasing populations within the MPA since enforcement improved post-2012.
+- **Population trends**: Fish biomass surveys show stable or increasing populations within the MPA since enforcement improved post-2012.
 
 ## Dive Conditions
 
@@ -156,8 +156,8 @@ highlights:
 
 ## Trip Reports
 
-- Nov-Dec 2025 (WAD blog): 12-day trip, liveaboard + Arborek land-based. Oceanic manta at Chicken Reef, mobula rays at Cape Kri at slack tide, walking carpet shark at Arborek jetty night dive. Wobbegong sharks ubiquitous across all areas. "Raja Ampat is not the ultimate macro destination" but unmatched for fish diversity and reef structure.
-- **Multiple 2023–2026 reports:** Consistently pristine conditions and ongoing recovery. Feb 2025 (MSV Amira, Dampier Strait): dense hard coral coverage, "soft coral gardens among the most beautiful reefs in Indonesia," manta cleaning stations, large groupers. 2026 (Misool): exceptional soft coral, massive fish aggregations, Raja Walking Shark; no bleaching. Late-2024 bleaching event not catastrophic; recovery is underway.
+- Nov-Dec 2025: 12-day trip, liveaboard + Arborek land-based. Oceanic manta at Chicken Reef, mobula rays at Cape Kri at slack tide, walking carpet shark at Arborek jetty night dive. Wobbegong sharks ubiquitous across all areas. "Raja Ampat is not the ultimate macro destination" but unmatched for fish diversity and reef structure.
+- **Multiple 2023–2026 reports:** Consistently pristine conditions and ongoing recovery. Feb 2025 (Dampier Strait): dense hard coral coverage, "soft coral gardens among the most beautiful reefs in Indonesia," manta cleaning stations, large groupers. 2026 (Misool): exceptional soft coral, massive fish aggregations, Raja Walking Shark; no bleaching. Late-2024 bleaching event not catastrophic; recovery is underway.
 
 ## Related Destinations
 

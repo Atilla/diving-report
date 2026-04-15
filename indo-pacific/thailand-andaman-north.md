@@ -19,20 +19,20 @@ bleaching_resilience: moderate
 highlights:
   - Richelieu Rock — arguably Thailand's best dive; whale sharks Feb-Apr; macro capital (seahorses, ghost pipefish)
   - Koh Bon manta cleaning station — 60-70% encounter rate during peak Feb-Apr
-  - Leopard shark rewilding (StAR Project) launched May 2025
+  - Leopard shark rewilding programme launched May 2025 — first-ever in Thailand
 ---
 
 # Thailand — Andaman Sea North (Similans, Richelieu Rock, Surin, Burma Banks)
 
 ## Status
 
-- 2024: bleaching detected in all 19 Thai national marine parks. ~55% of Andaman Sea corals bleached; 60-70% of those recovered, 30-40% died. DMCR credits "Reduce, Refrain, Rescue" policy.
+- 2024: bleaching detected in all 19 Thai national marine parks. ~55% of Andaman Sea corals bleached; 60-70% of those recovered, 30-40% died. Government "Reduce, Refrain, Rescue" emergency policy was in effect.
 - 2024-25 season showed recovery; manta sightings at Similans increased dramatically.
 - **Important structural concern**: a major coast-to-coast survey (99 nearshore reefs + 16 offshore pinnacles, published Jan 2026) found Thai reefs undergoing "widespread homogenization" — branching Acropora declining, replaced by boulder-forming Porites. Reefs are recovering in cover but becoming simpler ecosystems.
 - Shallower hard coral gardens (<15m) hit hardest. Deeper pinnacles and sites with upwelling fared better.
 - **Richelieu Rock and Burma Banks** are pelagic-focused and remain excellent.
 - **New regulations (April 2025)**: 2-meter distance rule above coral, group size caps, camera certification requirements, ban on touching marine life/feeding fish. Similan visitor cap 3,325/day (reduced from previous 3,850).
-- **Leopard shark rewilding**: StAR Project launched May 2025 — first-ever in Thailand. Seven sharks released, wild population estimated at only 57-172 individuals. Shark Point remains the best site for encounters.
+- **Leopard shark rewilding**: First-ever programme in Thailand launched May 2025. Seven sharks released, wild population estimated at only 57-172 individuals. Shark Point remains the best site for encounters.
 
 ## Key Dive Sites
 
@@ -102,7 +102,7 @@ Fringing reefs and granite boulders. Torinla Rock (12-30m): current-swept pinnac
 
 #### Koh Tachai Pinnacle
 
-10–30m. Pyramid-shaped rocks covered in large colourful gorgonians. Schools of batfish, barracuda, and emperor fish — WAD (Jan 2024) described this as leaving "the biggest impression." Good night diving with nudibranchs. Note: Koh Tachai island closed to land visitors since 2016 due to over-tourism, but underwater sites remain diveable.
+10–30m. Pyramid-shaped rocks covered in large colourful gorgonians. Schools of batfish, barracuda, and emperor fish — consistently among the strongest impressions of the Similan circuit. Good night diving with nudibranchs. Note: Koh Tachai island closed to land visitors since 2016 due to over-tourism, but underwater sites remain diveable.
 
 ### Burma Banks
 

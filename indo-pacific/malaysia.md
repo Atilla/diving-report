@@ -26,14 +26,14 @@ highlights:
 
 ## Status
 
-- Malaysia lies within the Coral Triangle. Reef Check Malaysia's 2025 national survey (297 sites) found average live coral cover at **39.9%**, down from 44.7% in 2024 and ~50% in 2022 — a **20% loss in three years**, equivalent to 47,250 football fields. The 4th Global Coral Bleaching Event (2024) hit nearly 90% of surveyed areas; 50.7% of corals bleached and 34.1% suffered mortality nationally.
+- Malaysia lies within the Coral Triangle. A 2025 national reef survey (297 sites) found average live coral cover at **39.9%**, down from 44.7% in 2024 and ~50% in 2022 — a **20% loss in three years**, equivalent to 47,250 football fields. The 4th Global Coral Bleaching Event (2024) hit nearly 90% of surveyed areas; 50.7% of corals bleached and 34.1% suffered mortality nationally.
 - Compounding pressures: 82.5% of surveyed sites affected by trash, 80% by discarded fishing gear/nets, 57.5% by anchor damage. Dynamite fishing legacy persists — 64% of Sabah sites show blast damage evidence, though the practice is now rare.
 
 ## Key Dive Sites
 
 ### Sipadan Island — The Flagship
 
-Universally ranked among the world's top 5-10 dive sites. Jacques Cousteau called it "an untouched piece of art." Ranked alongside Galapagos and Chuuk by Scuba Diving Magazine.
+Universally ranked among the world's top 5-10 dive sites. Jacques Cousteau called it "an untouched piece of art." Consistently ranked alongside Galapagos and Chuuk Lagoon among the world's best.
 
 A 600m-high oceanic pinnacle rising from the Celebes Sea floor. The vertical wall drops from 5m to 600m+ — one of the most dramatic drop-offs in diving.
 
@@ -127,7 +127,7 @@ These are pleasant, affordable dive destinations but not in the same league as S
 - **Costs:** Sipadan permit packages (3-night stay + Sipadan dives) from ~$500-1,200 depending on resort tier. Celebes Explorer liveaboard ~$1,500-3,000 for 3-7 nights. Peninsular island diving significantly cheaper (~$30-60/dive).
 - **Recompression chamber:** Semporna (ESSCOM medical facility). KK has hospital chamber.
 - **Experience level:** Sipadan requires Advanced OW. Strong currents at signature sites reward experience. Mabul accessible to all levels. Peninsular islands suitable for beginners.
-- **Security:** Eastern Sabah was historically affected by kidnapping-for-ransom incidents from militant groups based in the southern Philippines. **No incidents since January 2020** (per Malaysian Home Ministry). ESSCOM — a dedicated joint military/police/coast guard security force — has patrolled the east coast since 2013. **US advisory** (2025): lowered to Level 1 (Exercise Normal Precautions) for eastern Sabah mainland; islands and maritime areas remain Level 2 (Exercise Increased Caution). Australia lowered its advisory for eastern Sabah mainland from Level 3 to Level 2 in August 2025. Dive resorts maintain armed security. Risk is low but not zero — book licensed operators only, avoid unlicensed night sea crossings.
+- **Security:** Eastern Sabah was historically affected by kidnapping-for-ransom incidents from militant groups based in the southern Philippines. **No incidents since January 2020.** ESSCOM — a dedicated joint military/police/coast guard security force — has patrolled the east coast since 2013. **US advisory** (2025): lowered to Level 1 (Exercise Normal Precautions) for eastern Sabah mainland; islands and maritime areas remain Level 2 (Exercise Increased Caution). Australia lowered its advisory for eastern Sabah mainland from Level 3 to Level 2 in August 2025. Dive resorts maintain armed security. Risk is low but not zero — book licensed operators only, avoid unlicensed night sea crossings.
 
 ## Related Destinations
 

@@ -135,7 +135,7 @@ Seamounts north of Kimbe with strong currents and big-fish action. Often include
 
 ## Trip Reports
 
-- **Feb 2024 (Walindi / Kimbe Bay):** "Dramatic underwater formations", "huge expanses of hard corals whose diversity overwhelms the senses." French expedition cited 1,300 fish species, 4,500 mollusk species, 400+ coral species. Indigenous tribal stewardship credited with limiting destructive fishing. Good recovery from 2016/17 bleaching.
+- **Feb 2024 (Walindi / Kimbe Bay):** "Dramatic underwater formations", "huge expanses of hard corals whose diversity overwhelms the senses." 1,300 fish species, 4,500 mollusk species, 400+ coral species documented in the region. Indigenous tribal stewardship has limited destructive fishing. Good recovery from 2016/17 bleaching.
 
 ## Related Destinations
 

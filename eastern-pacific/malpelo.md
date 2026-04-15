@@ -66,7 +66,7 @@ Cold-water site with strong thermoclines. Hammerhead aggregations.
 - **Visibility:** highly variable. 5–15m in cold season (Dec–Mar) — green/red water common. Improves in warm season (May–Nov), can reach 20–30m+.
 - **Temperature:** surface 23–28C depending on season. Thermoclines can plunge to 13–14C at depth in cold season (Dec–Mar). 5mm+ wetsuit; 7mm recommended for cold season deep dives.
 - **Currents:** strong, unpredictable, permanently changing. Conditions shift rapidly. Challenging even for experienced divers.
-- **Sea state:** rough crossings common. January 2024 ScubaBoard report described worst sea conditions in 5–6 years. Seasickness prevention essential.
+- **Sea state:** rough crossings common. January 2024: worst sea conditions in 5–6 years reported. Seasickness prevention essential.
 
 ## Season
 
@@ -92,9 +92,9 @@ Cold-water site with strong thermoclines. Hammerhead aggregations.
 
 ## Trip Reports (2024-2025)
 
-- **Jan 2024 (ScubaBoard):** hot surface water (28C), thermocline at 25m, visibility 5–15m at best. Worst sea conditions in 5–6 years. Despite conditions, hammerhead and Galapagos shark encounters described as extraordinary.
-- **Feb 2025 (ScubaBoard):** video report documenting schooling hammerheads. Cold season with thermocline at ~10m bringing hammerheads shallow.
-- **Jul 2025 (ScubaBoard):** mantas, Galapagos sharks, hammerheads, whitetips, whale shark, eagle rays, massive pelican barracuda schools. Warm season conditions.
+- **Jan 2024:** hot surface water (28C), thermocline at 25m, visibility 5–15m at best. Worst sea conditions in 5–6 years. Despite conditions, hammerhead and Galapagos shark encounters described as extraordinary.
+- **Feb 2025:** schooling hammerheads documented on video. Cold season with thermocline at ~10m bringing hammerheads shallow.
+- **Jul 2025:** mantas, Galapagos sharks, hammerheads, whitetips, whale shark, eagle rays, massive pelican barracuda schools. Warm season conditions.
 
 ## Related Destinations
 

@@ -80,7 +80,7 @@ Guides are the key differentiator across all sites — they know exactly which r
 
 ## Trip Reports
 
-- Jun 2025 (WAD blog): 2-day visit. Flamboyant cuttlefish found within 20 minutes on first night dive at Jahir. "Lembeh's muck wasn't as murky or dirty as I was told."
+- Jun 2025: Flamboyant cuttlefish found within 20 minutes on first night dive at Jahir. "Lembeh's muck wasn't as murky or dirty as I was told."
 
 ## Related Destinations
 

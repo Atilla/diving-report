@@ -26,7 +26,7 @@ highlights:
 
 ## Status
 
-- A September 2022 TRSC research mission to the Gulf of Tadjoura found **no signs of bleaching** despite 31C water temps — contrasting sharply with catastrophe elsewhere. A follow-up November 2023 mission to the Seven Brothers confirmed overall good reef health, though detailed results from that specific mission have not been publicly released.
+- A September 2022 research mission to the Gulf of Tadjoura found **no signs of bleaching** despite 31C water temps — contrasting sharply with catastrophe elsewhere. A follow-up November 2023 mission to the Seven Brothers confirmed overall good reef health, though detailed results have not been publicly released.
 - Low tourism pressure, strong tidal currents, 200+ coral species. Seven Brothers designated UNESCO Biosphere Reserve in 2025.
 - Limited monitoring for 2024. Logistically challenging but potentially the most intact reef system in the broader Red Sea region.
 
@@ -62,7 +62,7 @@ Djibouti's signature marine experience. **November to February**, juvenile whale
 - Reef sharks (whitetip, blacktip) present at the Seven Brothers, though no reports of large aggregations. **No reliable manta ray sightings** documented — this is not manta territory.
 - Bottlenose and spinner dolphins common in the Gulf of Tadjoura. Green and hawksbill turtles at multiple sites.
 - Reef fish diversity benefits from the Red Sea / Indian Ocean overlap — species from both provinces present. Expect butterflyfish, angelfish, groupers, moray eels, and schooling fusiliers. Large pelagics (tuna, jacks) at current-swept Seven Brothers sites.
-- **Honestly**: marine life data is thin. No systematic fish counts or biodiversity surveys have been widely published. The 200+ coral species figure comes from limited surveys, and actual diversity may be higher.
+- **Honestly**: marine life data is thin. No systematic fish counts or biodiversity surveys have been widely published. Over 200 coral species documented; surveys have been limited and actual diversity may be higher.
 
 ## Dive Conditions
 
@@ -93,7 +93,7 @@ Djibouti's signature marine experience. **November to February**, juvenile whale
 - **Seven Brothers UNESCO Biosphere Reserve (2025)**: a significant designation that may attract future monitoring and funding. However, on-the-ground enforcement and management infrastructure remain minimal.
 - Marine protected area framework exists on paper but enforcement is limited. Artisanal fishing occurs around all islands. No reported dynamite fishing or cyanide use.
 - The biggest conservation asset is simply **the absence of pressure** — minimal tourism, minimal industrial fishing, minimal coastal development. This passive protection has kept reefs intact where active management is absent.
-- **Monitoring gap**: no ongoing systematic coral monitoring program. The 2023 research mission was a rare data point. Whether reefs survived 2024 elevated SSTs is unknown — this is a genuine knowledge gap.
+- **Monitoring gap**: no ongoing systematic coral monitoring program. The 2023 research mission was a rare data point. Whether reefs survived 2024 elevated SSTs is unknown.
 - **For the right diver**: Djibouti offers potentially the most intact reefs in the greater Red Sea basin, reliable whale shark encounters, and a true frontier feel. But it demands high self-sufficiency, tolerance for logistical friction, advanced diving skills (for Seven Brothers), and acceptance of limited safety infrastructure.
 
 ## Related Destinations

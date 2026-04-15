@@ -28,8 +28,8 @@ highlights:
 
 **MIXED — coastal reefs poor; atolls fair to good**
 
-- 2023 was the worst bleaching Belize has experienced. 2024 Mesoamerican Reef Report Card: overall "poor" (2.5/5), ~15-17% coral cover. But this average hides real variation: **four of six reef complexes scored "fair" (2.8-3.3)**, only two scored "poor." Reef Health Index improved for the first time in five years.
-- 2024 described as "the worst bleaching event since recording began around 2008" by restoration experts.
+- 2023 was the worst bleaching Belize has experienced. 2024 monitoring: overall "poor" (2.5/5), ~15-17% coral cover. But this average hides real variation: **four of six reef complexes scored "fair" (2.8-3.3)**, only two scored "poor." Reef Health Index improved for the first time in five years.
+- 2024 described as "the worst bleaching event since recording began around 2008."
 
 ## Key Dive Sites
 
@@ -37,15 +37,15 @@ highlights:
 
 Described as **"one of the best developed and healthiest reefs in the Caribbean."** Eastern reef crest dominated by staghorn, elkhorn, and giant brain coral — "one of the most extensive stretches of healthy and abundant coral in Belize."
 
-- ScubaBoard April 2025 (liveaboard): *"Reefs were in very good condition, colorful, interesting formations."* Half Moon Caye rated "great" across 3 dives, The Aquarium called "spectacular." Reef sharks on almost every dive, eagle rays, turtles, large groupers.
-- ScubaBoard Feb-March 2024: *"Stunning sponges and coral from 20-80 feet"* — less bleaching than seen in Cozumel.
+- April 2025 (liveaboard): *"Reefs were in very good condition, colorful, interesting formations."* Half Moon Caye rated "great" across 3 dives, The Aquarium called "spectacular." Reef sharks on almost every dive, eagle rays, turtles, large groupers.
+- Feb-March 2024: *"Stunning sponges and coral from 20-80 feet"* — less bleaching than seen in Cozumel.
 - Wall dives (Half Moon Caye Wall, Painted Wall, Long Caye Wall, Angelfish Wall) consistently highlighted as impressive.
 - **The strongest reef diving in Belize right now.**
 
 ### Turneffe Atoll — mixed but resilient
 
 - Overall coral cover poor (~17%), but wall diving and sponge gardens remain excellent.
-- Nature Conservancy / Woods Hole / Stanford "Super Reefs" program found **Turneffe's shallow offshore reefs house some of the highest proportions of thermally resistant corals** in Belize.
+- The Super Reefs program found **Turneffe's shallow offshore reefs house some of the highest proportions of thermally resistant corals** in Belize.
 - Eagle rays, turtles, endemic white-spotted toadfish.
 
 ### Glover's Reef Atoll — biodiversity powerhouse

@@ -28,13 +28,13 @@ highlights:
 
 **MEGAFAUNA IN ALARMING DECLINE; coral mixed; best reefs inaccessible**
 
-- WIO region severely affected in 2024: 73% of field observations showed moderate-severe bleaching. Bazaruto Archipelago specifically flagged in both 2024 and 2025 CORDIO bleaching alerts.
+- WIO region severely affected in 2024: 73% of field observations showed moderate-severe bleaching. Bazaruto Archipelago specifically flagged in 2024–2025 bleaching assessments.
 - Cyclone Freddy (Feb 2023, Cat 5 equivalent) hit near Vilankulos/Bazaruto — "significant damage to coral reefs, mangroves, and seagrass." Cyclone Chido (Dec 2024, Cat 4) devastated the Quirimbas/Cabo Delgado region. One-two punch of cyclones + bleaching.
 
 ### The megafauna crisis — the most important update
 
-- **Manta rays at Tofo: 88-99% decline in sightings** over two decades (Marine Megafauna Foundation, published 2024-2025). Zavora: 82% decline over 15 years. Shift from year-round presence to brief seasonal aggregations at a single cleaning station.
-- **Whale sharks: 87% decline in sightings, 89% decline in abundance** over 15 years (contributed to IUCN Red List update).
+- **Manta rays at Tofo: 88-99% decline in sightings** over two decades. Zavora: 82% decline over 15 years. Shift from year-round presence to brief seasonal aggregations at a single cleaning station.
+- **Whale sharks: 87% decline in sightings, 89% decline in abundance** over 15 years.
 - **Primary cause:** gill net fishing. Nets were distributed by fisheries officials post-1992 civil war. Mantas are extremely vulnerable to entanglement. Legal protection achieved in Jan 2021 but enforcement remains weak.
 - **Bottom line:** manta/whale shark encounters at Tofo are now "more of a lucky chance encounter" — not the near-guaranteed experience operators market.
 
@@ -50,7 +50,7 @@ The most important coral area in central Mozambique. African Parks management si
 
 #### Quirimbas Archipelago (north)
 
-Highest recorded coral diversity outside the Coral Triangle (180+ coral species, 400+ reef fish). Vamizi Island showed increasing hard coral cover and reduced algae (peer-reviewed 2024). **But effectively off-limits** — Cabo Delgado insurgency (ISIS-affiliated, active since 2017) plus Cyclone Chido devastation. US State Dept Level 4: Do Not Travel.
+Highest recorded coral diversity outside the Coral Triangle (180+ coral species, 400+ reef fish). Vamizi Island showed increasing hard coral cover and reduced algae in 2024. **But effectively off-limits** — Cabo Delgado insurgency (ISIS-affiliated, active since 2017) plus Cyclone Chido devastation. US State Dept Level 4: Do Not Travel.
 
 #### Ponta do Ouro (far south)
 

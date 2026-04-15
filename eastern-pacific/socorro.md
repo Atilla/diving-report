@@ -101,7 +101,7 @@ Jan–Mar considered overall peak for diversity of encounters despite cooler wat
 
 ## Trip Reports
 
-- **Apr 2023 (Nautilus Explorer):** Abundant sharks; operational. No reef condition data — pelagic-focused trip.
+- **Apr 2023:** Abundant sharks; operational. No reef condition data — pelagic-focused trip.
 
 ## Related Destinations
 

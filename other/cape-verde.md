@@ -27,7 +27,7 @@ highlights:
 ## Status
 
 - A volcanic archipelago 570 km off West Africa's coast. Emerging as a European dive destination combining Atlantic marine life, volcanic underwater topography (caves, arches, tunnels, walls), and seasonal whale sharks.
-- **Whale sharks**: Seasonal July–October, concentrated around Sal and Boa Vista islands. Cape Verde may host one of the world's largest whale shark concentrations — the Cabo Verde Whale Shark Foundation has documented hundreds of individuals, predominantly juvenile males. Snorkel/freedive encounters.
+- **Whale sharks**: Seasonal July–October, concentrated around Sal and Boa Vista islands. Cape Verde may host one of the world's largest whale shark concentrations — hundreds of individuals documented, predominantly juvenile males. Snorkel/freedive encounters.
 - **Humpback whales**: March–May, on the breeding grounds.
 - Not traditional coral reefs — volcanic rock with sponges, gorgonians, and scattered coral growth. Visibility typically 15–30m.
 - **Operators**: Manta Diving Center (Sal), Scuba Caribe, Dive Point. Several on Sal (the most developed dive island).

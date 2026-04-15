@@ -148,14 +148,14 @@ Day-trip based from Pacific Harbour.
 ## Conservation
 
 - **Namena Marine Reserve**: One of Fiji's most successful MPAs. No-take zone around Namenalala Island. Fish biomass and coral cover significantly higher inside the reserve than on adjacent unprotected reefs — a textbook MPA success story.
-- **FLMMA network (Fiji Locally Managed Marine Area)**: One of the most successful community-based marine management systems in the Pacific. Over 250 communities manage approximately 30% of Fiji's inshore fishing grounds through traditional tabu (no-take) areas. Widely cited as a model for community-driven conservation in developing nations.
-- **Shark Reef Marine Reserve (Beqa)**: Community-managed, funded by shark dive fees. Formerly a heavily fished area; fish and shark populations recovered significantly after fishing ceased. Published research documents increased shark abundance within the reserve.
+- **FLMMA network (Fiji Locally Managed Marine Area)**: One of the most successful community-based marine management systems in the Pacific. Over 250 communities manage approximately 30% of Fiji's inshore fishing grounds through traditional tabu (no-take) areas. An established model for community-driven conservation in developing nations.
+- **Shark Reef Marine Reserve (Beqa)**: Community-managed, funded by shark dive fees. Formerly a heavily fished area; fish and shark populations recovered significantly after fishing ceased. Shark abundance has increased significantly within the reserve.
 - **Coral restoration**: Smaller-scale efforts compared to Caribbean programs. University of the South Pacific (Suva) conducts reef monitoring. Some resort-based coral gardening projects in the Mamanucas, though effectiveness at scale is debated.
 - **Threats**: Coastal development, agricultural runoff (sugar cane), crown-of-thorns starfish outbreaks, and cyclone damage remain ongoing pressures. Cyclone Winston (2016, Category 5) devastated many reefs; recovery was underway before the 2023-2024 bleaching events.
 
 ## Trip Reports
 
-- NAI'A trip reports from 2024-2025 describe Bligh Water soft coral sites as "spectacular" with "walls of color" at E-6 and Mount Mutiny. Nigali Passage shark numbers reported as strong. Rainbow Reef / Great White Wall described as "living up to its reputation."
+- 2024-2025: Bligh Water soft coral sites described as "spectacular" with "walls of color" at E-6 and Mount Mutiny. Nigali Passage shark numbers reported as strong. Rainbow Reef / Great White Wall described as "living up to its reputation."
 - Kadavu trips in mid-2025 reported excellent hard coral cover on outer passes and manta encounters on multiple dives.
 - Mamanuca and Yasawa resort-based divers reported noticeably reduced hard coral cover with algae overgrowth on shallow reefs following the 2023-2024 bleaching. Some recovery of fast-growing Acropora observed by late 2025.
 - Beqa shark dives continue to deliver large bull shark numbers. Operators report consistent encounters of 30-50+ bulls per feed session.

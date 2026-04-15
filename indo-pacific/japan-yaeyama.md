@@ -28,7 +28,7 @@ highlights:
 
 **MIXED — excellent marine life encounters offset by crown-of-thorns coral pressure.** The Yaeyama Islands offer Japan's best scuba diving, with a vast playground of sites spanning Ishigaki, Taketomi, Kuroshima, Iriomote, and Yonaguni. Marine life encounters — mantas, turtles, hammerheads, giant cuttlefish, macro critters — are reliably excellent.
 
-Coral condition is the weak point. A massive crown-of-thorns starfish invasion has significantly impacted reefs around Ishigaki, compounding damage from agricultural chemical run-off. Some pockets remain healthy — Sakieba Bay on Ishigaki's west coast was observed with colourful, thriving corals in early 2025 — but many reefs have suffered. The WWF coral village in Shiraho Village documents ongoing conservation efforts. Sandy-bottom and muck sites (Taketomi) sidestep the coral issue entirely.
+Coral condition is the weak point. A massive crown-of-thorns starfish invasion has significantly impacted reefs around Ishigaki, compounding damage from agricultural chemical run-off. Some pockets remain healthy — Sakieba Bay on Ishigaki's west coast was observed with colourful, thriving corals in early 2025 — but many reefs have suffered. Conservation efforts to reduce agricultural run-off are ongoing at Shiraho Village. Sandy-bottom and muck sites (Taketomi) sidestep the coral issue entirely.
 
 ## Key Dive Sites
 
@@ -94,7 +94,7 @@ A mysterious underwater megalithic structure — stepped terraces and geometric 
 
 ## Season
 
-**October-November (best):** Locals unanimously agree that autumn is the optimal season. Air 26-28C, water 26-28C. Fewer crowds, lower prices, reduced typhoon risk compared to summer.
+**October-November (best):** Autumn is the optimal season. Air 26-28C, water 26-28C. Fewer crowds, lower prices, reduced typhoon risk compared to summer.
 
 **December-April (winter):** Air 23-25C, water around 24C. Overcast weather common — sunshine requires luck. Manta sites shift south (Kuroshima, Panari). This is the window for Yonaguni hammerheads (mid-Jan to mid-Mar) and giant cuttlefish spawning (early Mar). Beaches closed in winter.
 
@@ -111,13 +111,13 @@ A mysterious underwater megalithic structure — stepped terraces and geometric 
 
 ## Conservation
 
-Crown-of-thorns starfish invasion is the primary threat to Yaeyama reefs, compounded by agricultural chemical run-off from Ishigaki's farmland. The **WWF coral village in Shiraho Village** documents conservation efforts, working with local farmers to reduce chemical run-off damaging reefs. Shiraho reef has historically been recognized for its blue coral colonies.
+Crown-of-thorns starfish invasion is the primary threat to Yaeyama reefs, compounded by agricultural chemical run-off from Ishigaki's farmland. A conservation programme at Shiraho Village works with local farmers to reduce chemical run-off damaging reefs. Shiraho reef has historically been recognized for its blue coral colonies.
 
 No formal MPA equivalent to Indonesian or Palauan systems, though Japan's environmental regulations provide some baseline protection. The Yaeyama Islands fall within the Iriomote-Ishigaki National Park boundary.
 
 ## Trip Reports
 
-- **Feb-Mar 2025 (WAD blog)**: Month-long stay covering Ishigaki, Taketomi, Kuroshima, Yonaguni. Manta encounters required effort — not seen at Kuroshima, required long boat ride to south Iriomote; also missed at Kabira Bay on one attempt. Turtles reliable at Kuroshima. Macro excellent at Taketomi (Potato Reef standout for nudibranchs). Giant cuttlefish spawning observed at Osezaki Bay in early March. Coral damage noted across many sites, but Sakieba Bay had healthy, thriving corals. Nakamoto Cave a highlight. Dived with Prime Scuba (recommended) and Pushynushima. Combined with Yonaguni for hammerhead season.
+- **Feb-Mar 2025**: Month-long stay covering Ishigaki, Taketomi, Kuroshima, Yonaguni. Manta encounters required effort — not seen at Kuroshima, required long boat ride to south Iriomote; also missed at Kabira Bay on one attempt. Turtles reliable at Kuroshima. Macro excellent at Taketomi (Potato Reef standout for nudibranchs). Giant cuttlefish spawning observed at Osezaki Bay in early March. Coral damage noted across many sites, but Sakieba Bay had healthy, thriving corals. Nakamoto Cave a highlight. Dived with Prime Scuba (recommended) and Pushynushima. Combined with Yonaguni for hammerhead season.
 
 ## Related Destinations
 

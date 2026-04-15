@@ -37,8 +37,8 @@ highlights:
 
 **Reef condition (for the record):**
 
-- Decline predates 2023 bleaching: 2019 surveys showed 24-41% algal cover. 17-year reef crest studies show macroalgae expanding to 77-87% at some sites by 2021.
-- Summer 2023 bleaching was catastrophic: 34C at 27m depth. ScubaBoard Jan 2024: healthy coral cover estimated **under 5%**, "only color came from sponges."
+- Decline predates 2023 bleaching: 2019 surveys showed 24-41% algal cover. 17-year reef crest monitoring shows macroalgae expanding to 77-87% at some sites by 2021.
+- Summer 2023 bleaching was catastrophic: 34C at 27m depth. By Jan 2024, healthy coral cover estimated **under 5%**, "only color came from sponges."
 - A repeat visitor (4 trips, 3 pre-COVID): *"very disappointing."* Feb 2025 reviewer: *"calling these the Caribbean's most pristine reefs today is misleading."*
 - Enforcement severely strained: ~300+ illegal fishing boats daily (confirmed by Global Conservation), few government patrol boats, no radar. Avalon operates a dedicated protection vessel patrolling ~4,000 miles/year, 300+ days/year — but this single private effort cannot substitute for systematic state enforcement.
 - COVID/economic crisis gutted funding: Cuba tourism down 48% vs 2019, ~200% hyperinflation. Coral recruitment failing — "baby corals are not coming back."

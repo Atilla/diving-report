@@ -17,7 +17,7 @@ experience_level: Intermediate to advanced
 last_verified: 2026-04
 bleaching_resilience: high
 highlights:
-  - World record 253 fish species per dive site (Conservation International)
+  - World record 253 fish species per dive site
   - Blue whale and sperm whale migration Oct-Nov
   - Genuine frontier experience at fraction of comparable destination costs
 ---
@@ -29,7 +29,7 @@ highlights:
 **FRONTIER — world-record fish biodiversity; emerging destination with basic infrastructure**
 
 - Timor-Leste (independent since 2002) is one of Southeast Asia's newest and least-developed nations. Its north coast faces the deep Ombai Strait (3,000m+), creating conditions for nutrient upwelling and steep reef drop-offs very close to shore.
-- **Atauro Island** (~25 km north of the capital Dili) holds the **world record for reef fish biodiversity** — a Conservation International survey recorded an average of **253 fish species per dive site** (642 total), the highest density ever documented. The reefs plunge steeply into very deep water, creating dramatic walls and attracting pelagics.
+- **Atauro Island** (~25 km north of the capital Dili) holds the **world record for reef fish biodiversity** — an average of **253 fish species per dive site** (642 total), the highest density ever documented. The reefs plunge steeply into very deep water, creating dramatic walls and attracting pelagics.
 - Blue whale and sperm whale migration along the north coast (Oct–Nov). Dugongs reported. Pygmy seahorses, frogfish on walls.
 - Reef condition generally excellent to pristine — low population pressure, minimal industrial fishing, deep oceanic water influence.
 

@@ -30,7 +30,7 @@ highlights:
 
 - Record 12.8 Degree Heating Weeks (DHW) in 2023. Back-to-back bleaching in 2023 and 2024 (2024 described as "worst bleaching event to date" for the Mesoamerican Reef, ~40% of corals severely affected).
 - Stony Coral Tissue Loss Disease (SCTLD) present at ~95% of monitored sites since arrival in Sept 2020. Spread averaged 155 m/day around the islands. 28 stony coral species affected — brain corals, maze corals, and pillar coral (virtually all dead) hit hardest. Roatan Marine Park has tagged and treated 1,373 corals with amoxicillin paste (50-65% efficacy), but treatment is not scalable to the full reef system.
-- **Cordelia Banks** — once the last major healthy staghorn coral patch in the Mesoamerican region (historically 70%+ total live coral cover per AGRRA/Reef Builders surveys) — severely degraded by early 2024. Now a protected research/restoration site. No recovery documented yet, but staghorn fragments show "remarkable resilience and vitality" for use in restoration. *[Note: specific pre/post cover percentages for staghorn alone could not be independently verified; the direction of severe decline is well-documented.]*
+- **Cordelia Banks** — once the last major healthy staghorn coral patch in the Mesoamerican region (historically 70%+ total live coral cover) — severely degraded by early 2024. Now a protected research/restoration site. No recovery documented yet, but staghorn fragments show "remarkable resilience and vitality" for use in restoration.
 
 ### The critical shallow-vs-deep distinction
 
@@ -42,15 +42,15 @@ highlights:
 
 ### Trip Reports (2024-2026)
 
-- June 2025 (ScubaBoard): "superlative" conditions, 80+ ft visibility, "minimal bleaching."
-- Sept 2024 (dive safari): "abundant hard and soft coral coverage, bright colorful sponges," 60-90 ft visibility. Eagle rays, turtles, dolphins, black coral formations.
+- June 2025: "superlative" conditions, 80+ ft visibility, "minimal bleaching."
+- Sept 2024: "abundant hard and soft coral coverage, bright colorful sponges," 60-90 ft visibility. Eagle rays, turtles, dolphins, black coral formations.
 - Dec 2024: "less bleaching than 2023." Turtles on most dives, eagle rays, abundant Creole wrasse.
 - Experienced divers who remember pre-2020 Roatan note clear decline; newer divers often still find it impressive.
 
 ## Marine Life
 
-- **Fish**: commercial fish biomass up 40%, herbivorous fish up 30% (2024 Healthy Reefs report). First improvement in 5 years.
-- **Sharks**: record 158 sightings across the Bay Islands in 2024 (Roatan 47.5%, Utila 44.9% of reports — citizen science via ILILI Honduras). Hammerheads increasingly frequent (16.4% of sightings). Honduras is a 92,000 sq mi shark sanctuary since 2011.
+- **Fish**: commercial fish biomass up 40%, herbivorous fish up 30% in 2024. First improvement in 5 years.
+- **Sharks**: record 158 sightings across the Bay Islands in 2024 (Roatan 47.5%, Utila 44.9% of reports). Hammerheads increasingly frequent (16.4% of sightings). Honduras is a 92,000 sq mi shark sanctuary since 2011.
 - **Whale sharks**: appeared near Roatan late Dec 2024 for first time in years. Utila more reliable (Dec–Mar aggregation).
 - **Turtles**: hawksbill and green on virtually every dive. Consistent across all reports.
 - **Macro**: seahorses (increasing due to protection), octopus, nudibranchs — CoCo View area excellent.
@@ -59,10 +59,10 @@ highlights:
 
 - **Coral Restoration Center Roatan (CRCR)**: opened June 2025 — first land-based coral rearing facility in Central America. Partnership with California Academy of Sciences. First spawning success June 22, 2025: 3,000 healthy young corals from a single grooved brain coral event.
 - 45 coral nursery trees installed in 2024, 687 fragments outplanted since 2023, 36 new genotypes introduced.
-- **"Flonduran" coral research**: University of Miami crossbred heat-tolerant Honduran elkhorn corals with Florida corals — planted on Miami reefs 2025 to test heat resistance.
+- **"Flonduran" coral research**: Researchers crossbred heat-tolerant Honduran elkhorn corals with Florida corals — planted on Miami reefs 2025 to test heat resistance.
 - **Water quality**: West End — 97% of homes/businesses connected to wastewater treatment, 29 million gallons of sewage prevented from reaching reefs annually. Coxen Hole expanding.
 - **New protections**: Bay Islands National Marine Park Management Plan approved end of 2024. March 2025 fishing ban on herbivorous fish and key grouper species during spawning season. Pursuing permanent ban on non-reef-safe sunscreens.
-- **Cayos Cochinos**: described as "the healthiest and most pristine marine life in the Bay Islands" (National Geographic). Protected reserve with strict diver limits. Seamounts essentially unspoiled.
+- **Cayos Cochinos**: described as "the healthiest and most pristine marine life in the Bay Islands." Protected reserve with strict diver limits. Seamounts essentially unspoiled.
 
 ## Dive Conditions
 

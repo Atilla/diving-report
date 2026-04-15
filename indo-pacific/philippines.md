@@ -27,7 +27,7 @@ highlights:
 ## Status
 
 - Tubbataha: moderate bleaching in shallow areas (May 2024), but not spatially extensive overall. UNESCO outlook: "good with some concerns." Remote location = fast recovery.
-- **Eastern Visayas "super reefs"** (Panaon Island): corals survived ALL recent bleaching events. Scientifically documented climate refugia (50 Reefs Study; Oceana expedition found 60% cover, 3x national average). Panaon Island Protected Seascape (61,204 hectares) signed into law August 29, 2025.
+- **Eastern Visayas "super reefs"** (Panaon Island): corals survived ALL recent bleaching events. Scientifically documented climate refugia — 60% cover, 3x the national average. Panaon Island Protected Seascape (61,204 hectares) signed into law August 29, 2025.
 - Bohol Sea, Palawan, Visayan Sea identified as potential climate refugia.
 - **Tubbataha remains one of the world's best dive destinations.** Liveaboard-access only; season: mid-March to mid-June.
 - The Philippines sits at the apex of the Coral Triangle — over 500 coral species and 2,500+ reef fish species recorded.
@@ -99,7 +99,7 @@ Massive resident sardine school (Sardinella) at Panagsama reef, present year-rou
 
 #### Dumaguete / Dauin
 
-World-class muck diving on black volcanic sand — blue-ringed octopus, mimic octopus, frogfish (multiple species), flamboyant cuttlefish, wonderpus, extraordinary nudibranch diversity, pygmy seahorses. Apo Island (20 min from Dauin) is a globally cited community MPA success — excellent hard coral, turtle cleaning stations, schools of jacks.
+World-class muck diving on black volcanic sand — blue-ringed octopus, mimic octopus, frogfish (multiple species), flamboyant cuttlefish, wonderpus, extraordinary nudibranch diversity, pygmy seahorses. Apo Island (20 min from Dauin) is a well-documented community MPA success — excellent hard coral, turtle cleaning stations, schools of jacks.
 
 #### Oslob Whale Sharks
 

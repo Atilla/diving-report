@@ -29,13 +29,13 @@ highlights:
 **MODERATE CORAL — but cold upwelling buffers bleaching; world-class manta and mola mola encounters; active restoration**
 
 - Three islands — Nusa Penida, Nusa Lembongan, Nusa Ceningan — lie in the Lombok Strait southeast of Bali. The strait is an exit point for the **Indonesian Throughflow (ITF)**, the largest water mass transfer on Earth (Pacific to Indian Ocean), generating powerful nutrient-rich upwelling and thermoclines.
-- **Cold water is the defining feature:** upwelling drops temperatures to 18–24C in the Jul–Oct mola season, with thermocline plunges of 5–6C in seconds. Deep upwelling can push water as cold as 13–17C to diveable depths. This cold, nutrient-rich water is why Nusa Penida has largely **avoided the severe bleaching seen elsewhere in Indonesia** during the 2023–2024 global event — though CTC monitoring notes intensifying heat cycles may eventually overwhelm this natural defense.
+- **Cold water is the defining feature:** upwelling drops temperatures to 18–24C in the Jul–Oct mola season, with thermocline plunges of 5–6C in seconds. Deep upwelling can push water as cold as 13–17C to diveable depths. This cold, nutrient-rich water is why Nusa Penida has largely **avoided the severe bleaching seen elsewhere in Indonesia** during the 2023–2024 global event — though monitoring notes intensifying heat cycles may eventually overwhelm this natural defense.
 - **Coral condition:** variable. Best sites ~40% live hard coral cover; degraded rubble zones as low as ~13%. Northern coast reefs damaged by irresponsible marine tourism, disease, and storm damage (Crystal Bay lost ~28% of live coral cover from massive wave events). Not a coral showcase destination — the draw is pelagics, drift diving, and restoration.
 - **~300 coral species and 570+ reef fish** — rich biodiversity within the Coral Triangle.
 
 ### Nusa Penida MPA
 
-Established 2010, covering ~20,000 hectares. Managed jointly by Bali MPA Management Unit and multiple NGOs. Designated a **Mission Blue Hope Spot** and a **Particularly Sensitive Sea Area (PSSA)** by the IMO in 2024. Annual Reef Health Monitoring conducted by Coral Triangle Center (CTC) — most recent Nov 2025 across 14 sites (results pending analysis).
+Established 2010, covering ~20,000 hectares. Managed jointly by Bali MPA Management Unit and multiple NGOs. Designated a **Mission Blue Hope Spot** and a **Particularly Sensitive Sea Area (PSSA)** by the IMO in 2024. Annual Reef Health Monitoring across 14 sites — most recent Nov 2025 (results pending analysis).
 
 ## Key Dive Sites
 
@@ -45,7 +45,7 @@ The iconic site. Famous for **mola mola (ocean sunfish) encounters** Jul–Oct �
 
 #### Manta Point
 
-Cleaning station with **year-round manta rays**, 90–95% success rate outside breeding season. By 9am, 35–40 boats are typical (WAD, Aug 2024) — early 7am arrivals produce a significantly better experience. Further from tourist boats than Manta Bay but still increasingly crowded.
+Cleaning station with **year-round manta rays**, 90–95% success rate outside breeding season. By 9am, 35–40 boats are typical — early 7am arrivals produce a significantly better experience. Further from tourist boats than Manta Bay but still increasingly crowded.
 
 #### Manta Bay
 
@@ -61,11 +61,11 @@ Wall diving with soft corals, good visibility. One of the more accessible sites.
 
 #### Gamat Bay / Sental
 
-5–35m. North Penida. Large red gorgonians, bouquets of yellow and pink soft corals, barrel sponges. Frogfish (yellow + black), turtles. "Truly underrated" (WAD, Aug 2024) — far less crowded than south coast sites. Among the healthiest reefs in the Nusa Penida area.
+5–35m. North Penida. Large red gorgonians, bouquets of yellow and pink soft corals, barrel sponges. Frogfish (yellow + black), turtles. Far less crowded than south coast sites. Among the healthiest reefs in the Nusa Penida area.
 
 #### PMG
 
-30–36m. North Penida. Alternative mola mola site — a Sep 2024 WAD report confirmed a sighting at 30–35m here after failing at Crystal Bay. North coast sites are emerging as viable mola alternatives. Advanced only (depth, thermoclines).
+30–36m. North Penida. Alternative mola mola site — a Sep 2024 sighting confirmed at 30–35m here after multiple Crystal Bay blanks. North coast sites are emerging as viable mola alternatives. Advanced only (depth, thermoclines).
 
 #### Blue Corner (North Lembongan)
 
@@ -73,7 +73,7 @@ Wall diving with soft corals, good visibility. One of the more accessible sites.
 
 ## Marine Life
 
-- **Mola mola (ocean sunfish):** Aug–Oct (season shifting later; September increasingly reported as peak month). Crystal Bay is the primary site, but north coast sites (PMG, Blue Corner) are emerging as alternatives — a Sep 2024 WAD report confirmed a sighting at PMG at 30–35m after multiple Crystal Bay blanks. Nusa Penida is one of the most reliable places in the world for this species.
+- **Mola mola (ocean sunfish):** Aug–Oct (season shifting later; September increasingly reported as peak month). Crystal Bay is the primary site, but north coast sites (PMG, Blue Corner) are emerging as alternatives — a Sep 2024 sighting at PMG at 30–35m after multiple Crystal Bay blanks. Nusa Penida is one of the most reliable places in the world for this species.
 - **Manta rays:** year-round at Manta Point and Manta Bay cleaning stations. Reef mantas (Mobula alfredi).
 - **Sharks:** reef sharks (whitetip, blacktip) at cleaning stations. A rare **great white shark** was sighted at Ped in early 2025 — first recorded since 2019.
 - **Macro:** nudibranchs, frogfish, seahorses across muck-adjacent sites on Lembongan/Ceningan side.
@@ -123,12 +123,12 @@ The snorkeling scene at Manta Bay is more chaotic — overcrowded sites, unlicen
 
 ### Operators (quality varies dramatically)
 
-- **Reputable:** Blue Corner Dive (PADI 5* IDC, cofounded by marine biologist, 4:1 ratio — the standard-setter), Legend Diving (Green Fins certified, eco-focused), **Scuba Junkie Penida** (personally confirmed Apr 2025 — safe, well-run dives), Pure Dive Resort (Dive Magazine top-5 Indonesia), Neptune Scuba Diving.
+- **Reputable:** Blue Corner Dive (PADI 5* IDC, cofounded by marine biologist, 4:1 ratio — the standard-setter), Legend Diving (Green Fins certified, eco-focused), **Scuba Junkie Penida** (safe, well-run), Pure Dive Resort (Dive Magazine top-5 Indonesia), Neptune Scuba Diving.
 - **Avoid:** unlicensed day-boat operators running snorkel trips from Bali with minimal safety equipment. The gap between good and bad operators here is wider than almost anywhere in Southeast Asia.
 
 ## Trip Reports
 
-- Aug-Sep 2024 (WAD blog): Month-long stay. North coast reefs described as "among the healthiest I've seen" with vibrant hard and soft corals. Mola mola sighting at PMG (not Crystal Bay). Manta Point severely overcrowded (35-40 boats by 9am). Crystal Bay water dropped to 19C on thermocline from 15m depth.
+- Aug-Sep 2024: Month-long stay. North coast reefs described as "among the healthiest I've seen" with vibrant hard and soft corals. Mola mola sighting at PMG (not Crystal Bay). Manta Point severely overcrowded (35-40 boats by 9am). Crystal Bay water dropped to 19C on thermocline from 15m depth.
 
 ## Related Destinations
 

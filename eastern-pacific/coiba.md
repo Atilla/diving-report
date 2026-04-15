@@ -44,7 +44,7 @@ The northern group — the most remote and rewarding. Accessible only via multi-
 
 #### Sueno del Pescador (Fisherman's Dream) — Brincanco Island
 
-20-32m. An underwater Eden of colourful sea fans and gorgonians dancing in current across boulder fields, walls, and canyons. King angelfish swim above the soft coral gardens. Murky thermocline at ~10m — below it, visibility clears but ambient light drops dramatically. Above the thermocline: schools of jackfish, grunt, spadefish, longtail stingrays, and white-tip sharks create an underwater festival during safety stops. Giant spiny lobsters, loggerhead turtles. Requires Advanced with Deep specialty, ~100 dives recommended.
+20-32m. Colourful sea fans and gorgonians across boulder fields, walls, and canyons in strong current. King angelfish swim above the soft coral gardens. Murky thermocline at ~10m — below it, visibility clears but ambient light drops dramatically. Above the thermocline: schools of jackfish, grunt, spadefish, longtail stingrays, and white-tip sharks create an underwater festival during safety stops. Giant spiny lobsters, loggerhead turtles. Requires Advanced with Deep specialty, ~100 dives recommended.
 
 #### Punta Peligro (Danger Point) — Uva Island
 
@@ -117,7 +117,7 @@ The dry season (December-April) is the recommended window. The rainy season brin
 ## Practical Info
 
 - **Access**: Santa Catalina is the base — a small fishing village turned surf-and-dive hub on Panama's Pacific coast. From Panama City: 6-7 hours by bus via Sona and Santiago de Veraguas (~$16 USD). No regular tourist shuttle; Odalis offers private transfers ($220 USD regardless of group size). Car rental possible but the final road to Santa Catalina is in poor condition — do not rent a small car. Charter flights to Coiba's grass airstrip exist through travel agencies but are expensive.
-- **Operators**: Expedicion Coiba (run by Maria and Fredy, Colombian; primarily Spanish-speaking; divemaster Luis has 18+ years at Coiba) and Coiba Dive Center (divemaster Damian from Belize, fully bilingual English/Spanish). Both operate from Santa Catalina.
+- **Operators**: Expedicion Coiba (primarily Spanish-speaking; local divemaster with 18+ years at Coiba) and Coiba Dive Center (fully bilingual English/Spanish). Both operate from Santa Catalina.
 - **Itineraries**: Day trips to Canales depart Santa Catalina at 8am, return by 4pm (1.5 hours each way by boat). 2-3 day expeditions required for Contreras sites, with overnight stays at Bahia Honda (basic conditions). Multi-activity expeditions combining diving, kayaking, and hiking available through agencies like Balanea Travel and Pacific Adventure.
 - **Costs**: No specific dive pricing available. Budget for bus transport ($16 from Panama City), national park fees, and accommodation in Santa Catalina (budget hostels to luxury villas available). Multi-day expeditions with camping/Bahia Honda stays will cost significantly more than day trips.
 - **Recompression**: No recompression chamber at Coiba or Santa Catalina. Nearest chambers in Panama City or David. Dive insurance essential — plan conservatively given the remote location and deep diving at Contreras.
@@ -127,12 +127,12 @@ The dry season (December-April) is the recommended window. The rainy season brin
 
 - **UNESCO World Heritage Site** since 2005. Coiba National Park was formally established in 2004 when the penal colony closed.
 - **Eastern Tropical Pacific Marine Corridor (CMAR)**: Since 2021, Coiba is connected in a mega marine protected area with Galapagos, Cocos Island, and Malpelo — a critical corridor for migratory sharks, whale sharks, rays, and turtles.
-- **Accidental preservation**: The penal colony's 85-year presence (1919-2004) inadvertently created one of the best-preserved marine areas in the Eastern Pacific by keeping human activity at bay. The darkest chapter of Panama's history — prisoners included political opponents who were sent to "disappear" under the Torrijos and Noriega dictatorships (1968-1990) — had the unintended consequence of protecting the surrounding ocean.
+- **Accidental preservation**: The penal colony's 85-year presence (1919-2004) inadvertently created one of the best-preserved marine areas in the Eastern Pacific by keeping human activity at bay.
 - **Threats**: Crown-of-thorns starfish observed at Canales sites are a concern for hard coral reefs. The nutrient-rich upwelling that sustains the marine food web may also favour crown-of-thorns proliferation. Fishing pressure from the Gulf of Chiriqui is a potential concern, though the national park status provides formal protection.
 
 ## Trip Reports
 
-- Feb-Mar 2025 (WAD blog): 8-day multi-style exploration across all three island groups. White-tip sharks on virtually every dive. Colossal nurse sharks at Contreras. Harlequin shrimp at Iglesia. No whale sharks despite diving in season — unusual orca sighting reported in February instead. Dramatic thermoclines (surface 28-30C, 17C at 36m). Recommended 5-7mm wetsuit and bringing own gear. Rated marine life and unique features 4/5, visibility 2/5, MPA status 5/5.
+- Feb-Mar 2025: 8-day multi-style exploration across all three island groups. White-tip sharks on virtually every dive. Colossal nurse sharks at Contreras. Harlequin shrimp at Iglesia. No whale sharks despite diving in season — unusual orca sighting reported in February instead. Dramatic thermoclines (surface 28-30C, 17C at 36m). Recommended 5-7mm wetsuit and bringing own gear. Rated marine life and unique features 4/5, visibility 2/5, MPA status 5/5.
 
 ## Related Destinations
 

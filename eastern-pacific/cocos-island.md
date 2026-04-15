@@ -62,9 +62,9 @@ highlights:
 
 ## Marine Life
 
-- **Scalloped hammerheads**: Schools from dozens to several hundred at Bajo Alcyone and Viking Rock. Highly reliable Jun–Nov; present year-round in smaller numbers. CIMAR (University of Costa Rica) long-term monitoring tracks population trends. Cocos functions as a critical aggregation and possibly pupping ground. Tagging shows connectivity with Galapagos and Malpelo populations along the Eastern Tropical Pacific corridor.
+- **Scalloped hammerheads**: Schools from dozens to several hundred at Bajo Alcyone and Viking Rock. Highly reliable Jun–Nov; present year-round in smaller numbers. Long-term monitoring tracks population trends. Cocos functions as a critical aggregation and possibly pupping ground. Tagging shows connectivity with Galapagos and Malpelo populations along the Eastern Tropical Pacific corridor.
 - **Whale sharks**: Most frequent Jun–Oct at Bajo Alcyone. Sightings never guaranteed but multiple encounters per trip possible in peak season. 2024 reports of above-average sightings Aug–Sep.
-- **Whitetip reef sharks**: Arguably more reliably spectacular than hammerheads — the Manuelita night hunt with 30+ whitetips swarming in coordinated packs is consistently cited as a career-highlight experience.
+- **Whitetip reef sharks**: Arguably more reliably spectacular than hammerheads — the Manuelita night hunt with 30+ whitetips swarming in coordinated packs is a career-highlight experience.
 - **Other sharks**: Silky sharks patrol open water (common during safety stops). Galapagos sharks resident at deeper sites. Tiger sharks occasional. Giant oceanic mantas at Manuelita cleaning stations (periodic, not daily).
 - **Rays**: Marble rays and eagle rays common across most sites.
 - **Humpback whales**: Jul–Oct (Northern Hemisphere population) and Dec–Mar (Southern population). Surface sightings from the boat.
@@ -84,7 +84,7 @@ highlights:
 - **Peak (Jun–Nov):** largest hammerhead schools (hundreds), whale shark probability highest, manta activity, cooler plankton-rich water (attracts pelagics, reduces visibility to 10–20m). This is why most serious divers go Jun–Nov despite rougher seas.
 - **Dry season (Dec–May):** calmer seas for the 30–36hr crossing, better visibility (20–30m+), but smaller hammerhead schools (dozens rather than hundreds). Still excellent diving — whitetip night hunts at Manuelita are year-round.
 - **Humpback whales — two populations:** Northern Hemisphere (Jul–Oct) and Southern Hemisphere (Dec–Mar). Surface sightings from the boat; not in-water encounters. This means humpbacks are possible in both main seasons.
-- **Hammerhead transition:** schools build gradually from May, peak Jul–Sep, taper Oct–Nov. There's no sharp cutoff — Dec–Feb still sees hammerheads, just in smaller numbers and deeper.
+- **Hammerhead transition:** schools build gradually from May, peak Jul–Sep, taper Oct–Nov. Dec–Feb still sees hammerheads, in smaller numbers and at greater depth.
 - **Giant oceanic mantas:** periodic at Manuelita cleaning stations, not daily. No clear seasonal peak — opportunistic encounters.
 - **Temperature:** 24–29C surface; dramatic thermoclines possible (16–20C at depth). 5mm minimum; many divers bring 7mm for deep dives.
 - Operators run year-round. The crossing can be rough regardless of season.

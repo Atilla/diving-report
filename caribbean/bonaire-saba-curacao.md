@@ -31,7 +31,7 @@ highlights:
 - Stony Coral Tissue Loss Disease (SCTLD) arrived March 2023, devastating brain/maze/pillar corals already under bleaching stress. Back-to-back bleaching in 2023-2024. Hard coral cover now under 10% on average (down from ~50% historically). Staghorn corals largely dead by early 2025.
 - **However, a critical nuance:** the dominant reef-building species on Bonaire (Orbicella annularis and O. faveolata, comprising ~75% of coral cover) show **no signs of SCTLD infection** — a major difference from Florida where these species are devastated.
 - Soft corals, sponges, sea fans, and gorgonians are **unaffected by SCTLD and remain spectacular** at many sites.
-- ScubaBoard Jan 2025 pessimistic observer estimated 80-90% hard coral dead — but acknowledged northern and southernmost sites retained "relatively abundant live hard coral." The March 2024 "Dead Reefs" post was challenged on-thread by a marine scientist as "hyperbole bordering on BS."
+- A Jan 2025 observer estimated 80-90% hard coral dead — but acknowledged northern and southernmost sites retained "relatively abundant live hard coral." The "Dead Reefs" characterisation has been challenged by a marine scientist as "hyperbole bordering on BS."
 - **2025–2026 trip reports are considerably more positive than the worst posts suggest:** March 2025 snorkeling report rated sites 8-9/10 (Karpata 8.5, Red Beryl North 9/10 — "best soft coral I've ever seen"). May 2025 diver (17 dives, 14 sites) called Bonaire their "favorite Caribbean destination" with "overwhelming abundance of sea life." March 2026 visitor reported coral affected as elsewhere in the Caribbean but was surprised by how vivid it remained.
 
 ## Key Dive Sites

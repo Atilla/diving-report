@@ -55,7 +55,7 @@ Kelp-like macroalgae grow during upwelling — almost unique in the Arabian regi
 Five islands off Dhofar coast, genuinely unexplored. Minimal survey data but high fish biomass from minimal fishing pressure. Oman's true frontier diving — requires dedicated charter.
 
 - **Upwelling reliability under climate change**: the monsoon-driven system has persisted for millions of years and some models suggest it could intensify with warming. But background deep ocean warming means upwelled water is gradually getting warmer. Gulf of Oman (Daymaniyat) gets less upwelling benefit than Dhofar.
-- **Liveaboards do exist** (correction — previously listed as none): **Oman Aggressor** (22 divers, 11 staterooms, luxury), **Oman Explorer / Samana Explorer** (similar standard), and **MV Vision** (new build 2025, 29m, 12 guests, Musandam-focused). Northern itineraries (Daymaniyat, Musandam) run Jun–Nov; southern itineraries (Hallaniyat Islands) Dec–Apr. Season Sep–May overall. Muscat also has good shore-based operators.
+- **Liveaboards do exist** (correction — previously listed as none): **Oman Aggressor** (22 divers, 11 staterooms, luxury), **Oman Explorer / Samana Explorer** (similar standard), and **MV Vision** (new build 2025, 12 guests, Musandam-focused). Northern itineraries (Daymaniyat, Musandam) run Jun–Nov; southern itineraries (Hallaniyat Islands) Dec–Apr. Season Sep–May overall. Muscat also has good shore-based operators.
 - **Best strategy (normal conditions)**: combine Muscat/Daymaniyat (3-4 days) with Musandam (2-3 days). Add Dhofar in Oct-Nov for whale sharks.
 
 ## Marine Life

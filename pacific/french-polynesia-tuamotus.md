@@ -107,8 +107,8 @@ Occasional liveaboard stops with excellent pass diving and zero crowds.
 ## Conservation
 
 - **Fakarava UNESCO Biosphere Reserve** (2006): Multiple zoning levels. The South Pass is within a designated conservation zone. Enforcement largely effective, though illegal fishing at reef edges occurs.
-- The grouper spawning aggregation at Fakarava South Pass is one of the most studied in the Pacific — research by CRIOBE (Centre de Recherches Insulaires et Observatoire de l'Environnement) has documented the ecological significance. French Polynesia officially banned all shark feeding and baiting in 2017, though a 2019 WAD report noted some operators near Tahiti still conducting feeding despite the ban.
-- Shark populations in the Tuamotus are among the healthiest in the Indo-Pacific, likely due to low human pressure, healthy reef structure, and traditional Polynesian marine stewardship.
+- The grouper spawning aggregation at Fakarava South Pass is one of the most studied in the Pacific — its ecological significance is well-documented. French Polynesia officially banned all shark feeding and baiting in 2017, though a 2019 report noted some operators near Tahiti still conducting feeding despite the ban.
+- Shark populations in the Tuamotus are among the healthiest in the Indo-Pacific — low human pressure, healthy reef structure, and traditional Polynesian marine stewardship all contribute.
 
 ## Trip Reports
 

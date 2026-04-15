@@ -19,7 +19,7 @@ bleaching_resilience: high
 highlights:
   - "60-100m visibility — among the clearest documented waters anywhere"
   - "Abundant banded sea kraits with curious diver interaction"
-  - "TIME's World's Greatest Places 2025"
+  - "Named one of the world's greatest places 2025 — diving discovery of the year"
 ---
 
 # Niue
@@ -30,7 +30,7 @@ highlights:
 - **Visibility claims of 60–100m are largely substantiated** — Niue's waters are among the clearest documented anywhere, owing to zero runoff (raised limestone, no rivers) and open-ocean exposure.
 - **Banded sea kraits** (sea snakes) are abundant and a signature encounter — docile, curious, and frequently interact with divers.
 - **Humpback whales** July–October (same Antarctic population as Tonga). Snorkeling encounters possible. Spectacular underwater cave systems (Whale Cave, Bubble Cave, The Dome).
-- Named one of **TIME's World's Greatest Places 2025**.
+- Named one of the world's greatest places in 2025 — gaining wider international recognition.
 - **Niue Dive** (formerly Niue Blue) is essentially the **only operator** — very limited capacity. Shore diving from some coastal points is possible. No harbour — boat launching depends on weather; cancellations due to swell are common.
 - Flights from Auckland only (Air New Zealand, twice weekly, seasonal). Total island accommodation ~100–150 beds. Book months in advance for whale season.
 - Diving ~NZD $150–200/dive. Accommodation NZD $100–250/night.

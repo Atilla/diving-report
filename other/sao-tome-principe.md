@@ -27,7 +27,7 @@ highlights:
 ## Status
 
 - STP does **not have significant coral reef systems**. The underwater landscape is volcanic — basalt boulders, lava formations, walls, pinnacles, and seamounts with scattered hard coral colonies on rock substrate. This is a tropical rocky reef ecosystem, not a coral reef ecosystem. Divers expecting Indo-Pacific or Caribbean coral gardens will not find them.
-- **One of the least-surveyed tropical island marine environments in the world.** No systematic coral monitoring, no GCRMN stations, no published bleaching data from the 2023-2024 global event. The scientific data gap is itself a key finding.
+- **One of the least-surveyed tropical island marine environments in the world.** No systematic coral monitoring, no published bleaching data from the 2023-2024 global event. The scientific data gap is itself a key finding.
 
 ## Key Dive Sites
 

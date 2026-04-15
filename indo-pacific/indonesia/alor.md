@@ -33,7 +33,7 @@ highlights:
 - **Current-swept walls and pinnacles** around the Pantar Strait host large pelagics: hammerhead sharks (seasonal), mobula rays, mola mola (rare but reported), massive schools of trevally and barracuda.
 - Reefs generally in good to excellent condition — low population pressure, limited fishing.
 - Currents can be very strong and unpredictable — intermediate to advanced.
-- 2024 trip reports on ScubaBoard consistently describe healthy reef systems, exceptional macro, and very few other boats.
+- 2024 trip reports consistently describe healthy reef systems, exceptional macro, and very few other boats.
 
 ## Key Dive Sites
 
@@ -73,7 +73,7 @@ Current-swept walls and pinnacles with hammerhead sharks (seasonal), mobula rays
 
 ## Trip Reports
 
-- **Jun–Jul 2025:** "Korallen sehen aus wie Gemälde" (corals look like paintings) — exceptional pristine condition, no bleaching. Comprehensive marine life including dwarf seahorses, rhinopias, hammerheads, silvertips, nurse sharks, manta rays, mobulas, blue whale, and abundant macro fauna.
+- **Jun–Jul 2025:** Corals described as looking like paintings — exceptional pristine condition, no bleaching. Comprehensive marine life including dwarf seahorses, rhinopias, hammerheads, silvertips, nurse sharks, manta rays, mobulas, blue whale, and abundant macro fauna.
 
 ## Related Destinations
 

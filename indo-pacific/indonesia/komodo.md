@@ -76,7 +76,7 @@ highlights:
 
 #### Pengah Kecil
 
-5–23m. Central site described as "the most colourful and densely covered reef and wall" in the park (WAD, Jan 2025). Dense soft coral walls with exceptional colour.
+5–23m. Central site described as "the most colourful and densely covered reef and wall" in the park. Dense soft coral walls with exceptional colour.
 
 #### Kelor Island
 
@@ -132,8 +132,8 @@ highlights:
 
 ## Trip Reports
 
-- Jan 2025 (WAD blog): Week-long trip, liveaboard + land-based from Menjaga Bay Resort. Mantas at Mawan (including melanistic juvenile), vibrant coral at Pengah Kecil, macro at Kelor Island. "The diving in Komodo was just as good as 13 years ago; all the mantas and the colourful coral reefs confirmed that the national park's protection efforts are working."
-- **Multiple 2024–2025 reports:** Komodo singled out in a global reef comparison as having "the best coral reefs currently" — "Riffe zum Träumen" (reefs to dream about) with exceptional hard coral diversity.
+- Jan 2025: Week-long trip, liveaboard + land-based from Menjaga Bay Resort. Mantas at Mawan (including melanistic juvenile), vibrant coral at Pengah Kecil, macro at Kelor Island. "The diving in Komodo was just as good as 13 years ago; all the mantas and the colourful coral reefs confirmed that the national park's protection efforts are working."
+- **Multiple 2024–2025 reports:** Komodo singled out in a global reef comparison as having "the best coral reefs currently" — "reefs to dream about" with exceptional hard coral diversity.
 
 ## Related Destinations
 

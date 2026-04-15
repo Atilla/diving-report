@@ -29,7 +29,7 @@ highlights:
 - Over 5,700 km of reef across a double chain of six major islands and hundreds of smaller ones. One of the Pacific's last true frontier diving destinations — reef health in the Solomons remains excellent by global standards, benefiting from remoteness and low population pressure.
 - **Iron Bottom Sound** (the strait between Guadalcanal, Savo, and Florida Islands) contains dozens of WWII wrecks from the 1942–43 naval battles — the name refers to the sheer number of ships and aircraft on the seabed.
 - **Marovo Lagoon**: the world's largest double-barrier enclosed saltwater lagoon, a UNESCO tentative site. Cathedral-like coral formations, pristine walls.
-- Trip reports from 2024 on ScubaBoard and r/scuba consistently describe "pristine soft corals that rival or exceed Raja Ampat" with far fewer divers.
+- 2024 trip reports consistently describe "pristine soft corals that rival or exceed Raja Ampat" with far fewer divers.
 
 ## Key Dive Sites
 

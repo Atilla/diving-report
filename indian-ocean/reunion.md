@@ -28,8 +28,8 @@ highlights:
 
 **DEGRADED REEF (~10% coral cover post-2025) — unique volcanic topography, world-class macro, and humpback whale season**
 
-- Limited reef development due to volcanic geology. Fringing reefs exist only on the west coast (~9 km between Saint-Gilles and Saint-Leu). **Only 18% hard coral cover** on hard substrate as of the UTOPIAN project (2021-2026) baseline — approximately 50% loss over 40 years. The 2025 compound events reduced this further (see below).
-- **Largely spared from the 2024 global bleaching event** due to southerly latitude producing cooler waters. IFRECOR confirmed "very low bleaching impact" at Saint-Gilles and Saint-Leu in May 2024 — in stark contrast to Mayotte and northern Mozambique Channel islands (30-40% coral mortality).
+- Limited reef development due to volcanic geology. Fringing reefs exist only on the west coast (~9 km between Saint-Gilles and Saint-Leu). **Only 18% hard coral cover** on hard substrate as of a 2021–2026 baseline — approximately 50% loss over 40 years. The 2025 compound events reduced this further (see below).
+- **Largely spared from the 2024 global bleaching event** due to southerly latitude producing cooler waters. Monitoring confirmed "very low bleaching impact" at Saint-Gilles and Saint-Leu in May 2024 — in stark contrast to Mayotte and northern Mozambique Channel islands (30-40% coral mortality).
 - **2025 compound crisis**: After the 2024 reprieve, Réunion was struck by a double event. A marine heat wave caused intense bleaching across all reef flats and external slopes from late January to late March 2025 — approximately 60% of total coral coverage affected (external slopes 78%, lagoon platforms 54%). Cyclone Garance (February 28, 2025) then added physical destruction: ~100 hectares damaged, ~40 hectares completely destroyed. Saint-Leu specifically suffered >90% coral mortality — described as "the biggest ecological catastrophe in the reserve's history." Projected coral cover after both events: ~10% (down from 20-25% in 2022). A small proportion of surviving corals are being studied as resilient "super-coral" genotypes.
 
 ### The shark situation — critical context for divers
@@ -37,7 +37,7 @@ highlights:
 - Between 2011-2019: 30 shark attacks, 11 fatal (bull sharks and tiger sharks) — highest rate per capita globally. **However, no scuba diver fatalities recorded.** Victims were overwhelmingly surfers, bodyboarders, swimmers, and spearfishers (surface activities).
 - **No shark attacks since May 2019** — the longest attack-free period since the 1970s. SMART drumlines have captured 59 bull sharks and 543+ tiger sharks since 2018.
 - Swimming and wave-powered activities remain prohibited outside lagoons or monitored zones. **Diving is permitted.** Dive operators consider it safe and have experienced zero incidents.
-- Sharks are paradoxically almost absent from dive sites — "I just do not see sharks underwater" per one operator, due to 380 years of fishing pressure and recent culling programs.
+- Sharks are paradoxically almost absent from dive sites — "I just do not see sharks underwater" — due to 380 years of fishing pressure and recent culling programs.
 
 ## Key Dive Sites
 

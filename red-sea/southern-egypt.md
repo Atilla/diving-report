@@ -28,14 +28,14 @@ highlights:
 
 **Fury Shoals and Wadi Gimal catastrophically damaged; St. Johns offshore still viable**
 
-- **Two successive bleaching events** in summers 2023 and 2024 — reefs had not recovered from 2023 before 2024 struck. Water temps reached 35°C in shallow coastal areas in August 2024, with offshore areas hitting 30–31°C in summer 2023. Coral growth rates collapsed from >2 cm/year to <0.5 cm/year (divediscover.de, 2026). 2025 temperatures were significantly lower — no new mass bleaching event in 2025.
+- **Two successive bleaching events** in summers 2023 and 2024 — reefs had not recovered from 2023 before 2024 struck. Water temps reached 35°C in shallow coastal areas in August 2024, with offshore areas hitting 30–31°C in summer 2023. Coral growth rates collapsed from >2 cm/year to <0.5 cm/year. 2025 temperatures were significantly lower — no new mass bleaching event in 2025.
 
 **Condition by sub-area (as of late 2025–early 2026):**
 
 - **Wadi Gimal / Shams Alam National Park:** 70–80% hard coral death; dead skeletons heavily colonised by algae. Hammerheads and Napoleon fish now largely absent from sites where they were previously reliable.
 - **Fury Shoals / Sataya:** Progressed from ~50% bleached (October 2023) to approximately two-thirds dead by October 2025. Beautiful stone coral areas described as "almost completely dead." The resident spinner dolphin pod at Sataya remains.
 - **Marsa Alam coastal (Aurora Bay):** 95% coral mortality in shallow areas; 80–90% in deeper sections. Algae-covered skeletons dominant.
-- **Wadi El Gemal:** 50.1% bleached colonies per HEPCA official monitoring data.
+- **Wadi El Gemal:** 50.1% bleached colonies.
 - **St. Johns (offshore, Habili Ali / Dangerous Reef):** 10–30% of coral skeletons algae-covered; remaining live coral still present. Described as "absolutely still worth seeing" (April 2025) — the offshore location provides more resilience than coastal sites. Hard coral cover at some sites dropped from >40% to <5% but pelagic encounters remain.
 
 - **Marine life still present and active:** dolphins at Sataya, mantas, sharks, dugongs unaffected by coral loss. The diving is still worthwhile for megafauna — set expectations for coral aesthetics accordingly.
@@ -100,9 +100,9 @@ Large horseshoe reef enclosing a sandy lagoon (5–14m). Resident pod of 60–80
 
 ## Trip Reports
 
-- **2023–2025 reports:** Fury Shoals characterised as "almost completely dead" by October 2025; Wadi Gimal at 70–80% hard coral death with apex predators largely absent; Wadi El Gemal at 50.1% bleached per HEPCA data; Marsa Alam coastal zones at 80–95% mortality. 50% collapse in Egyptian dive safari bookings reported. Recovery outlook from local guides: "irreparably destroyed for 10–20 years" in worst-hit areas. St. Johns still viable for offshore megafauna.
-- **ScubaBoard Sep 2025, Red Sea Aggressor V (Deep South itinerary):** *"On the best reef, maybe 50% was healthy. On the worst, 90% was dead... covered with algae."*
-- **Firsthand account, April 2026:** Coral death obvious and widespread; isolated patches of new coral growth visible. Fish and marine life still present at St. Johns and Sataya. Expectations need resetting vs. pre-2023 baseline.
+- **2023–2025 reports:** Fury Shoals characterised as "almost completely dead" by October 2025; Wadi Gimal at 70–80% hard coral death with apex predators largely absent; Wadi El Gemal at 50.1% bleached; Marsa Alam coastal zones at 80–95% mortality. 50% collapse in Egyptian dive safari bookings reported. Recovery outlook from local guides: "irreparably destroyed for 10–20 years" in worst-hit areas. St. Johns still viable for offshore megafauna.
+- **Sep 2025 (Deep South liveaboard):** *"On the best reef, maybe 50% was healthy. On the worst, 90% was dead... covered with algae."*
+- **April 2026:** Coral death obvious and widespread; isolated patches of new coral growth visible. Fish and marine life still present at St. Johns and Sataya. Expectations need resetting vs. pre-2023 baseline.
 
 ## Related Destinations
 

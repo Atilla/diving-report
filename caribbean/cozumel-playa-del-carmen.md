@@ -27,10 +27,10 @@ highlights:
 
 **HARD CORAL SEVERELY DEGRADED — but drift diving, marine life, and cenotes deliver**
 
-- Stony Coral Tissue Loss Disease (SCTLD) arrived in Cozumel in December 2018 and spread at nearly 1 km/day — 10x faster than in Florida. Within one year, coral cover dropped from 26% to 15% (Alvarez-Filip et al., Frontiers in Marine Science 2021). Paraiso reef lost 80% of its cover. Pillar coral is functionally extinct in Cozumel (99% mortality across the Mexican Caribbean). Maze coral lost 98% of colonies.
-- Back-to-back bleaching in 2023 and 2024 compounded the damage. The 2023 event was the worst on record for the Mesoamerican Reef — water stayed anomalously warm for 6 months instead of the usual 2. The 2024 Healthy Reefs Initiative report card rated Cozumel's decline as the most severe in the entire region.
-- 80% of Cozumel's coral has died over the past 40 years (The Nature Conservancy, 2024). 97% of coral around existing cruise piers is dead.
-- **However, 2025 trip reports are cautiously positive.** Multiple ScubaBoard visitors describe reefs as "recovering," "healthier than Roatan," and "the most colorful Caribbean I've seen outside Belize." Fish biomass is up 40% and herbivorous fish up 30% region-wide due to stronger enforcement (HRI 2024). The diving experience is better than the coral cover numbers suggest — Cozumel's strength is drift diving, topography, and marine life, not pristine hard coral.
+- Stony Coral Tissue Loss Disease (SCTLD) arrived in Cozumel in December 2018 and spread at nearly 1 km/day — 10x faster than in Florida. Within one year, coral cover dropped from 26% to 15%. Paraiso reef lost 80% of its cover. Pillar coral is functionally extinct in Cozumel (99% mortality across the Mexican Caribbean). Maze coral lost 98% of colonies.
+- Back-to-back bleaching in 2023 and 2024 compounded the damage. The 2023 event was the worst on record for the Mesoamerican Reef — water stayed anomalously warm for 6 months instead of the usual 2. By 2024, Cozumel's decline was rated the most severe in the entire Mesoamerican Reef region.
+- 80% of Cozumel's coral has died over the past 40 years. 97% of coral around existing cruise piers is dead.
+- **However, 2025 trip reports are cautiously positive.** Recent visitors describe reefs as "recovering," "healthier than Roatan," and "the most colorful Caribbean I've seen outside Belize." Fish biomass is up 40% and herbivorous fish up 30% region-wide due to stronger enforcement. The diving experience is better than the coral cover numbers suggest — Cozumel's strength is drift diving, topography, and marine life, not pristine hard coral.
 
 ## Key Dive Sites
 
@@ -99,11 +99,11 @@ Cenote diving costs $150–235 per person for a two-dive day including transport
 
 ## Marine Life
 
-- **Eagle rays**: Spotted on almost every dive (multiple ScubaBoard 2025 reports). Peak December–February.
+- **Eagle rays**: Spotted on almost every dive. Peak December–February.
 - **Sea turtles**: Hawksbill, green, and loggerhead — regular sightings at Santa Rosa, Palancar, and most wall sites.
 - **Nurse sharks**: Common throughout, multiple per dive at deeper sites.
 - **Splendid toadfish**: Endemic to Cozumel — found nowhere else on Earth. Nocturnal, most reliably seen on Paradise Reef night dives, also sighted during daytime at Santa Rosa Wall. Sightings less frequent than historically but still possible with a good guide.
-- **Hammerhead sharks**: Rare but documented — a WAD report recorded a sighting at Cedral Pass in November.
+- **Hammerhead sharks**: Rare but documented — a hammerhead was recorded at Cedral Pass in November.
 - **Bull sharks**: Playa del Carmen only, November–March. Pregnant females, no feeding.
 - **Moray eels**: Spotted, green, and goldentail morays common in reef crevices.
 - **Reef fish**: Angelfish (gray, queen), chromis, grunts, snappers, triggerfish. Schools of Creole wrasse. Fish populations recovering due to marine park enforcement.
@@ -140,19 +140,19 @@ Cenote diving costs $150–235 per person for a two-dive day including transport
 ## Conservation
 
 - **Cozumel Reefs National Marine Park** (CONANP): Covers the western reef system. Maximum 8:1 diver-to-guide ratio. All guides must complete Sustainable Marine Recreation (SMR) certification — over 7,000 trained. Reef rotation closure system since 2020. **All sunscreen prohibited** (not just non-biodegradable) — UV-protective clothing recommended instead. Rash guards required. Only authorised operators permitted.
-- **CCRRP (Cozumel Coral Reef Restoration Program)**: Over 10,000 corals planted at Villa Blanca Reef. Antibiotic paste treatment for Stony Coral Tissue Loss Disease (~50% efficacy). Ex-situ treated fragments showing 93% survivorship with no reinfection for 352 days (Frontiers in Marine Science, 2026). Heat-resistant genotypes being identified for future planting.
+- **CCRRP (Cozumel Coral Reef Restoration Program)**: Over 10,000 corals planted at Villa Blanca Reef. Antibiotic paste treatment for Stony Coral Tissue Loss Disease (~50% efficacy). Ex-situ treated fragments showing 93% survivorship with no reinfection for 352 days. Heat-resistant genotypes being identified for future planting.
 - **Fourth cruise pier blocked**: A proposal to build a pier directly on Villa Blanca Reef (the main restoration site) was rejected by the Cozumel mayor in July 2025 after major opposition. Under investigation.
 - **Pressure**: ~2,000 divers daily. 4.6 million cruise ship passengers in 2024. Cozumel receives more cruise traffic than almost anywhere in the Caribbean. The tension between tourism revenue and reef survival is the island's defining conservation challenge.
 
 ## Trip Reports
 
-- Feb/Mar 2025 (ScubaBoard): "I find reef health at Cozumel to be the healthiest and colorful outside of the Belize liveaboard experience."
-- Jun 2025 (ScubaBoard): "The reef and sea life looked pretty good." One diver said reefs "looked like they did 15 years ago."
-- Late 2025 (ScubaBoard): Divemaster assessment: "The diving and reef health in Cozumel has been improving over the last few years."
-- Dec 2024 (ScubaBoard): "Reef in better condition than Roatan" but coral bleaching present, varies by dive site.
-- **Autumn 2025:** Cozumel reefs described as "wunderschön and relatively healthy," large spiny lobsters, curious nurse sharks, eagle rays. Note: fish life and topography can read as "healthy" even where hard coral cover is low (~15%).
-- Oct 2024 (ScubaBoard): "Mediocre" reef life; "significant reef degradation over the past decade;" topography impressive but coral coverage and abundance fell short of expectations.
-- Feb 2024 (ScubaBoard): "If there is bleaching, I didn't see it. The reefs were very healthy." Coral and sponges "nice, big and healthy." But: another Feb 2024 diver reported red/green algae, depressed fish populations, and lost 5 of 10 dive days to port closures.
+- Feb/Mar 2025: "I find reef health at Cozumel to be the healthiest and colorful outside of the Belize liveaboard experience."
+- Jun 2025: "The reef and sea life looked pretty good." One diver said reefs "looked like they did 15 years ago."
+- Late 2025: Divemaster assessment: "The diving and reef health in Cozumel has been improving over the last few years."
+- Dec 2024: "Reef in better condition than Roatan" but coral bleaching present, varies by dive site.
+- Autumn 2025: Cozumel reefs described as beautiful and relatively healthy — large spiny lobsters, curious nurse sharks, eagle rays. Note: fish life and topography can read as "healthy" even where hard coral cover is low (~15%).
+- Oct 2024: "Mediocre" reef life; "significant reef degradation over the past decade;" topography impressive but coral coverage and abundance fell short of expectations.
+- Feb 2024: "If there is bleaching, I didn't see it. The reefs were very healthy." Coral and sponges "nice, big and healthy." But: another Feb 2024 diver reported red/green algae, depressed fish populations, and lost 5 of 10 dive days to port closures.
 
 ## Related Destinations
 

@@ -18,7 +18,7 @@ bleaching_resilience: low
 highlights:
   - Sail Rock — best site in the Gulf with schools of batfish, barracuda, jacks, occasional whale sharks
   - Chumphon Pinnacle — seasonal bull sharks Dec-Mar
-  - New Heaven Reef Conservation Program — grassroots marine conservation since 2007
+  - Grassroots reef conservation programme since 2007 — coral nurseries and artificial reefs
 ---
 
 # Thailand — Gulf of Thailand (Koh Tao, Koh Phangan, Chumphon)
@@ -31,7 +31,7 @@ highlights:
 - **Pinnacle sites remain the highlight**: Sail Rock (best site in the Gulf — schools of batfish, chevron barracuda, jacks, occasional whale sharks), Chumphon Pinnacle (bull sharks seasonal Dec-Mar but sightings increasingly unreliable), Southwest Pinnacle. These deeper sites weathered 2024 better.
 - HTMS Sattakut wreck (18-30m) colonizing well with soft corals and fish aggregation.
 - **Marine life**: whale sharks seasonal (Mar-May) but declining long-term frequency. Hawksbill and green turtles regularly seen. Bull shark encounters at Chumphon increasingly hit-or-miss.
-- **Restoration**: New Heaven Reef Conservation Program running coral nurseries and artificial reef projects since 2007, with measurable local gains. Koh Tao has one of the strongest grassroots marine conservation communities in Southeast Asia.
+- **Restoration**: Coral nurseries and artificial reef projects have been running since 2007, with measurable local gains. Koh Tao has one of the strongest grassroots marine conservation communities in Southeast Asia.
 - **For experienced divers**: Koh Tao is primarily a training destination. Focus on Sail Rock, Chumphon Pinnacle, and Southwest Pinnacle. Do not expect the reef quality of the Andaman side.
 
 ## Key Dive Sites
@@ -80,7 +80,7 @@ Deeper pinnacle site that weathered 2024 better than shallow reefs.
 
 ## Conservation
 
-- **New Heaven Reef Conservation Program**: running coral nurseries and artificial reef projects since 2007, with measurable local gains. Koh Tao has one of the strongest grassroots marine conservation communities in Southeast Asia.
+- Coral nurseries and artificial reef projects have been running since 2007, with measurable local gains. Koh Tao has one of the strongest grassroots marine conservation communities in Southeast Asia.
 
 ## Related Destinations
 

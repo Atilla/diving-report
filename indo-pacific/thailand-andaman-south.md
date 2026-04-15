@@ -38,7 +38,7 @@ Premier manta ray aggregation site: 118 individual oceanic mantas documented sin
 
 ### Koh Haa
 
-**Among the healthiest reefs in the region.** Sheltered lagoon with multiple numbered dive sites. Jan 2026 liveaboard report: "healthy coral structures" with turtles, reef sharks. Feb 2025 WAD trip report noted soft corals had suffered from the 2024 heat wave but showed signs of regrowth. Visibility up to 30m.
+**Among the healthiest reefs in the region.** Sheltered lagoon with multiple numbered dive sites. Jan 2026 liveaboard report: "healthy coral structures" with turtles, reef sharks. Feb 2025 trip reports noted soft corals had suffered from the 2024 heat wave but showed signs of regrowth. Visibility up to 30m.
 
 #### Koh Haa no.3 (Corner Lagoon)
 
@@ -76,11 +76,11 @@ Conservation success — 50% of replanted coral surviving and growing, blacktip 
 
 #### Koh Bida Nok & Koh Bida Nai
 
-Blacktip sharks, tiger-tail seahorse, harlequin ghost pipefish, clouds of yellow snapper, gorgonians and harp corals. Described as "absolute must-dives from Koh Lanta" (WAD, Feb 2025).
+Blacktip sharks, tiger-tail seahorse, harlequin ghost pipefish, clouds of yellow snapper, gorgonians and harp corals. Described as "absolute must-dives from Koh Lanta."
 
 #### Hin Bida
 
-Leopard sharks "almost guaranteed" — resting on sandy bottom (WAD, Feb 2025). Scorpionfish, dense schools of snappers. Dentex hunting around the pinnacle.
+Leopard sharks "almost guaranteed" — resting on sandy bottom. Scorpionfish, dense schools of snappers. Dentex hunting around the pinnacle.
 
 ### Koh Rok
 
@@ -133,7 +133,7 @@ A south Andaman liveaboard route (Koh Haa, Hin Daeng/Hin Muang, Koh Rok, potenti
 
 ## Conservation
 
-- **Coral restoration**: DMCR nurturing 60,000 coral colonies in nurseries nationally. Racha Yai 3D-printed coral structures (109 of 210 installed). Phuket Coral Cryobank operational since June 2025 — preserving coral larvae at -196C as "genetic insurance."
+- **Coral restoration**: 60,000 coral colonies nurtured in national nurseries. Racha Yai 3D-printed coral structures (109 of 210 installed). Phuket Coral Cryobank operational since June 2025 — preserving coral larvae at -196C as "genetic insurance."
 
 ## Related Destinations
 

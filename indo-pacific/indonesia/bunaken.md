@@ -43,7 +43,7 @@ highlights:
 
 #### Fukui
 
-5–30m+. Wall and slope with exceptional macro alongside the wall drama. Spotted eagle rays at depth, mandarin fish in the rubble, Pontoh's pygmy seahorse on gorgonians. WAD Jun 2025: eagle rays at 40m, first mandarin fish sighting.
+5–30m+. Wall and slope with exceptional macro alongside the wall drama. Spotted eagle rays at depth, mandarin fish in the rubble, Pontoh's pygmy seahorse on gorgonians. Jun 2025: eagle rays at 40m, first mandarin fish sighting reported.
 
 #### Alung Banua
 
@@ -53,7 +53,7 @@ highlights:
 
 #### Mandolin Point
 
-5–30m+. The turtle epicentre. WAD Jun 2025 counted 30-40 green turtles on a single dive — "Forget about Hawaii, Bali or the Philippines, Bunaken is my new turtle capital of the world." Schooling batfish, dramatic wall topography with the volcanic cone of Manado Tua rising above.
+5–30m+. The turtle epicentre. Jun 2025: 30-40 green turtles counted on a single dive. Schooling batfish, dramatic wall topography with the volcanic cone of Manado Tua rising above.
 
 #### Negri
 
@@ -67,13 +67,13 @@ highlights:
 
 ### Mainland (North Manado)
 
-Sandy slopes with outstanding macro — WAD Jun 2025 logged 12 nudibranch species in two dives including flame flabellina, black-spotted trapania, orange-edged and jewel sap-sucking slugs. Baby frogfish on volcanic sand. Different character from the walls — more akin to muck diving.
+Sandy slopes with outstanding macro — Jun 2025: 12 nudibranch species in two dives including flame flabellina, black-spotted trapania, orange-edged and jewel sap-sucking slugs. Baby frogfish on volcanic sand. Different character from the walls — more akin to muck diving.
 
 ### Bangka Island
 
 #### Batu Goso
 
-5–36m. Maze of steep slopes, caverns, and canyons. Blueberry gorgonians (rare blue soft coral), dense fish life, strong topography. WAD's favourite Bangka site.
+5–36m. Maze of steep slopes, caverns, and canyons. Blueberry gorgonians (rare blue soft coral), dense fish life, strong topography.
 
 #### Tanjung Husi
 
@@ -85,7 +85,7 @@ Bangka's sandy sites also produce blue-ringed octopus, wonderpus, thorny seahors
 
 #### Black-water / Bonfire Diving
 
-Available from Siladen and other resorts. Night dives in open water with lights attracting larval reef creatures — flounder larvae, mantis shrimp larvae, juvenile cephalopods. "Like drifting through space" (WAD, Jun 2025).
+Available from Siladen and other resorts. Night dives in open water with lights attracting larval reef creatures — flounder larvae, mantis shrimp larvae, juvenile cephalopods. "Like drifting through space."
 
 ## Marine Life
 
@@ -107,7 +107,7 @@ Available from Siladen and other resorts. Night dives in open water with lights 
 
 - **Year-round destination.** The Sulawesi Sea is relatively sheltered.
 - **Dry season (May–Oct)**: Best conditions — calmer seas, better visibility, less rain. Peak Jul–Oct.
-- **Wet season (Nov–Apr)**: More rain (often afternoon showers), slightly reduced visibility at times. Still very diveable — WAD dived in early June (transition period) with 28–30C water and good conditions despite some rain.
+- **Wet season (Nov–Apr)**: More rain (often afternoon showers), slightly reduced visibility at times. Still very diveable — early June (transition period): 28–30C water, good conditions despite some rain.
 - **Combine with Lembeh**: Dry season (May–Nov) offers best conditions for both destinations.
 
 ## Practical Info
@@ -125,7 +125,7 @@ Available from Siladen and other resorts. Night dives in open water with lights 
 
 ## Trip Reports
 
-- Jun 2025 (WAD blog): 4 days Bunaken/Siladen + 3 days Bangka as part of month-long Sulawesi crossing. Bunaken: "my new turtle capital of the world" — 30-40 turtles at Mandolin Point. Eagle rays and mandarin fish at Fukui. Pygmy seahorse. 12 nudibranch species on mainland dives. Bangka: blue-ringed octopus, wonderpus, blueberry gorgonians, pygmy seahorse. Water 28-30C, good visibility despite early wet-to-dry transition.
+- Jun 2025: 4 days Bunaken/Siladen + 3 days Bangka. Bunaken: 30-40 turtles at Mandolin Point, eagle rays and mandarin fish at Fukui, pygmy seahorse, 12 nudibranch species on mainland dives. Bangka: blue-ringed octopus, wonderpus, blueberry gorgonians, pygmy seahorse. Water 28-30C, good visibility despite early wet-to-dry transition.
 
 ## Related Destinations
 

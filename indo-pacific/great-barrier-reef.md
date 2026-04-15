@@ -27,8 +27,8 @@ highlights:
 ## Status
 
 - **Six mass bleaching events since 2016** (2016, 2017, 2020, 2022, 2024, 2025). Consecutive years 2024-2025 — the first time the GBR has bleached in back-to-back years.
-- **2024 AIMS data (GBR Condition Summary 2024–25):** 91% of 719 surveyed reefs showed bleaching. Annual coral decline: Northern GBR −24.8%; Central GBR −13.8%; Southern GBR −30.6% (largest single-year decline on record). Acropora spp. — the key reef-building and recovery species — experienced up to 95% mortality at worst sites.
-- Northern Great Barrier Reef around Lizard Island: largest coral cover decline in 39 years of AIMS monitoring records (from 31.4% to 19.3%).
+- **2024 survey data:** 91% of 719 surveyed reefs showed bleaching. Annual coral decline: Northern GBR −24.8%; Central GBR −13.8%; Southern GBR −30.6% (largest single-year decline on record). Acropora spp. — the key reef-building and recovery species — experienced up to 95% mortality at worst sites.
+- Northern Great Barrier Reef around Lizard Island: largest coral cover decline in 39 years of monitoring records (from 31.4% to 19.3%).
 - **2025 simultaneous bleaching:** Ningaloo Reef (Western Australia) experienced its worst bleaching on record in 2024–2025 — up to 90% bleaching in shallow zones, unprecedented for the west coast. Both of Australia's major reef systems bleached severely in the same season for the first time.
 - Average interval between bleaching events has been cut in half since 1980. Recovery windows are gone. Scientists project 90% of central and southern coral could disappear within 10 years under current warming trajectories.
 - **Coral Sea (Osprey Reef)** fares better — remote oceanic atoll with cooler water. Still world-class for pelagic/wall diving.
@@ -125,12 +125,12 @@ Remote atolls with similar conditions: sheer walls, exceptional visibility, heal
 
 - **GBRMPA** zoning: ~33% in no-take green zones (revised 2004) — measurable biodiversity benefits.
 - **UNESCO World Heritage Site** since 1981. Sustained delisting pressure — political tension between scientists supporting "in danger" listing and government resisting it.
-- **Restoration**: Coral gardening, larval reseeding (AIMS), heat-resistant coral breeding, crown-of-thorns starfish culling. All small-scale relative to the reef's 344,400 km2 area.
+- **Restoration**: Coral gardening, larval reseeding, heat-resistant coral breeding, crown-of-thorns starfish culling. All small-scale relative to the reef's 344,400 km2 area.
 - **Citizen science**: Eye on the Reef (GBRMPA), Reef Check Australia, CoralWatch. Many liveaboards participate.
 
 ## Trip Reports
 
-- **AIMS GBR Condition Summary 2024–25:** Quantitative data confirms −24.8% (north), −13.8% (central), −30.6% (south) annual coral decline in 2024; 91% bleaching prevalence across surveyed reefs. The simultaneous 2025 bleaching of both GBR and Ningaloo described as "historically" significant.
+- **2024–25 survey data:** −24.8% (north), −13.8% (central), −30.6% (south) annual coral decline in 2024; 91% bleaching prevalence across surveyed reefs. Simultaneous 2025 bleaching of both GBR and Ningaloo described as historically significant.
 - **2024 dive reports:** 80–90% bleaching in some areas; water temps reaching 30°C+.
 
 ## Related Destinations

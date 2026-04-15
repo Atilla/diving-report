@@ -27,7 +27,7 @@ highlights:
 ## Status
 
 - Over 800 islands, many unexplored. One of the last frontier diving areas in Southeast Asia. Historically remote with very low tourism and fishing pressure.
-- **Scientific monitoring has collapsed post-coup (Feb 2021)**. International research collaborations suspended, in-country marine scientists displaced. Most information comes from liveaboard operator observations rather than systematic surveys.
+- **Scientific monitoring has collapsed post-coup (Feb 2021)** — international research collaborations suspended, in-country marine scientists displaced; data comes from operator observations rather than systematic surveys.
 - The archipelago sits in the same thermal regime as the northern [Thailand — Andaman North](thailand-andaman-north.md) Similans — comparable 2024 bleaching stress expected. Shallow reefs likely impacted, but deeper structures and current-swept sites probably in reasonable condition. Some operators reported conditions "better than expected" compared to the Similans.
 
 ## Key Dive Sites

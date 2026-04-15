@@ -127,7 +127,7 @@ Billinghurst Cave (30–40m, true cave — cave cert required), Cathedral Cave (
 - **Moray eels**: Mediterranean moray in holes and crevices throughout.
 - **Seahorses**: Short-snouted seahorses in Posidonia beds and sheltered bays. Not guaranteed but regularly reported.
 - **Nudibranchs**: Excellent variety of Mediterranean species for macro photography.
-- **John dory**: Uncommon but prized sighting — recorded at Um El Faroud during a safety stop (WAD, May 2025).
+- **John dory**: Uncommon but prized sighting — recorded at Um El Faroud during a safety stop.
 - **Flying gurnard**: Relatively common around Gozo, particularly at Mgarr ix-Xini.
 - **Eagle rays, stingrays**: Seasonal visitors, more common spring/summer.
 - **Posidonia oceanica meadows**: Significant seagrass beds, particularly along northeast coast and around Comino. Protected under EU Habitats Directive.

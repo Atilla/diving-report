@@ -28,7 +28,7 @@ highlights:
 
 - The lagoon contains **60+ WWII wrecks** from Operation Hailstone (February 17–18, 1944), when the US Navy devastated the Japanese Combined Fleet's forward anchorage. ~40 wrecks are diveable — transports, tankers, submarines, destroyers, aircraft — many still containing extraordinary cargo: tanks, trucks, torpedoes, battleship shells, aircraft parts, medical equipment, sake bottles, and personal effects. A perfectly preserved snapshot of a WWII Japanese naval base caught in a surprise attack.
 - **Wrecks are actively deteriorating.** The ships are 80+ years old in aggressive tropical saltwater. Superstructures collapsing, hull plating thinning, penetration routes becoming unstable. Deterioration has accelerated noticeably since ~2015. **The window to experience these wrecks in their current state is narrowing — universal advice is to go sooner rather than later.**
-- **Oil leaking is a growing environmental threat.** Multiple wrecks still contain tens of thousands of tons of bunker fuel. Small seeps are already occurring (divers regularly report oil sheens above certain wrecks). A catastrophic large-scale release in this enclosed lagoon would be devastating. Remediation has been studied (US Navy, NOAA, Japanese government) but full lagoon-wide cleanup remains unfunded.
+- **Oil leaking is a growing environmental threat.** Multiple wrecks still contain tens of thousands of tons of bunker fuel. Small seeps are already occurring (divers regularly report oil sheens above certain wrecks). A catastrophic large-scale release in this enclosed lagoon would be devastating. Remediation has been studied internationally but full lagoon-wide cleanup remains unfunded.
 - Despite these concerns, no other destination on Earth matches the concentration and variety of diveable WWII wrecks. This is a pilgrimage.
 
 ## Key Dive Sites
@@ -134,7 +134,7 @@ highlights:
 
 ## The Deterioration Timeline
 
-First-time visitors are universally blown away. Repeat visitors (especially with 10+ year gaps) note significant changes. The Fujikawa Maru's mast collapse and Shinkoku Maru's weakening operating theatre are the most-cited examples. Some operators have begun restricting penetration in previously standard areas. **No wreck has become fully undiveable yet**, but the nature of dives is shifting — more external observation, less deep superstructure penetration. Within the next 20–30 years, many of these wrecks may transition from recognizable ships to collapsed debris fields. UNESCO World Heritage status has been discussed but not yet achieved.
+First-time visitors are universally blown away. Repeat visitors (especially with 10+ year gaps) note significant changes. The Fujikawa Maru's mast collapse and Shinkoku Maru's weakening operating theatre are the most prominent examples. Some operators have begun restricting penetration in previously standard areas. **No wreck has become fully undiveable yet**, but the nature of dives is shifting — more external observation, less deep superstructure penetration. Within the next 20–30 years, many of these wrecks may transition from recognizable ships to collapsed debris fields. UNESCO World Heritage status has been discussed but not yet achieved.
 
 ## Related Destinations
 

@@ -30,7 +30,7 @@ highlights:
 
 The Togean Islands National Park is an archipelago in the Gulf of Tomini, Central Sulawesi, encompassing over 56 islands including coral atolls, volcanic islands, and limestone formations. Una Una is a lone volcanic island sitting slightly apart from the rest of the archipelago, and it is the primary dive base within the park.
 
-The reefs here are remarkable for their age and scale. Marine biologists have reportedly dated some reef structures — notably Black Forest — as millions of years old, suggesting the site could be a genetic source point for parts of the Coral Triangle. Whether that claim holds up to rigorous verification or not, the underwater landscape is genuinely unique: enormous barrel sponges, XXL gorgonians that dwarf divers, and hard coral formations that shift from vertical "pine tree" shapes to "cabbage" fields to "mushroom" formations within a single dive.
+The reefs here are remarkable for their age and scale. Some reef structures — notably Black Forest — are estimated to be millions of years old, suggesting the site could be a genetic source point for parts of the Coral Triangle. Regardless, the underwater landscape is genuinely unique: enormous barrel sponges, XXL gorgonians that dwarf divers, and hard coral formations that shift from vertical "pine tree" shapes to "cabbage" fields to "mushroom" formations within a single dive.
 
 Remoteness provides natural protection. Dive boats are essentially absent beyond the single resort operation, population density is extremely low, and industrial pressure is minimal. The 2023-2025 global bleaching event's specific impact on Togean reefs is undocumented, but the deep walls and current-fed sites likely provide some thermal buffering. No systematic reef monitoring exists.
 
@@ -70,7 +70,7 @@ Accessed via a blue-water swim from Satellite. Delicate hard corals in perfect c
 
 #### Black Forest
 
-17m depth. The mythic dive of Una Una. Marine biologists have suggested this reef structure is millions of years old and could be a genetic source point for the Coral Triangle. Underwater, it feels ancient: surreal formations shift from vertical "pine trees" to "cabbage" fields to "mushroom" shapes, like crossing different eras of reef evolution in a single dive. Shallow enough for long bottom times.
+17m depth. The mythic dive of Una Una. Estimated to be millions of years old and potentially a genetic source point for the Coral Triangle. Underwater, it feels ancient: surreal formations shift from vertical "pine trees" to "cabbage" fields to "mushroom" shapes, like crossing different eras of reef evolution in a single dive. Shallow enough for long bottom times.
 
 #### Kingston Wall
 
@@ -91,7 +91,7 @@ Accessed via a blue-water swim from Satellite. Delicate hard corals in perfect c
 - **Macro**: Surprisingly strong for a destination marketed on wide-angle scale. Nudibranchs in good diversity (chromodoris, thuridilla, samla, glossodoris species), harlequin shrimp, and likely more awaiting documentation.
 - **Reef fish**: High diversity consistent with central Coral Triangle location. Sixbar angelfish, anthias clouds, juvenile batfish at safety stops.
 - **Coral and sponge**: The signature attraction. Barrel sponges of prehistoric scale, gorgonians ten times diver height, pristine hard coral fields in rose and plate formations. The reef architecture itself is the main event.
-- **Sharks**: Not prominently reported from the WAD 2025 trip, though the remote location and low fishing pressure suggest healthy populations may exist at less-visited sites.
+- **Sharks**: Not prominently reported, though the remote location and low fishing pressure suggest healthy populations may exist at less-visited sites.
 
 ## Dive Conditions
 
@@ -130,7 +130,7 @@ Threats are low-level but real: occasional blast fishing has been reported in th
 
 ## Trip Reports
 
-- **Jun 2025** — WAD (We Are Divers blog). Four dive days, 11 dives from Sanctum Una Una. Described reefs as "Jurassic Park" scale — prehistoric barrel sponges and XXL gorgonians. Black Forest called "so unique it almost felt illegal to be there." Excellent visibility, 29-30C water, zero other dive boats encountered. Strong macro diversity on dedicated nudibranch dive. Transit chain: Gorontalo airport, 2.5hr drive, 2hr speedboat. Exit via Wakai ferry.
+- **Jun 2025:** Four dive days, 11 dives from Sanctum Una Una. Reefs described as "Jurassic Park" scale — prehistoric barrel sponges and XXL gorgonians. Black Forest called "so unique it almost felt illegal to be there." Excellent visibility, 29-30C water, zero other dive boats encountered. Strong macro diversity on dedicated nudibranch dive. Transit chain: Gorontalo airport, 2.5hr drive, 2hr speedboat. Exit via Wakai ferry.
 
 ## Related Destinations
 
