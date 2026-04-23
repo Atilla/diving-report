@@ -203,6 +203,8 @@ Periodic tasks to keep the wiki consistent:
 
 **No raw sources folder.** Sources are external (NOAA, ScubaBoard, research papers). The wiki links to them. Trip Reports sections and `_meta/sources.md` serve as the provenance layer. Storing copies would bloat the repo and create copyright issues.
 
+**Source attribution lives in git, not in prose.** Destination files contain no inline source names — no "per IFRECOR…", no "Source: TAUCHEN", no "French monitoring data". This keeps the content readable and uncluttered. Attribution is handled by a two-part system instead: `_meta/sources.md` is the bibliography (what was used), and `git blame` / `git log -p` is the line-level audit trail (which lines came from which ingest pass). Each ingest commit has a descriptive message (e.g. "Add French-source pass for Mauritius, Réunion, and Seychelles") and touches only the files it affects, so the combination of commit message + diff gives full provenance without polluting the prose. To trace a claim: `git blame <file>` → commit hash → `git show <hash>` → cross-reference with `_meta/sources.md`.
+
 **No per-claim confidence scores.** The `last_verified` field plus hedging language is sufficient for this wiki's scope (~67 destinations, ~5,000 lines of content).
 
 **No tags beyond frontmatter.** The structured YAML fields already capture the relevant taxonomy. Adding inline tags would duplicate what frontmatter conveys.
